@@ -1,0 +1,5001 @@
+transaction_id,amount,transaction_type,merchant_category,time_of_day
+2001,2185,Online,Travel,Evening
+2002,3159,Online,Groceries,Afternoon
+2003,1088,Online,Clothing,Morning
+2004,3561,ATM Withdrawal,Groceries,Night
+2005,2362,ATM Withdrawal,Cash,Night
+2006,555,ATM Withdrawal,Travel,Afternoon
+2007,1205,Online,Groceries,Morning
+2008,2079,POS,Clothing,Evening
+2009,3368,Online,Dining,Morning
+2010,2448,ATM Withdrawal,Electronics,Night
+2011,626,Bank Transfer,Travel,Morning
+2012,4254,ATM Withdrawal,Travel,Morning
+2013,3353,POS,Clothing,Night
+2014,1821,Online,Dining,Night
+2015,181,Bank Transfer,Dining,Evening
+2016,4152,Bank Transfer,Electronics,Morning
+2017,635,POS,Dining,Night
+2018,4073,Online,Clothing,Afternoon
+2019,2264,Bank Transfer,Cash,Night
+2020,462,ATM Withdrawal,Dining,Evening
+2021,1428,POS,Cash,Evening
+2022,763,Bank Transfer,Cash,Afternoon
+2023,3382,POS,Clothing,Evening
+2024,2733,Online,Travel,Morning
+2025,3020,Online,Travel,Evening
+2026,2921,Online,Travel,Afternoon
+2027,1235,ATM Withdrawal,Groceries,Evening
+2028,177,Bank Transfer,Travel,Afternoon
+2029,3695,Online,Clothing,Evening
+2030,95,ATM Withdrawal,Electronics,Night
+2031,1687,Online,Dining,Afternoon
+2032,1992,Online,Travel,Evening
+2033,4954,Bank Transfer,Groceries,Morning
+2034,1496,ATM Withdrawal,Cash,Afternoon
+2035,451,Online,Groceries,Afternoon
+2036,280,ATM Withdrawal,Clothing,Evening
+2037,353,ATM Withdrawal,Electronics,Night
+2038,1216,Online,Travel,Night
+2039,3091,Online,Travel,Evening
+2040,1267,POS,Groceries,Evening
+2041,2301,Bank Transfer,Clothing,Morning
+2042,1542,Online,Groceries,Evening
+2043,3432,POS,Groceries,Afternoon
+2044,4372,Bank Transfer,Electronics,Evening
+2045,1663,Online,Clothing,Morning
+2046,4998,ATM Withdrawal,Electronics,Evening
+2047,248,Bank Transfer,Clothing,Evening
+2048,924,ATM Withdrawal,Travel,Afternoon
+2049,1448,POS,Dining,Night
+2050,3026,Online,Cash,Evening
+2051,1470,POS,Dining,Morning
+2052,3089,Online,Clothing,Evening
+2053,2268,Online,Dining,Evening
+2054,376,ATM Withdrawal,Groceries,Afternoon
+2055,3001,POS,Travel,Night
+2056,3751,ATM Withdrawal,Cash,Night
+2057,95,ATM Withdrawal,Cash,Night
+2058,2503,ATM Withdrawal,Cash,Evening
+2059,4725,POS,Travel,Afternoon
+2060,141,Online,Dining,Afternoon
+2061,913,Online,Cash,Evening
+2062,3466,POS,Cash,Afternoon
+2063,1231,Online,Clothing,Night
+2064,1773,POS,Groceries,Afternoon
+2065,2814,POS,Clothing,Evening
+2066,1236,Online,Dining,Evening
+2067,1294,Bank Transfer,Travel,Morning
+2068,699,ATM Withdrawal,Travel,Morning
+2069,4792,POS,Clothing,Afternoon
+2070,4891,POS,Electronics,Afternoon
+2071,4445,Bank Transfer,Clothing,Evening
+2072,4517,POS,Electronics,Morning
+2073,2006,POS,Clothing,Morning
+2074,4391,Online,Electronics,Night
+2075,1119,Online,Electronics,Night
+2076,4955,Bank Transfer,Cash,Evening
+2077,439,POS,Cash,Evening
+2078,4136,ATM Withdrawal,Electronics,Evening
+2079,3791,Online,Electronics,Evening
+2080,612,ATM Withdrawal,Groceries,Morning
+2081,449,ATM Withdrawal,Electronics,Evening
+2082,994,Bank Transfer,Cash,Evening
+2083,1928,Bank Transfer,Electronics,Morning
+2084,4517,POS,Travel,Night
+2085,537,Bank Transfer,Groceries,Evening
+2086,4415,Online,Electronics,Night
+2087,3006,POS,Cash,Morning
+2088,3477,POS,Cash,Night
+2089,1371,ATM Withdrawal,Dining,Morning
+2090,713,ATM Withdrawal,Cash,Evening
+2091,672,ATM Withdrawal,Groceries,Night
+2092,374,POS,Cash,Evening
+2093,932,Bank Transfer,Travel,Afternoon
+2094,3866,Bank Transfer,Clothing,Afternoon
+2095,185,Bank Transfer,Travel,Night
+2096,945,POS,Travel,Morning
+2097,391,POS,Groceries,Night
+2098,315,POS,Groceries,Morning
+2099,4707,POS,Dining,Afternoon
+2100,2400,POS,Cash,Morning
+2101,2213,Bank Transfer,Dining,Afternoon
+2102,4817,POS,Groceries,Night
+2103,1475,Bank Transfer,Cash,Evening
+2104,3281,POS,Groceries,Evening
+2105,412,Bank Transfer,Groceries,Evening
+2106,4719,Online,Clothing,Morning
+2107,2680,Online,Travel,Evening
+2108,1811,Bank Transfer,Dining,Morning
+2109,2660,Online,Dining,Evening
+2110,186,Online,Electronics,Morning
+2111,4554,Bank Transfer,Clothing,Morning
+2112,752,POS,Groceries,Afternoon
+2113,2358,POS,Groceries,Afternoon
+2114,4412,Bank Transfer,Clothing,Night
+2115,760,ATM Withdrawal,Cash,Afternoon
+2116,878,ATM Withdrawal,Dining,Morning
+2117,4072,Online,Groceries,Afternoon
+2118,3977,ATM Withdrawal,Electronics,Afternoon
+2119,223,Online,Dining,Afternoon
+2120,1627,POS,Travel,Morning
+2121,2540,Bank Transfer,Clothing,Morning
+2122,3343,POS,Dining,Night
+2123,1607,Bank Transfer,Travel,Afternoon
+2124,521,ATM Withdrawal,Electronics,Afternoon
+2125,262,POS,Cash,Morning
+2126,4143,POS,Clothing,Night
+2127,638,Online,Cash,Night
+2128,3486,Bank Transfer,Groceries,Morning
+2129,996,ATM Withdrawal,Cash,Afternoon
+2130,1735,POS,Groceries,Night
+2131,2103,Bank Transfer,Travel,Night
+2132,1711,ATM Withdrawal,Dining,Afternoon
+2133,314,POS,Electronics,Night
+2134,4088,Bank Transfer,Travel,Afternoon
+2135,2290,Online,Electronics,Night
+2136,4350,POS,Cash,Night
+2137,2817,Bank Transfer,Electronics,Morning
+2138,2896,ATM Withdrawal,Cash,Night
+2139,3464,ATM Withdrawal,Electronics,Afternoon
+2140,1034,Online,Clothing,Night
+2141,4322,POS,Travel,Morning
+2142,2985,Online,Clothing,Night
+2143,516,Bank Transfer,Dining,Evening
+2144,4866,ATM Withdrawal,Dining,Afternoon
+2145,2961,Online,Groceries,Evening
+2146,1063,POS,Groceries,Morning
+2147,2684,Bank Transfer,Groceries,Evening
+2148,2577,POS,Dining,Night
+2149,1914,Online,Electronics,Afternoon
+2150,4380,ATM Withdrawal,Cash,Evening
+2151,4597,ATM Withdrawal,Electronics,Night
+2152,4932,Online,Travel,Evening
+2153,2904,POS,Dining,Night
+2154,1110,POS,Cash,Night
+2155,3671,POS,Cash,Evening
+2156,1646,POS,Cash,Morning
+2157,1465,ATM Withdrawal,Groceries,Afternoon
+2158,3623,POS,Cash,Morning
+2159,48,Online,Cash,Evening
+2160,3094,Online,Dining,Night
+2161,4249,Online,Electronics,Evening
+2162,2741,Online,Electronics,Night
+2163,2425,POS,Clothing,Night
+2164,768,ATM Withdrawal,Clothing,Morning
+2165,4352,Bank Transfer,Travel,Morning
+2166,3126,POS,Dining,Evening
+2167,774,Bank Transfer,Clothing,Afternoon
+2168,2432,ATM Withdrawal,Clothing,Morning
+2169,1324,POS,Dining,Night
+2170,4312,Bank Transfer,Electronics,Evening
+2171,4005,ATM Withdrawal,Travel,Evening
+2172,4039,Bank Transfer,Travel,Afternoon
+2173,3703,Online,Travel,Evening
+2174,3195,Online,Clothing,Morning
+2175,2876,ATM Withdrawal,Electronics,Night
+2176,1327,ATM Withdrawal,Travel,Evening
+2177,710,Bank Transfer,Dining,Evening
+2178,4393,ATM Withdrawal,Travel,Night
+2179,2211,Online,Groceries,Evening
+2180,1603,Online,Electronics,Evening
+2181,3997,POS,Groceries,Afternoon
+2182,4955,Bank Transfer,Electronics,Morning
+2183,4155,ATM Withdrawal,Cash,Evening
+2184,1240,ATM Withdrawal,Dining,Morning
+2185,2622,ATM Withdrawal,Cash,Afternoon
+2186,3147,Bank Transfer,Clothing,Morning
+2187,1918,Online,Clothing,Afternoon
+2188,1800,ATM Withdrawal,Cash,Morning
+2189,2938,ATM Withdrawal,Electronics,Morning
+2190,1098,Online,Travel,Evening
+2191,2391,ATM Withdrawal,Groceries,Morning
+2192,4137,POS,Dining,Evening
+2193,4973,Online,Travel,Evening
+2194,2955,Online,Clothing,Morning
+2195,3579,Online,Travel,Evening
+2196,1175,POS,Cash,Morning
+2197,610,Online,Cash,Night
+2198,2035,Bank Transfer,Groceries,Evening
+2199,1594,Bank Transfer,Clothing,Night
+2200,997,Bank Transfer,Electronics,Night
+2201,1975,Online,Dining,Evening
+2202,1449,Online,Cash,Afternoon
+2203,4625,Online,Dining,Afternoon
+2204,878,POS,Clothing,Night
+2205,2073,Bank Transfer,Electronics,Night
+2206,1139,ATM Withdrawal,Cash,Morning
+2207,4388,ATM Withdrawal,Groceries,Night
+2208,4466,Online,Dining,Evening
+2209,3739,POS,Clothing,Afternoon
+2210,1944,Online,Dining,Afternoon
+2211,1086,ATM Withdrawal,Electronics,Afternoon
+2212,1649,Bank Transfer,Groceries,Evening
+2213,1402,ATM Withdrawal,Electronics,Morning
+2214,40,Bank Transfer,Cash,Evening
+2215,713,Bank Transfer,Travel,Evening
+2216,878,POS,Electronics,Afternoon
+2217,242,ATM Withdrawal,Electronics,Evening
+2218,960,Online,Dining,Night
+2219,68,POS,Electronics,Evening
+2220,2828,Bank Transfer,Clothing,Afternoon
+2221,3610,ATM Withdrawal,Cash,Afternoon
+2222,3159,Online,Dining,Evening
+2223,311,POS,Dining,Night
+2224,2860,Online,Travel,Night
+2225,2954,ATM Withdrawal,Cash,Afternoon
+2226,1933,Online,Clothing,Night
+2227,326,POS,Cash,Night
+2228,1898,Online,Electronics,Morning
+2229,2725,ATM Withdrawal,Travel,Morning
+2230,4795,POS,Clothing,Night
+2231,1891,Bank Transfer,Travel,Night
+2232,3908,POS,Cash,Morning
+2233,4123,ATM Withdrawal,Groceries,Morning
+2234,1188,Online,Cash,Morning
+2235,3865,Bank Transfer,Electronics,Afternoon
+2236,4883,Bank Transfer,Travel,Afternoon
+2237,4465,Online,Groceries,Morning
+2238,341,ATM Withdrawal,Electronics,Morning
+2239,537,POS,Travel,Morning
+2240,2069,ATM Withdrawal,Travel,Afternoon
+2241,1108,Bank Transfer,Cash,Afternoon
+2242,221,POS,Travel,Night
+2243,1724,POS,Travel,Evening
+2244,2698,Online,Dining,Night
+2245,2340,ATM Withdrawal,Travel,Evening
+2246,3276,POS,Cash,Evening
+2247,1042,Online,Dining,Evening
+2248,1342,ATM Withdrawal,Dining,Night
+2249,1850,Bank Transfer,Groceries,Afternoon
+2250,4696,Bank Transfer,Electronics,Afternoon
+2251,2148,ATM Withdrawal,Dining,Afternoon
+2252,4561,POS,Clothing,Afternoon
+2253,4101,POS,Dining,Night
+2254,453,Bank Transfer,Clothing,Morning
+2255,4184,Bank Transfer,Groceries,Evening
+2256,1508,POS,Clothing,Afternoon
+2257,936,ATM Withdrawal,Groceries,Afternoon
+2258,632,Bank Transfer,Groceries,Night
+2259,1489,POS,Groceries,Evening
+2260,3047,ATM Withdrawal,Clothing,Afternoon
+2261,3395,Online,Clothing,Morning
+2262,3328,ATM Withdrawal,Groceries,Afternoon
+2263,243,POS,Groceries,Evening
+2264,1627,ATM Withdrawal,Electronics,Morning
+2265,2701,POS,Groceries,Night
+2266,2040,Bank Transfer,Travel,Morning
+2267,396,Online,Electronics,Evening
+2268,1644,Bank Transfer,Electronics,Evening
+2269,4143,Bank Transfer,Electronics,Morning
+2270,1194,POS,Travel,Afternoon
+2271,1977,POS,Electronics,Evening
+2272,250,POS,Electronics,Morning
+2273,571,POS,Clothing,Evening
+2274,2009,Bank Transfer,Cash,Afternoon
+2275,4911,POS,Clothing,Afternoon
+2276,1939,POS,Groceries,Morning
+2277,4910,Bank Transfer,Groceries,Night
+2278,2789,Online,Dining,Night
+2279,1685,Online,Cash,Afternoon
+2280,2525,ATM Withdrawal,Travel,Night
+2281,1687,Bank Transfer,Clothing,Afternoon
+2282,4151,POS,Groceries,Night
+2283,3756,ATM Withdrawal,Travel,Afternoon
+2284,3366,Online,Electronics,Evening
+2285,1661,Online,Travel,Morning
+2286,4187,Bank Transfer,Clothing,Morning
+2287,3851,POS,Cash,Night
+2288,2451,POS,Dining,Morning
+2289,4895,ATM Withdrawal,Clothing,Night
+2290,604,Online,Cash,Afternoon
+2291,2622,ATM Withdrawal,Groceries,Evening
+2292,4106,ATM Withdrawal,Groceries,Morning
+2293,1506,ATM Withdrawal,Travel,Evening
+2294,3565,POS,Clothing,Morning
+2295,4871,Online,Groceries,Afternoon
+2296,4776,ATM Withdrawal,Electronics,Morning
+2297,3368,Online,Electronics,Morning
+2298,1611,Online,Dining,Afternoon
+2299,924,ATM Withdrawal,Travel,Night
+2300,1854,ATM Withdrawal,Groceries,Night
+2301,2005,Bank Transfer,Dining,Afternoon
+2302,104,POS,Electronics,Night
+2303,502,Online,Dining,Morning
+2304,3079,ATM Withdrawal,Dining,Evening
+2305,159,ATM Withdrawal,Groceries,Afternoon
+2306,1056,Online,Groceries,Morning
+2307,2813,ATM Withdrawal,Groceries,Afternoon
+2308,408,Bank Transfer,Travel,Evening
+2309,4960,Online,Dining,Morning
+2310,4486,ATM Withdrawal,Dining,Morning
+2311,561,Online,Travel,Evening
+2312,304,ATM Withdrawal,Electronics,Evening
+2313,1153,ATM Withdrawal,Clothing,Night
+2314,465,POS,Electronics,Morning
+2315,1563,Online,Travel,Evening
+2316,178,POS,Dining,Evening
+2317,4815,ATM Withdrawal,Dining,Morning
+2318,1956,Online,Groceries,Night
+2319,263,Online,Groceries,Afternoon
+2320,2386,Bank Transfer,Dining,Night
+2321,1330,Bank Transfer,Dining,Evening
+2322,2893,ATM Withdrawal,Cash,Afternoon
+2323,3617,ATM Withdrawal,Groceries,Afternoon
+2324,2135,ATM Withdrawal,Groceries,Night
+2325,3506,ATM Withdrawal,Electronics,Afternoon
+2326,2250,Bank Transfer,Dining,Evening
+2327,410,Online,Dining,Morning
+2328,2166,POS,Travel,Morning
+2329,2386,Online,Electronics,Morning
+2330,372,Online,Clothing,Night
+2331,3948,Bank Transfer,Clothing,Morning
+2332,3861,Online,Clothing,Morning
+2333,3422,Online,Cash,Morning
+2334,2316,ATM Withdrawal,Groceries,Afternoon
+2335,94,POS,Clothing,Afternoon
+2336,1834,Online,Travel,Afternoon
+2337,3895,Online,Groceries,Evening
+2338,317,POS,Groceries,Evening
+2339,4367,ATM Withdrawal,Clothing,Evening
+2340,1931,Bank Transfer,Groceries,Morning
+2341,640,Bank Transfer,Electronics,Afternoon
+2342,4785,Online,Electronics,Evening
+2343,4970,ATM Withdrawal,Clothing,Night
+2344,2381,Bank Transfer,Travel,Afternoon
+2345,3310,Bank Transfer,Groceries,Morning
+2346,3677,Bank Transfer,Dining,Afternoon
+2347,736,Bank Transfer,Clothing,Morning
+2348,1658,Bank Transfer,Cash,Evening
+2349,4322,Online,Groceries,Morning
+2350,1279,Bank Transfer,Clothing,Morning
+2351,4553,Online,Clothing,Night
+2352,328,POS,Travel,Afternoon
+2353,3485,POS,Dining,Morning
+2354,2788,ATM Withdrawal,Groceries,Night
+2355,3068,Online,Clothing,Night
+2356,4144,ATM Withdrawal,Clothing,Night
+2357,1612,POS,Groceries,Evening
+2358,2266,POS,Clothing,Evening
+2359,839,POS,Clothing,Morning
+2360,865,POS,Clothing,Afternoon
+2361,2658,Bank Transfer,Electronics,Evening
+2362,1868,POS,Electronics,Evening
+2363,1112,Bank Transfer,Dining,Morning
+2364,2491,Bank Transfer,Travel,Morning
+2365,1830,ATM Withdrawal,Groceries,Evening
+2366,4947,Bank Transfer,Travel,Morning
+2367,2089,ATM Withdrawal,Travel,Night
+2368,3168,Bank Transfer,Electronics,Morning
+2369,2450,Bank Transfer,Dining,Night
+2370,3694,POS,Travel,Evening
+2371,1265,Online,Travel,Afternoon
+2372,2967,Bank Transfer,Clothing,Night
+2373,3661,Online,Groceries,Afternoon
+2374,2249,Online,Dining,Evening
+2375,1949,Online,Groceries,Morning
+2376,279,Bank Transfer,Electronics,Night
+2377,4840,Online,Travel,Night
+2378,4074,Bank Transfer,Travel,Evening
+2379,4989,POS,Cash,Evening
+2380,3785,Bank Transfer,Groceries,Morning
+2381,1122,ATM Withdrawal,Electronics,Afternoon
+2382,658,POS,Cash,Night
+2383,1189,Online,Cash,Afternoon
+2384,2152,Online,Clothing,Night
+2385,26,ATM Withdrawal,Cash,Night
+2386,126,POS,Cash,Morning
+2387,1555,ATM Withdrawal,Clothing,Night
+2388,3161,Online,Travel,Night
+2389,2703,Bank Transfer,Travel,Evening
+2390,4099,Online,Dining,Morning
+2391,1286,ATM Withdrawal,Cash,Evening
+2392,3250,Bank Transfer,Groceries,Night
+2393,4952,Bank Transfer,Travel,Morning
+2394,3798,Online,Electronics,Night
+2395,381,Bank Transfer,Groceries,Morning
+2396,2817,POS,Dining,Afternoon
+2397,165,Online,Cash,Afternoon
+2398,2671,Online,Clothing,Morning
+2399,474,POS,Dining,Night
+2400,4888,Online,Groceries,Morning
+2401,4909,ATM Withdrawal,Clothing,Night
+2402,4325,ATM Withdrawal,Electronics,Afternoon
+2403,1783,Online,Clothing,Night
+2404,126,POS,Clothing,Evening
+2405,2113,Bank Transfer,Electronics,Afternoon
+2406,1384,POS,Travel,Evening
+2407,3213,ATM Withdrawal,Travel,Afternoon
+2408,4413,Online,Clothing,Afternoon
+2409,3556,POS,Clothing,Evening
+2410,3987,Bank Transfer,Dining,Morning
+2411,4327,Bank Transfer,Travel,Night
+2412,1206,Bank Transfer,Electronics,Afternoon
+2413,3421,Bank Transfer,Cash,Night
+2414,806,POS,Cash,Afternoon
+2415,3902,Bank Transfer,Clothing,Night
+2416,160,ATM Withdrawal,Clothing,Afternoon
+2417,3259,Bank Transfer,Cash,Morning
+2418,121,ATM Withdrawal,Dining,Afternoon
+2419,692,POS,Dining,Morning
+2420,1171,ATM Withdrawal,Dining,Afternoon
+2421,2389,POS,Groceries,Night
+2422,4998,Bank Transfer,Electronics,Evening
+2423,170,Online,Groceries,Afternoon
+2424,1435,ATM Withdrawal,Clothing,Afternoon
+2425,3671,ATM Withdrawal,Dining,Morning
+2426,287,Online,Dining,Night
+2427,3401,POS,Cash,Morning
+2428,1566,POS,Cash,Night
+2429,4602,Bank Transfer,Dining,Night
+2430,1925,ATM Withdrawal,Travel,Morning
+2431,4760,POS,Cash,Evening
+2432,3117,Bank Transfer,Electronics,Night
+2433,312,POS,Groceries,Evening
+2434,4543,Online,Electronics,Morning
+2435,2783,Online,Cash,Evening
+2436,4291,Online,Dining,Night
+2437,3255,Bank Transfer,Clothing,Morning
+2438,4778,ATM Withdrawal,Travel,Evening
+2439,1010,Online,Cash,Morning
+2440,3844,Online,Electronics,Morning
+2441,4016,POS,Clothing,Evening
+2442,4788,Online,Cash,Night
+2443,1728,ATM Withdrawal,Dining,Night
+2444,3840,Bank Transfer,Dining,Night
+2445,3191,Online,Dining,Night
+2446,2892,Bank Transfer,Dining,Afternoon
+2447,1008,Bank Transfer,Cash,Morning
+2448,294,ATM Withdrawal,Travel,Morning
+2449,430,POS,Travel,Afternoon
+2450,2170,POS,Electronics,Morning
+2451,3075,Bank Transfer,Cash,Morning
+2452,2285,Online,Dining,Evening
+2453,1504,Bank Transfer,Travel,Afternoon
+2454,3894,POS,Cash,Morning
+2455,4633,Online,Clothing,Morning
+2456,2553,POS,Travel,Afternoon
+2457,4136,ATM Withdrawal,Travel,Afternoon
+2458,4267,POS,Electronics,Evening
+2459,1851,Online,Travel,Evening
+2460,4810,Online,Clothing,Night
+2461,731,Bank Transfer,Dining,Night
+2462,1411,Online,Groceries,Evening
+2463,455,ATM Withdrawal,Electronics,Morning
+2464,2801,POS,Clothing,Afternoon
+2465,4532,Bank Transfer,Electronics,Evening
+2466,3777,Bank Transfer,Cash,Night
+2467,2561,Online,Dining,Afternoon
+2468,1977,ATM Withdrawal,Travel,Night
+2469,3898,Bank Transfer,Cash,Morning
+2470,4826,ATM Withdrawal,Travel,Morning
+2471,2741,ATM Withdrawal,Clothing,Night
+2472,2639,POS,Dining,Afternoon
+2473,1974,POS,Groceries,Night
+2474,1067,POS,Groceries,Afternoon
+2475,4841,ATM Withdrawal,Travel,Evening
+2476,767,POS,Cash,Night
+2477,1805,Bank Transfer,Dining,Night
+2478,1653,Bank Transfer,Dining,Afternoon
+2479,4859,Online,Clothing,Evening
+2480,33,ATM Withdrawal,Cash,Afternoon
+2481,1249,POS,Groceries,Afternoon
+2482,4160,Bank Transfer,Clothing,Night
+2483,3107,ATM Withdrawal,Electronics,Night
+2484,1314,ATM Withdrawal,Dining,Afternoon
+2485,2552,POS,Groceries,Morning
+2486,3722,ATM Withdrawal,Clothing,Morning
+2487,3965,POS,Travel,Morning
+2488,4539,POS,Electronics,Night
+2489,4313,POS,Clothing,Night
+2490,4238,ATM Withdrawal,Travel,Evening
+2491,1315,ATM Withdrawal,Groceries,Night
+2492,4474,POS,Groceries,Evening
+2493,3184,ATM Withdrawal,Electronics,Night
+2494,3638,POS,Travel,Morning
+2495,791,Online,Dining,Morning
+2496,576,ATM Withdrawal,Groceries,Afternoon
+2497,4632,ATM Withdrawal,Cash,Afternoon
+2498,4142,Online,Dining,Evening
+2499,4283,Online,Dining,Evening
+2500,648,Online,Clothing,Afternoon
+2501,3710,POS,Clothing,Evening
+2502,4177,POS,Groceries,Night
+2503,2409,Bank Transfer,Dining,Morning
+2504,2680,Online,Clothing,Afternoon
+2505,1182,Bank Transfer,Travel,Afternoon
+2506,1730,POS,Travel,Night
+2507,114,ATM Withdrawal,Travel,Evening
+2508,1692,Online,Travel,Afternoon
+2509,4326,ATM Withdrawal,Dining,Afternoon
+2510,1859,POS,Travel,Night
+2511,872,Online,Dining,Morning
+2512,3455,Bank Transfer,Groceries,Afternoon
+2513,2575,Bank Transfer,Groceries,Afternoon
+2514,308,POS,Travel,Night
+2515,2918,ATM Withdrawal,Travel,Afternoon
+2516,4147,POS,Travel,Afternoon
+2517,780,ATM Withdrawal,Groceries,Morning
+2518,2549,POS,Clothing,Afternoon
+2519,1472,Bank Transfer,Groceries,Night
+2520,3864,ATM Withdrawal,Travel,Morning
+2521,3128,POS,Clothing,Morning
+2522,2142,Online,Clothing,Morning
+2523,1719,Bank Transfer,Electronics,Evening
+2524,1000,Bank Transfer,Dining,Night
+2525,720,Online,Travel,Evening
+2526,4314,POS,Dining,Afternoon
+2527,48,ATM Withdrawal,Electronics,Morning
+2528,1285,Bank Transfer,Dining,Evening
+2529,4867,POS,Travel,Afternoon
+2530,1446,Online,Electronics,Evening
+2531,3003,ATM Withdrawal,Dining,Morning
+2532,1479,POS,Groceries,Afternoon
+2533,2109,POS,Clothing,Morning
+2534,383,Bank Transfer,Electronics,Morning
+2535,4261,Bank Transfer,Groceries,Evening
+2536,4035,ATM Withdrawal,Travel,Night
+2537,1123,POS,Clothing,Afternoon
+2538,2736,Online,Electronics,Afternoon
+2539,2408,Online,Clothing,Night
+2540,3244,ATM Withdrawal,Cash,Afternoon
+2541,1275,POS,Cash,Evening
+2542,3133,Bank Transfer,Electronics,Afternoon
+2543,663,POS,Electronics,Evening
+2544,4168,Bank Transfer,Dining,Afternoon
+2545,518,Online,Clothing,Evening
+2546,2349,ATM Withdrawal,Cash,Night
+2547,3172,ATM Withdrawal,Cash,Afternoon
+2548,1697,ATM Withdrawal,Clothing,Evening
+2549,1398,Bank Transfer,Cash,Morning
+2550,2207,Online,Groceries,Morning
+2551,3921,Online,Cash,Morning
+2552,2938,ATM Withdrawal,Cash,Afternoon
+2553,4809,ATM Withdrawal,Travel,Evening
+2554,525,Bank Transfer,Groceries,Morning
+2555,3668,Bank Transfer,Dining,Afternoon
+2556,1843,POS,Electronics,Evening
+2557,39,Bank Transfer,Cash,Morning
+2558,3224,POS,Dining,Morning
+2559,335,ATM Withdrawal,Dining,Afternoon
+2560,3776,Online,Groceries,Evening
+2561,4121,Bank Transfer,Electronics,Afternoon
+2562,120,Online,Travel,Morning
+2563,116,Bank Transfer,Dining,Afternoon
+2564,2436,Bank Transfer,Travel,Afternoon
+2565,4388,POS,Electronics,Morning
+2566,4374,Bank Transfer,Electronics,Morning
+2567,2541,ATM Withdrawal,Groceries,Evening
+2568,3154,Online,Clothing,Evening
+2569,4703,Bank Transfer,Cash,Morning
+2570,808,Online,Groceries,Morning
+2571,2447,Online,Travel,Night
+2572,2021,Online,Groceries,Night
+2573,435,Bank Transfer,Electronics,Evening
+2574,3054,POS,Dining,Afternoon
+2575,3298,Online,Cash,Morning
+2576,2924,Online,Cash,Morning
+2577,1249,Bank Transfer,Clothing,Afternoon
+2578,3401,Bank Transfer,Electronics,Evening
+2579,4223,ATM Withdrawal,Cash,Night
+2580,4007,ATM Withdrawal,Cash,Evening
+2581,3016,POS,Dining,Afternoon
+2582,3049,POS,Travel,Morning
+2583,608,POS,Travel,Night
+2584,2097,POS,Travel,Afternoon
+2585,1194,Online,Groceries,Morning
+2586,2760,Bank Transfer,Travel,Evening
+2587,2594,ATM Withdrawal,Travel,Night
+2588,4769,Online,Groceries,Morning
+2589,3523,Bank Transfer,Dining,Morning
+2590,4755,Bank Transfer,Electronics,Morning
+2591,4064,Online,Cash,Morning
+2592,4393,Online,Clothing,Morning
+2593,3946,ATM Withdrawal,Cash,Evening
+2594,1709,POS,Travel,Afternoon
+2595,4517,POS,Travel,Night
+2596,2585,ATM Withdrawal,Cash,Evening
+2597,145,ATM Withdrawal,Cash,Night
+2598,2035,POS,Travel,Morning
+2599,3545,Online,Groceries,Afternoon
+2600,4864,POS,Groceries,Morning
+2601,2900,Bank Transfer,Groceries,Evening
+2602,2767,Bank Transfer,Clothing,Evening
+2603,3783,ATM Withdrawal,Electronics,Night
+2604,390,POS,Travel,Morning
+2605,1538,POS,Dining,Morning
+2606,4911,Bank Transfer,Cash,Afternoon
+2607,4581,POS,Cash,Afternoon
+2608,3638,ATM Withdrawal,Travel,Morning
+2609,858,ATM Withdrawal,Travel,Night
+2610,4137,Bank Transfer,Travel,Afternoon
+2611,1937,POS,Cash,Morning
+2612,2175,POS,Travel,Morning
+2613,4296,Bank Transfer,Cash,Morning
+2614,2131,Online,Electronics,Evening
+2615,4728,Online,Dining,Night
+2616,2928,POS,Groceries,Morning
+2617,4691,ATM Withdrawal,Dining,Morning
+2618,482,Online,Travel,Morning
+2619,1797,POS,Dining,Afternoon
+2620,123,Online,Travel,Morning
+2621,1346,Bank Transfer,Dining,Evening
+2622,348,Online,Clothing,Evening
+2623,2295,Online,Dining,Night
+2624,1206,Bank Transfer,Groceries,Morning
+2625,88,ATM Withdrawal,Groceries,Morning
+2626,4569,POS,Dining,Morning
+2627,2662,ATM Withdrawal,Cash,Evening
+2628,4667,ATM Withdrawal,Cash,Afternoon
+2629,4390,Online,Cash,Afternoon
+2630,4328,POS,Dining,Morning
+2631,2650,Online,Cash,Afternoon
+2632,1266,Bank Transfer,Electronics,Night
+2633,837,ATM Withdrawal,Dining,Evening
+2634,2728,ATM Withdrawal,Groceries,Morning
+2635,4933,Bank Transfer,Cash,Afternoon
+2636,2820,POS,Clothing,Morning
+2637,3395,ATM Withdrawal,Cash,Morning
+2638,1975,ATM Withdrawal,Groceries,Evening
+2639,2437,POS,Electronics,Evening
+2640,2851,Online,Dining,Afternoon
+2641,623,Bank Transfer,Cash,Evening
+2642,572,POS,Clothing,Night
+2643,4836,Bank Transfer,Groceries,Morning
+2644,4362,Bank Transfer,Clothing,Evening
+2645,194,ATM Withdrawal,Travel,Afternoon
+2646,2202,POS,Groceries,Afternoon
+2647,4075,Bank Transfer,Travel,Afternoon
+2648,255,Online,Clothing,Night
+2649,4096,Bank Transfer,Dining,Evening
+2650,2244,ATM Withdrawal,Dining,Evening
+2651,875,Online,Dining,Night
+2652,2097,Online,Travel,Evening
+2653,610,POS,Dining,Evening
+2654,3043,Online,Electronics,Evening
+2655,2066,POS,Groceries,Night
+2656,2141,POS,Groceries,Night
+2657,542,Online,Clothing,Afternoon
+2658,2052,POS,Cash,Night
+2659,367,POS,Travel,Night
+2660,387,Online,Groceries,Afternoon
+2661,2229,ATM Withdrawal,Travel,Night
+2662,4498,Bank Transfer,Clothing,Evening
+2663,4807,POS,Dining,Morning
+2664,3317,POS,Cash,Afternoon
+2665,2606,Online,Clothing,Morning
+2666,793,Bank Transfer,Electronics,Morning
+2667,2389,Bank Transfer,Dining,Afternoon
+2668,3613,POS,Dining,Morning
+2669,992,Online,Dining,Morning
+2670,3952,ATM Withdrawal,Clothing,Afternoon
+2671,2600,Bank Transfer,Electronics,Afternoon
+2672,1052,ATM Withdrawal,Cash,Evening
+2673,2548,Online,Travel,Afternoon
+2674,871,ATM Withdrawal,Clothing,Night
+2675,1886,Online,Groceries,Morning
+2676,1845,POS,Groceries,Afternoon
+2677,4218,ATM Withdrawal,Clothing,Evening
+2678,3536,POS,Travel,Afternoon
+2679,1695,POS,Groceries,Morning
+2680,3411,Online,Travel,Afternoon
+2681,1632,ATM Withdrawal,Dining,Morning
+2682,4967,Bank Transfer,Clothing,Afternoon
+2683,2667,ATM Withdrawal,Dining,Evening
+2684,1942,Bank Transfer,Groceries,Night
+2685,517,POS,Travel,Evening
+2686,4571,POS,Dining,Afternoon
+2687,3488,Online,Groceries,Morning
+2688,2666,Bank Transfer,Electronics,Evening
+2689,1131,ATM Withdrawal,Dining,Night
+2690,299,Online,Electronics,Night
+2691,2839,Online,Electronics,Morning
+2692,2219,Online,Cash,Afternoon
+2693,4822,ATM Withdrawal,Groceries,Evening
+2694,1410,Online,Clothing,Evening
+2695,576,ATM Withdrawal,Travel,Morning
+2696,1483,Online,Groceries,Evening
+2697,1997,Bank Transfer,Cash,Morning
+2698,3797,POS,Cash,Morning
+2699,3875,Bank Transfer,Dining,Afternoon
+2700,3270,Bank Transfer,Travel,Morning
+2701,3557,Online,Cash,Evening
+2702,3261,Bank Transfer,Clothing,Morning
+2703,1726,Bank Transfer,Groceries,Evening
+2704,1022,Bank Transfer,Clothing,Morning
+2705,1320,Online,Dining,Afternoon
+2706,4580,ATM Withdrawal,Groceries,Afternoon
+2707,627,POS,Dining,Morning
+2708,4746,POS,Travel,Morning
+2709,4267,ATM Withdrawal,Travel,Morning
+2710,1992,ATM Withdrawal,Clothing,Afternoon
+2711,2238,Bank Transfer,Clothing,Night
+2712,4830,POS,Travel,Morning
+2713,478,ATM Withdrawal,Electronics,Night
+2714,4126,Bank Transfer,Travel,Morning
+2715,4365,POS,Groceries,Evening
+2716,1149,Online,Dining,Afternoon
+2717,1446,Online,Travel,Night
+2718,546,POS,Travel,Night
+2719,961,POS,Cash,Afternoon
+2720,2823,Online,Dining,Night
+2721,3016,Online,Cash,Morning
+2722,4004,POS,Dining,Night
+2723,1850,Bank Transfer,Groceries,Morning
+2724,860,ATM Withdrawal,Dining,Night
+2725,1981,ATM Withdrawal,Clothing,Evening
+2726,1201,POS,Travel,Night
+2727,3930,ATM Withdrawal,Dining,Night
+2728,4638,Online,Groceries,Morning
+2729,2072,Online,Dining,Afternoon
+2730,3056,ATM Withdrawal,Travel,Evening
+2731,4409,POS,Electronics,Afternoon
+2732,3568,Online,Dining,Morning
+2733,4521,Bank Transfer,Clothing,Evening
+2734,314,Bank Transfer,Travel,Night
+2735,4918,Online,Groceries,Afternoon
+2736,2857,Online,Travel,Afternoon
+2737,2445,ATM Withdrawal,Cash,Afternoon
+2738,2814,POS,Electronics,Night
+2739,1994,ATM Withdrawal,Groceries,Morning
+2740,3946,POS,Electronics,Night
+2741,722,Bank Transfer,Electronics,Night
+2742,2905,Bank Transfer,Clothing,Morning
+2743,1691,POS,Dining,Morning
+2744,1343,ATM Withdrawal,Clothing,Night
+2745,3208,Online,Clothing,Morning
+2746,184,POS,Cash,Afternoon
+2747,3215,ATM Withdrawal,Clothing,Evening
+2748,1426,Bank Transfer,Groceries,Morning
+2749,1997,Online,Dining,Evening
+2750,4863,Bank Transfer,Dining,Afternoon
+2751,1782,POS,Groceries,Morning
+2752,4276,Bank Transfer,Clothing,Night
+2753,1084,Bank Transfer,Clothing,Night
+2754,4770,POS,Electronics,Afternoon
+2755,601,Online,Electronics,Morning
+2756,2988,POS,Cash,Night
+2757,3992,ATM Withdrawal,Travel,Morning
+2758,2420,POS,Electronics,Evening
+2759,857,POS,Dining,Night
+2760,503,Online,Groceries,Afternoon
+2761,555,ATM Withdrawal,Clothing,Night
+2762,2296,Bank Transfer,Travel,Afternoon
+2763,2707,Bank Transfer,Electronics,Afternoon
+2764,3847,Bank Transfer,Travel,Evening
+2765,1550,Bank Transfer,Groceries,Evening
+2766,893,Online,Groceries,Afternoon
+2767,3966,ATM Withdrawal,Travel,Night
+2768,3104,Online,Travel,Afternoon
+2769,2375,POS,Cash,Morning
+2770,3357,ATM Withdrawal,Travel,Morning
+2771,3081,ATM Withdrawal,Clothing,Night
+2772,3685,Bank Transfer,Dining,Night
+2773,4725,Bank Transfer,Electronics,Evening
+2774,962,Bank Transfer,Electronics,Morning
+2775,3310,Bank Transfer,Electronics,Afternoon
+2776,3745,POS,Travel,Afternoon
+2777,3189,Bank Transfer,Travel,Morning
+2778,2973,Online,Cash,Morning
+2779,4037,ATM Withdrawal,Travel,Evening
+2780,3257,POS,Cash,Morning
+2781,4425,POS,Cash,Evening
+2782,3367,ATM Withdrawal,Clothing,Night
+2783,4981,ATM Withdrawal,Clothing,Night
+2784,4858,ATM Withdrawal,Clothing,Morning
+2785,2714,POS,Clothing,Morning
+2786,1047,Online,Groceries,Morning
+2787,80,Online,Clothing,Morning
+2788,2884,ATM Withdrawal,Clothing,Afternoon
+2789,115,POS,Clothing,Afternoon
+2790,779,Bank Transfer,Cash,Night
+2791,2019,POS,Electronics,Afternoon
+2792,2950,ATM Withdrawal,Electronics,Morning
+2793,2202,POS,Electronics,Evening
+2794,3505,POS,Dining,Night
+2795,4321,POS,Groceries,Morning
+2796,4365,Bank Transfer,Cash,Afternoon
+2797,943,ATM Withdrawal,Travel,Evening
+2798,584,ATM Withdrawal,Cash,Evening
+2799,3940,ATM Withdrawal,Clothing,Afternoon
+2800,4390,Online,Electronics,Morning
+2801,4097,Online,Cash,Evening
+2802,2541,ATM Withdrawal,Groceries,Evening
+2803,2429,POS,Clothing,Afternoon
+2804,79,POS,Dining,Evening
+2805,4484,ATM Withdrawal,Travel,Evening
+2806,1312,Bank Transfer,Clothing,Evening
+2807,3824,Bank Transfer,Travel,Night
+2808,2359,POS,Cash,Morning
+2809,264,POS,Clothing,Morning
+2810,1717,Online,Dining,Afternoon
+2811,4797,Bank Transfer,Cash,Morning
+2812,843,POS,Groceries,Evening
+2813,2774,POS,Travel,Morning
+2814,2481,ATM Withdrawal,Travel,Night
+2815,3752,Online,Groceries,Evening
+2816,2045,Bank Transfer,Travel,Evening
+2817,1977,Bank Transfer,Cash,Night
+2818,109,Online,Electronics,Night
+2819,1862,POS,Groceries,Morning
+2820,3193,Bank Transfer,Dining,Morning
+2821,2365,Bank Transfer,Clothing,Morning
+2822,121,Bank Transfer,Clothing,Night
+2823,3168,ATM Withdrawal,Groceries,Morning
+2824,192,Online,Electronics,Afternoon
+2825,3862,Bank Transfer,Cash,Morning
+2826,174,Online,Dining,Night
+2827,2147,POS,Clothing,Night
+2828,2033,Online,Clothing,Afternoon
+2829,464,ATM Withdrawal,Cash,Evening
+2830,2295,ATM Withdrawal,Electronics,Afternoon
+2831,4832,Online,Travel,Night
+2832,551,ATM Withdrawal,Groceries,Evening
+2833,2675,Bank Transfer,Electronics,Afternoon
+2834,2459,ATM Withdrawal,Electronics,Afternoon
+2835,4947,POS,Electronics,Evening
+2836,3943,Online,Electronics,Afternoon
+2837,2896,Online,Travel,Evening
+2838,4624,POS,Cash,Morning
+2839,4302,POS,Dining,Evening
+2840,3914,POS,Electronics,Afternoon
+2841,1698,POS,Electronics,Morning
+2842,1647,Bank Transfer,Groceries,Night
+2843,4738,ATM Withdrawal,Clothing,Night
+2844,4680,ATM Withdrawal,Travel,Night
+2845,4092,Bank Transfer,Electronics,Afternoon
+2846,1900,POS,Dining,Morning
+2847,3215,Online,Dining,Evening
+2848,487,Online,Dining,Night
+2849,2376,Online,Groceries,Night
+2850,2536,POS,Dining,Morning
+2851,376,Bank Transfer,Cash,Morning
+2852,1846,Bank Transfer,Groceries,Morning
+2853,1725,Bank Transfer,Travel,Afternoon
+2854,22,ATM Withdrawal,Dining,Morning
+2855,545,ATM Withdrawal,Clothing,Evening
+2856,3249,ATM Withdrawal,Electronics,Evening
+2857,2327,ATM Withdrawal,Travel,Night
+2858,4052,Online,Cash,Evening
+2859,385,Online,Clothing,Morning
+2860,1734,Bank Transfer,Travel,Evening
+2861,266,ATM Withdrawal,Cash,Night
+2862,2274,Bank Transfer,Dining,Afternoon
+2863,459,POS,Travel,Evening
+2864,903,ATM Withdrawal,Travel,Night
+2865,3222,ATM Withdrawal,Travel,Night
+2866,1194,Bank Transfer,Groceries,Morning
+2867,3233,Bank Transfer,Clothing,Night
+2868,1318,POS,Cash,Evening
+2869,4715,Bank Transfer,Dining,Night
+2870,926,ATM Withdrawal,Electronics,Night
+2871,157,Online,Dining,Morning
+2872,4761,POS,Dining,Morning
+2873,2124,POS,Groceries,Evening
+2874,4026,ATM Withdrawal,Groceries,Night
+2875,3950,Online,Travel,Afternoon
+2876,4081,Bank Transfer,Dining,Night
+2877,2805,Bank Transfer,Clothing,Afternoon
+2878,452,Online,Groceries,Evening
+2879,2954,Online,Cash,Morning
+2880,3946,ATM Withdrawal,Groceries,Evening
+2881,408,Bank Transfer,Clothing,Morning
+2882,1161,ATM Withdrawal,Groceries,Morning
+2883,3802,Bank Transfer,Clothing,Night
+2884,3005,Bank Transfer,Electronics,Night
+2885,2226,Online,Clothing,Morning
+2886,1717,ATM Withdrawal,Electronics,Afternoon
+2887,3341,Online,Cash,Afternoon
+2888,1997,ATM Withdrawal,Travel,Night
+2889,4612,Bank Transfer,Travel,Evening
+2890,2578,POS,Groceries,Afternoon
+2891,170,POS,Clothing,Morning
+2892,4445,ATM Withdrawal,Groceries,Night
+2893,3914,ATM Withdrawal,Clothing,Night
+2894,3583,Online,Groceries,Morning
+2895,3187,Bank Transfer,Travel,Evening
+2896,1835,POS,Cash,Morning
+2897,3934,Online,Travel,Evening
+2898,1633,ATM Withdrawal,Groceries,Night
+2899,1186,Bank Transfer,Clothing,Evening
+2900,4928,Online,Dining,Morning
+2901,3730,Online,Cash,Night
+2902,4890,ATM Withdrawal,Clothing,Afternoon
+2903,3230,Bank Transfer,Groceries,Night
+2904,3269,POS,Clothing,Morning
+2905,140,Online,Electronics,Morning
+2906,3572,ATM Withdrawal,Clothing,Night
+2907,1509,Online,Travel,Night
+2908,2798,ATM Withdrawal,Travel,Night
+2909,4886,ATM Withdrawal,Electronics,Evening
+2910,3718,ATM Withdrawal,Cash,Afternoon
+2911,1717,Bank Transfer,Clothing,Evening
+2912,1779,POS,Cash,Morning
+2913,1328,Bank Transfer,Dining,Night
+2914,3389,POS,Clothing,Evening
+2915,2783,ATM Withdrawal,Travel,Evening
+2916,3000,POS,Travel,Morning
+2917,3054,Bank Transfer,Cash,Evening
+2918,385,Online,Groceries,Morning
+2919,3046,Bank Transfer,Travel,Evening
+2920,670,Bank Transfer,Groceries,Afternoon
+2921,1413,Bank Transfer,Travel,Morning
+2922,750,Bank Transfer,Travel,Afternoon
+2923,313,Bank Transfer,Dining,Evening
+2924,1095,POS,Groceries,Afternoon
+2925,4891,POS,Groceries,Afternoon
+2926,3189,Online,Travel,Afternoon
+2927,1220,Bank Transfer,Groceries,Evening
+2928,3044,Bank Transfer,Travel,Morning
+2929,238,Online,Travel,Evening
+2930,3129,Online,Cash,Evening
+2931,1864,ATM Withdrawal,Clothing,Evening
+2932,277,Online,Groceries,Morning
+2933,2784,Online,Electronics,Night
+2934,2859,Online,Cash,Evening
+2935,4359,ATM Withdrawal,Groceries,Evening
+2936,4975,POS,Groceries,Morning
+2937,2144,ATM Withdrawal,Dining,Night
+2938,3469,POS,Electronics,Night
+2939,2279,Online,Electronics,Night
+2940,999,ATM Withdrawal,Dining,Night
+2941,4502,ATM Withdrawal,Dining,Morning
+2942,947,POS,Groceries,Morning
+2943,449,ATM Withdrawal,Clothing,Night
+2944,2368,ATM Withdrawal,Dining,Afternoon
+2945,2017,Bank Transfer,Electronics,Morning
+2946,3355,POS,Electronics,Afternoon
+2947,4140,ATM Withdrawal,Groceries,Afternoon
+2948,4826,ATM Withdrawal,Clothing,Night
+2949,3753,Online,Travel,Night
+2950,528,Bank Transfer,Dining,Evening
+2951,278,Bank Transfer,Dining,Afternoon
+2952,4743,Online,Groceries,Evening
+2953,4195,Online,Cash,Night
+2954,1398,Online,Cash,Afternoon
+2955,1704,Online,Clothing,Morning
+2956,3283,Bank Transfer,Electronics,Evening
+2957,1399,ATM Withdrawal,Electronics,Night
+2958,3875,ATM Withdrawal,Travel,Afternoon
+2959,3039,Online,Electronics,Night
+2960,2345,POS,Cash,Evening
+2961,3684,Online,Cash,Night
+2962,4586,ATM Withdrawal,Dining,Night
+2963,510,POS,Travel,Morning
+2964,1671,Online,Clothing,Night
+2965,2109,POS,Travel,Afternoon
+2966,112,Online,Clothing,Afternoon
+2967,2756,Bank Transfer,Cash,Morning
+2968,3286,ATM Withdrawal,Electronics,Afternoon
+2969,3095,Online,Groceries,Night
+2970,3547,POS,Travel,Night
+2971,1337,ATM Withdrawal,Travel,Afternoon
+2972,2484,Online,Dining,Evening
+2973,1689,Online,Dining,Night
+2974,3756,Online,Cash,Afternoon
+2975,2572,Online,Clothing,Night
+2976,4173,Bank Transfer,Groceries,Night
+2977,3327,ATM Withdrawal,Dining,Morning
+2978,2446,Bank Transfer,Dining,Afternoon
+2979,317,ATM Withdrawal,Electronics,Night
+2980,4006,Online,Electronics,Evening
+2981,1099,ATM Withdrawal,Cash,Afternoon
+2982,4565,POS,Cash,Evening
+2983,2404,ATM Withdrawal,Dining,Afternoon
+2984,4014,POS,Clothing,Evening
+2985,676,POS,Groceries,Evening
+2986,4173,Bank Transfer,Dining,Afternoon
+2987,2244,ATM Withdrawal,Clothing,Morning
+2988,1246,Online,Clothing,Morning
+2989,1633,ATM Withdrawal,Dining,Afternoon
+2990,1384,Bank Transfer,Clothing,Night
+2991,3321,POS,Travel,Afternoon
+2992,186,POS,Clothing,Afternoon
+2993,1363,Bank Transfer,Dining,Night
+2994,2938,Bank Transfer,Clothing,Afternoon
+2995,635,ATM Withdrawal,Dining,Afternoon
+2996,2664,POS,Electronics,Night
+2997,3618,Bank Transfer,Dining,Night
+2998,3725,ATM Withdrawal,Clothing,Morning
+2999,4284,ATM Withdrawal,Dining,Evening
+3000,404,Online,Groceries,Evening
+3001,1178,POS,Dining,Morning
+3002,4981,ATM Withdrawal,Dining,Morning
+3003,207,Bank Transfer,Groceries,Evening
+3004,978,POS,Groceries,Morning
+3005,3918,Bank Transfer,Groceries,Afternoon
+3006,3165,Bank Transfer,Cash,Morning
+3007,4774,ATM Withdrawal,Travel,Morning
+3008,2514,ATM Withdrawal,Cash,Morning
+3009,1286,Online,Dining,Morning
+3010,4177,Bank Transfer,Cash,Evening
+3011,4328,ATM Withdrawal,Cash,Night
+3012,1279,Online,Groceries,Evening
+3013,1374,POS,Groceries,Evening
+3014,933,Online,Electronics,Night
+3015,480,Online,Cash,Evening
+3016,3026,Bank Transfer,Travel,Afternoon
+3017,2064,POS,Dining,Night
+3018,4293,Bank Transfer,Clothing,Afternoon
+3019,2061,Bank Transfer,Travel,Evening
+3020,2964,Online,Travel,Evening
+3021,1158,Online,Electronics,Night
+3022,3096,ATM Withdrawal,Dining,Evening
+3023,969,Online,Dining,Morning
+3024,639,ATM Withdrawal,Groceries,Afternoon
+3025,784,Bank Transfer,Groceries,Afternoon
+3026,369,Online,Travel,Morning
+3027,527,POS,Electronics,Night
+3028,1353,POS,Dining,Night
+3029,1979,Bank Transfer,Electronics,Morning
+3030,3237,Bank Transfer,Clothing,Morning
+3031,2909,Online,Dining,Afternoon
+3032,944,ATM Withdrawal,Groceries,Morning
+3033,1996,Online,Travel,Morning
+3034,386,ATM Withdrawal,Electronics,Morning
+3035,3570,Online,Groceries,Evening
+3036,1784,POS,Travel,Morning
+3037,1515,POS,Groceries,Evening
+3038,2664,ATM Withdrawal,Dining,Afternoon
+3039,1020,Online,Electronics,Afternoon
+3040,3487,Bank Transfer,Clothing,Night
+3041,1240,ATM Withdrawal,Cash,Afternoon
+3042,1187,POS,Groceries,Night
+3043,3867,ATM Withdrawal,Cash,Evening
+3044,2105,Online,Electronics,Morning
+3045,1682,Bank Transfer,Dining,Afternoon
+3046,1938,Bank Transfer,Groceries,Morning
+3047,3849,ATM Withdrawal,Dining,Night
+3048,3188,Online,Clothing,Evening
+3049,4278,Online,Clothing,Afternoon
+3050,2563,Bank Transfer,Travel,Morning
+3051,2455,POS,Travel,Night
+3052,4399,Online,Travel,Morning
+3053,561,Bank Transfer,Dining,Afternoon
+3054,2907,Bank Transfer,Travel,Morning
+3055,1049,Online,Electronics,Evening
+3056,894,Online,Cash,Afternoon
+3057,3061,ATM Withdrawal,Cash,Night
+3058,4239,POS,Dining,Afternoon
+3059,4876,ATM Withdrawal,Dining,Night
+3060,3607,ATM Withdrawal,Travel,Night
+3061,2565,Bank Transfer,Cash,Afternoon
+3062,1099,Bank Transfer,Cash,Night
+3063,4585,POS,Travel,Afternoon
+3064,4968,ATM Withdrawal,Dining,Evening
+3065,468,ATM Withdrawal,Clothing,Evening
+3066,4731,Bank Transfer,Clothing,Morning
+3067,4264,Bank Transfer,Travel,Evening
+3068,2017,Online,Clothing,Night
+3069,1930,ATM Withdrawal,Electronics,Morning
+3070,4537,POS,Electronics,Morning
+3071,1013,ATM Withdrawal,Electronics,Afternoon
+3072,3093,Bank Transfer,Dining,Morning
+3073,2124,Online,Dining,Afternoon
+3074,2599,ATM Withdrawal,Dining,Morning
+3075,2153,POS,Dining,Evening
+3076,4320,Bank Transfer,Dining,Afternoon
+3077,2251,Online,Travel,Night
+3078,4990,ATM Withdrawal,Clothing,Morning
+3079,2096,POS,Travel,Evening
+3080,948,Bank Transfer,Clothing,Evening
+3081,4311,POS,Travel,Afternoon
+3082,3980,ATM Withdrawal,Electronics,Afternoon
+3083,4009,Bank Transfer,Groceries,Afternoon
+3084,4660,ATM Withdrawal,Dining,Night
+3085,3418,Online,Groceries,Night
+3086,780,ATM Withdrawal,Groceries,Night
+3087,258,Online,Electronics,Morning
+3088,382,ATM Withdrawal,Groceries,Night
+3089,2936,POS,Groceries,Afternoon
+3090,3867,POS,Electronics,Evening
+3091,4940,Bank Transfer,Clothing,Evening
+3092,711,POS,Travel,Afternoon
+3093,2195,POS,Cash,Night
+3094,951,Online,Groceries,Night
+3095,3924,POS,Dining,Afternoon
+3096,803,Online,Electronics,Evening
+3097,687,Online,Groceries,Morning
+3098,1571,Online,Cash,Evening
+3099,4063,ATM Withdrawal,Clothing,Night
+3100,462,Online,Clothing,Evening
+3101,2476,ATM Withdrawal,Cash,Night
+3102,3666,Online,Dining,Evening
+3103,4156,ATM Withdrawal,Groceries,Afternoon
+3104,3764,Bank Transfer,Dining,Night
+3105,219,Bank Transfer,Clothing,Morning
+3106,4993,ATM Withdrawal,Clothing,Morning
+3107,1936,Bank Transfer,Travel,Afternoon
+3108,4955,POS,Clothing,Evening
+3109,3976,Online,Electronics,Afternoon
+3110,1887,ATM Withdrawal,Travel,Afternoon
+3111,636,Bank Transfer,Dining,Morning
+3112,2736,Bank Transfer,Clothing,Morning
+3113,1468,POS,Cash,Night
+3114,2834,Online,Electronics,Night
+3115,1260,POS,Travel,Night
+3116,4768,ATM Withdrawal,Electronics,Afternoon
+3117,4373,Bank Transfer,Travel,Afternoon
+3118,2173,Bank Transfer,Travel,Night
+3119,1633,Bank Transfer,Travel,Morning
+3120,1863,POS,Cash,Morning
+3121,763,POS,Dining,Evening
+3122,1878,Online,Travel,Night
+3123,191,ATM Withdrawal,Travel,Afternoon
+3124,1523,Online,Electronics,Evening
+3125,912,Online,Travel,Evening
+3126,3354,Bank Transfer,Dining,Evening
+3127,3463,POS,Cash,Night
+3128,3617,ATM Withdrawal,Cash,Night
+3129,2566,Online,Electronics,Night
+3130,2149,ATM Withdrawal,Travel,Morning
+3131,4254,Bank Transfer,Electronics,Evening
+3132,2174,Online,Cash,Morning
+3133,2622,POS,Dining,Night
+3134,2031,Online,Electronics,Morning
+3135,2831,Bank Transfer,Dining,Morning
+3136,2291,Online,Clothing,Afternoon
+3137,1580,Bank Transfer,Travel,Night
+3138,1982,Online,Dining,Evening
+3139,3996,ATM Withdrawal,Travel,Night
+3140,2254,POS,Dining,Morning
+3141,2452,Bank Transfer,Groceries,Night
+3142,723,ATM Withdrawal,Groceries,Night
+3143,3555,Bank Transfer,Groceries,Afternoon
+3144,232,Online,Dining,Afternoon
+3145,873,Bank Transfer,Cash,Night
+3146,4635,Bank Transfer,Cash,Afternoon
+3147,1435,POS,Travel,Morning
+3148,2314,ATM Withdrawal,Groceries,Morning
+3149,663,Online,Travel,Morning
+3150,1169,POS,Dining,Afternoon
+3151,1852,Bank Transfer,Travel,Night
+3152,453,POS,Travel,Morning
+3153,2475,Bank Transfer,Groceries,Evening
+3154,4679,Online,Cash,Morning
+3155,4446,Bank Transfer,Electronics,Night
+3156,2867,POS,Clothing,Morning
+3157,1290,POS,Dining,Evening
+3158,3049,Bank Transfer,Dining,Morning
+3159,3805,ATM Withdrawal,Dining,Morning
+3160,3647,POS,Clothing,Night
+3161,3768,ATM Withdrawal,Electronics,Morning
+3162,109,ATM Withdrawal,Cash,Morning
+3163,2096,ATM Withdrawal,Travel,Afternoon
+3164,2320,ATM Withdrawal,Cash,Night
+3165,4255,POS,Dining,Night
+3166,2747,POS,Travel,Night
+3167,1617,ATM Withdrawal,Groceries,Night
+3168,2963,POS,Cash,Morning
+3169,3991,ATM Withdrawal,Groceries,Evening
+3170,3204,ATM Withdrawal,Groceries,Evening
+3171,4349,ATM Withdrawal,Cash,Afternoon
+3172,4692,Bank Transfer,Dining,Morning
+3173,3102,Online,Clothing,Night
+3174,2972,POS,Dining,Night
+3175,2672,POS,Groceries,Evening
+3176,865,ATM Withdrawal,Groceries,Afternoon
+3177,2156,Bank Transfer,Dining,Morning
+3178,4935,Bank Transfer,Clothing,Afternoon
+3179,1396,POS,Clothing,Morning
+3180,1726,ATM Withdrawal,Travel,Afternoon
+3181,4161,POS,Electronics,Afternoon
+3182,1735,ATM Withdrawal,Groceries,Night
+3183,1963,ATM Withdrawal,Clothing,Evening
+3184,194,Online,Cash,Night
+3185,531,ATM Withdrawal,Groceries,Evening
+3186,2321,Online,Electronics,Afternoon
+3187,1258,POS,Cash,Morning
+3188,1668,POS,Groceries,Night
+3189,1012,Bank Transfer,Clothing,Morning
+3190,3237,Online,Travel,Night
+3191,3148,POS,Dining,Night
+3192,1938,Online,Cash,Night
+3193,403,POS,Dining,Morning
+3194,1627,Online,Clothing,Night
+3195,3651,Online,Clothing,Night
+3196,670,ATM Withdrawal,Cash,Night
+3197,4174,POS,Electronics,Morning
+3198,329,Bank Transfer,Cash,Night
+3199,2234,ATM Withdrawal,Groceries,Morning
+3200,593,Bank Transfer,Electronics,Evening
+3201,3610,Online,Dining,Night
+3202,591,ATM Withdrawal,Groceries,Afternoon
+3203,3706,Online,Electronics,Evening
+3204,1777,POS,Dining,Morning
+3205,1566,POS,Groceries,Afternoon
+3206,1808,Bank Transfer,Travel,Morning
+3207,4216,POS,Cash,Morning
+3208,1008,Bank Transfer,Cash,Night
+3209,767,Online,Cash,Afternoon
+3210,292,ATM Withdrawal,Travel,Morning
+3211,4906,POS,Electronics,Evening
+3212,140,Online,Clothing,Night
+3213,1303,ATM Withdrawal,Groceries,Evening
+3214,70,Online,Electronics,Evening
+3215,2221,Bank Transfer,Clothing,Night
+3216,1558,Online,Cash,Morning
+3217,4377,Bank Transfer,Cash,Evening
+3218,1791,Bank Transfer,Cash,Morning
+3219,47,POS,Clothing,Morning
+3220,3641,Bank Transfer,Groceries,Night
+3221,2674,Bank Transfer,Groceries,Evening
+3222,483,Online,Clothing,Evening
+3223,68,Bank Transfer,Dining,Night
+3224,2646,Bank Transfer,Cash,Morning
+3225,2624,Online,Electronics,Morning
+3226,2624,ATM Withdrawal,Groceries,Night
+3227,4488,POS,Clothing,Morning
+3228,1421,Online,Dining,Morning
+3229,94,Bank Transfer,Travel,Evening
+3230,1543,Online,Clothing,Morning
+3231,3807,ATM Withdrawal,Dining,Morning
+3232,2684,Online,Travel,Morning
+3233,2883,Online,Dining,Morning
+3234,3130,Online,Groceries,Night
+3235,1100,Online,Clothing,Night
+3236,2844,Bank Transfer,Travel,Night
+3237,4234,Online,Dining,Morning
+3238,2086,ATM Withdrawal,Travel,Night
+3239,3200,Online,Electronics,Afternoon
+3240,4797,Online,Clothing,Afternoon
+3241,4238,Bank Transfer,Groceries,Afternoon
+3242,1218,Bank Transfer,Travel,Evening
+3243,3587,Online,Cash,Morning
+3244,4751,Bank Transfer,Dining,Evening
+3245,2591,Bank Transfer,Cash,Night
+3246,3797,Online,Travel,Morning
+3247,525,Bank Transfer,Cash,Afternoon
+3248,2222,POS,Dining,Morning
+3249,2984,POS,Travel,Evening
+3250,942,POS,Groceries,Night
+3251,1673,Bank Transfer,Groceries,Night
+3252,566,POS,Clothing,Evening
+3253,1681,ATM Withdrawal,Groceries,Morning
+3254,1002,POS,Travel,Evening
+3255,1638,ATM Withdrawal,Travel,Night
+3256,1701,Bank Transfer,Groceries,Afternoon
+3257,4862,POS,Electronics,Night
+3258,1114,ATM Withdrawal,Travel,Night
+3259,1280,Bank Transfer,Clothing,Morning
+3260,2912,POS,Electronics,Afternoon
+3261,4754,Online,Groceries,Night
+3262,1419,POS,Dining,Afternoon
+3263,3656,POS,Travel,Evening
+3264,1340,POS,Dining,Morning
+3265,4733,Online,Cash,Afternoon
+3266,2064,ATM Withdrawal,Clothing,Afternoon
+3267,963,ATM Withdrawal,Electronics,Morning
+3268,1852,Online,Dining,Evening
+3269,2812,POS,Clothing,Afternoon
+3270,19,POS,Dining,Morning
+3271,2619,POS,Dining,Night
+3272,131,ATM Withdrawal,Clothing,Morning
+3273,4792,ATM Withdrawal,Travel,Night
+3274,2570,Online,Dining,Afternoon
+3275,3047,Bank Transfer,Clothing,Afternoon
+3276,450,Online,Dining,Afternoon
+3277,2759,ATM Withdrawal,Travel,Evening
+3278,600,POS,Clothing,Evening
+3279,1378,POS,Dining,Night
+3280,1999,POS,Groceries,Morning
+3281,1371,POS,Travel,Night
+3282,3783,Bank Transfer,Dining,Morning
+3283,2074,Online,Electronics,Afternoon
+3284,2425,Online,Clothing,Morning
+3285,2961,ATM Withdrawal,Dining,Evening
+3286,2778,Online,Travel,Morning
+3287,3426,Bank Transfer,Travel,Morning
+3288,1586,Bank Transfer,Electronics,Afternoon
+3289,124,Bank Transfer,Electronics,Afternoon
+3290,1378,POS,Cash,Evening
+3291,148,ATM Withdrawal,Cash,Morning
+3292,4933,Bank Transfer,Dining,Morning
+3293,4951,Online,Groceries,Morning
+3294,3383,Online,Travel,Afternoon
+3295,1325,Online,Groceries,Evening
+3296,83,Bank Transfer,Groceries,Morning
+3297,3856,Bank Transfer,Dining,Morning
+3298,493,Online,Clothing,Morning
+3299,4121,Bank Transfer,Clothing,Morning
+3300,1559,Online,Clothing,Evening
+3301,1369,POS,Electronics,Evening
+3302,1906,Bank Transfer,Travel,Evening
+3303,4234,POS,Electronics,Afternoon
+3304,520,POS,Travel,Morning
+3305,432,Bank Transfer,Cash,Morning
+3306,2442,Online,Travel,Morning
+3307,1916,ATM Withdrawal,Travel,Morning
+3308,4337,POS,Dining,Night
+3309,968,Bank Transfer,Clothing,Evening
+3310,834,POS,Electronics,Night
+3311,74,Online,Cash,Night
+3312,4938,Bank Transfer,Electronics,Afternoon
+3313,4720,ATM Withdrawal,Dining,Afternoon
+3314,3358,Bank Transfer,Travel,Morning
+3315,810,POS,Cash,Night
+3316,287,Bank Transfer,Clothing,Night
+3317,1727,Bank Transfer,Groceries,Evening
+3318,2423,POS,Groceries,Night
+3319,1248,ATM Withdrawal,Dining,Afternoon
+3320,4533,Online,Clothing,Night
+3321,1496,Bank Transfer,Groceries,Afternoon
+3322,4691,ATM Withdrawal,Groceries,Morning
+3323,3308,Online,Cash,Afternoon
+3324,4480,POS,Cash,Morning
+3325,3005,ATM Withdrawal,Electronics,Evening
+3326,102,ATM Withdrawal,Clothing,Morning
+3327,3541,Bank Transfer,Groceries,Night
+3328,1850,POS,Cash,Afternoon
+3329,3537,Bank Transfer,Cash,Morning
+3330,1631,POS,Cash,Morning
+3331,1571,Online,Electronics,Morning
+3332,1426,Bank Transfer,Clothing,Morning
+3333,2974,POS,Travel,Morning
+3334,4200,POS,Cash,Morning
+3335,1140,ATM Withdrawal,Clothing,Afternoon
+3336,1423,Bank Transfer,Dining,Night
+3337,3607,Bank Transfer,Electronics,Night
+3338,3754,Online,Travel,Morning
+3339,2128,POS,Cash,Afternoon
+3340,673,ATM Withdrawal,Cash,Morning
+3341,2644,POS,Electronics,Evening
+3342,2784,POS,Electronics,Night
+3343,3979,POS,Groceries,Morning
+3344,3500,Bank Transfer,Cash,Afternoon
+3345,1581,POS,Clothing,Night
+3346,1533,Online,Electronics,Afternoon
+3347,997,ATM Withdrawal,Electronics,Evening
+3348,3248,ATM Withdrawal,Dining,Morning
+3349,3855,POS,Dining,Evening
+3350,3703,ATM Withdrawal,Dining,Night
+3351,108,POS,Electronics,Morning
+3352,2298,Bank Transfer,Travel,Night
+3353,1524,ATM Withdrawal,Clothing,Morning
+3354,4307,Bank Transfer,Electronics,Afternoon
+3355,643,Bank Transfer,Groceries,Night
+3356,4851,Online,Cash,Evening
+3357,4595,Online,Travel,Evening
+3358,588,ATM Withdrawal,Travel,Afternoon
+3359,3969,POS,Clothing,Afternoon
+3360,282,POS,Travel,Evening
+3361,4891,POS,Clothing,Afternoon
+3362,3964,POS,Travel,Morning
+3363,3937,Online,Cash,Evening
+3364,462,POS,Clothing,Night
+3365,1185,POS,Dining,Evening
+3366,4921,Bank Transfer,Dining,Afternoon
+3367,423,POS,Travel,Morning
+3368,1560,POS,Travel,Night
+3369,4536,Online,Clothing,Evening
+3370,1956,ATM Withdrawal,Clothing,Evening
+3371,201,Bank Transfer,Cash,Night
+3372,50,Bank Transfer,Electronics,Morning
+3373,1869,ATM Withdrawal,Dining,Afternoon
+3374,1342,Bank Transfer,Electronics,Afternoon
+3375,3459,POS,Electronics,Afternoon
+3376,145,POS,Groceries,Afternoon
+3377,4211,ATM Withdrawal,Clothing,Night
+3378,4624,Online,Groceries,Morning
+3379,1951,Online,Groceries,Morning
+3380,1575,Bank Transfer,Electronics,Evening
+3381,4231,Online,Groceries,Evening
+3382,398,Online,Cash,Morning
+3383,1568,Online,Clothing,Evening
+3384,2131,Online,Electronics,Morning
+3385,1038,Online,Clothing,Night
+3386,3544,Online,Cash,Night
+3387,91,Online,Travel,Afternoon
+3388,785,Bank Transfer,Groceries,Morning
+3389,3048,POS,Electronics,Night
+3390,4383,Online,Dining,Morning
+3391,2897,POS,Clothing,Evening
+3392,1888,ATM Withdrawal,Cash,Morning
+3393,2281,POS,Groceries,Afternoon
+3394,1617,ATM Withdrawal,Clothing,Afternoon
+3395,3149,Bank Transfer,Cash,Night
+3396,615,POS,Clothing,Evening
+3397,4745,ATM Withdrawal,Travel,Evening
+3398,3424,POS,Cash,Morning
+3399,3675,Bank Transfer,Clothing,Evening
+3400,2154,POS,Travel,Afternoon
+3401,4280,ATM Withdrawal,Travel,Night
+3402,3775,Online,Travel,Night
+3403,1386,Online,Groceries,Night
+3404,3472,Online,Cash,Evening
+3405,357,Bank Transfer,Clothing,Evening
+3406,10,Online,Clothing,Afternoon
+3407,72,Bank Transfer,Cash,Morning
+3408,1793,Online,Travel,Morning
+3409,3824,Bank Transfer,Clothing,Night
+3410,235,Bank Transfer,Clothing,Night
+3411,1052,POS,Travel,Evening
+3412,854,Online,Dining,Night
+3413,2690,POS,Dining,Afternoon
+3414,4129,ATM Withdrawal,Travel,Afternoon
+3415,1244,Online,Groceries,Night
+3416,1994,Online,Clothing,Night
+3417,4266,Online,Clothing,Night
+3418,1288,Online,Dining,Night
+3419,1604,POS,Travel,Night
+3420,2561,POS,Cash,Afternoon
+3421,1962,Bank Transfer,Cash,Morning
+3422,1705,POS,Groceries,Afternoon
+3423,964,Bank Transfer,Travel,Afternoon
+3424,3301,ATM Withdrawal,Dining,Night
+3425,366,POS,Dining,Morning
+3426,3605,Bank Transfer,Clothing,Night
+3427,978,Online,Electronics,Afternoon
+3428,251,ATM Withdrawal,Groceries,Morning
+3429,3456,Bank Transfer,Groceries,Evening
+3430,4244,ATM Withdrawal,Electronics,Night
+3431,2154,Online,Cash,Evening
+3432,156,Online,Cash,Evening
+3433,552,Bank Transfer,Cash,Evening
+3434,701,Bank Transfer,Dining,Evening
+3435,1035,Online,Travel,Morning
+3436,4060,Bank Transfer,Groceries,Night
+3437,4015,Online,Electronics,Morning
+3438,3369,POS,Clothing,Night
+3439,2961,Bank Transfer,Clothing,Night
+3440,739,ATM Withdrawal,Dining,Night
+3441,4509,Online,Groceries,Morning
+3442,2565,POS,Travel,Afternoon
+3443,1160,Bank Transfer,Groceries,Evening
+3444,1745,Online,Cash,Afternoon
+3445,1048,POS,Clothing,Afternoon
+3446,2922,Bank Transfer,Groceries,Afternoon
+3447,4850,Online,Clothing,Evening
+3448,2550,Online,Electronics,Afternoon
+3449,4424,Online,Electronics,Evening
+3450,1252,Bank Transfer,Clothing,Evening
+3451,782,POS,Travel,Evening
+3452,1926,Online,Travel,Night
+3453,3422,POS,Groceries,Night
+3454,2509,POS,Clothing,Afternoon
+3455,3450,ATM Withdrawal,Dining,Night
+3456,3555,POS,Travel,Evening
+3457,1223,POS,Travel,Night
+3458,2941,POS,Cash,Evening
+3459,428,POS,Electronics,Morning
+3460,3791,POS,Travel,Night
+3461,4970,Bank Transfer,Travel,Afternoon
+3462,798,ATM Withdrawal,Cash,Morning
+3463,1881,Online,Travel,Morning
+3464,4600,ATM Withdrawal,Cash,Night
+3465,2035,ATM Withdrawal,Clothing,Night
+3466,2456,Online,Clothing,Afternoon
+3467,4833,POS,Electronics,Morning
+3468,570,Online,Groceries,Evening
+3469,2661,POS,Cash,Night
+3470,3914,Online,Travel,Morning
+3471,549,Bank Transfer,Groceries,Morning
+3472,4765,ATM Withdrawal,Clothing,Evening
+3473,3146,POS,Travel,Morning
+3474,3299,ATM Withdrawal,Groceries,Night
+3475,2620,POS,Cash,Evening
+3476,4922,Online,Cash,Night
+3477,1954,Online,Groceries,Afternoon
+3478,3155,Online,Cash,Morning
+3479,2768,Bank Transfer,Dining,Night
+3480,3270,Online,Clothing,Night
+3481,4117,Online,Electronics,Afternoon
+3482,1905,Bank Transfer,Electronics,Morning
+3483,2510,ATM Withdrawal,Dining,Night
+3484,2839,ATM Withdrawal,Groceries,Evening
+3485,3883,POS,Cash,Night
+3486,57,ATM Withdrawal,Dining,Night
+3487,2374,POS,Dining,Night
+3488,2266,POS,Cash,Night
+3489,4682,ATM Withdrawal,Clothing,Morning
+3490,763,ATM Withdrawal,Cash,Night
+3491,2812,Bank Transfer,Cash,Afternoon
+3492,4659,POS,Travel,Night
+3493,3662,ATM Withdrawal,Groceries,Evening
+3494,412,ATM Withdrawal,Electronics,Evening
+3495,2096,Bank Transfer,Electronics,Night
+3496,2237,ATM Withdrawal,Dining,Night
+3497,3420,Online,Dining,Afternoon
+3498,3000,Online,Dining,Afternoon
+3499,4653,POS,Groceries,Morning
+3500,1159,Bank Transfer,Dining,Morning
+3501,72,ATM Withdrawal,Dining,Evening
+3502,4949,POS,Travel,Night
+3503,3163,ATM Withdrawal,Groceries,Night
+3504,1018,Online,Clothing,Afternoon
+3505,2041,ATM Withdrawal,Clothing,Afternoon
+3506,1332,ATM Withdrawal,Cash,Morning
+3507,2091,ATM Withdrawal,Travel,Morning
+3508,761,Online,Electronics,Evening
+3509,4154,Online,Cash,Afternoon
+3510,667,Bank Transfer,Clothing,Night
+3511,1670,Online,Groceries,Afternoon
+3512,710,POS,Electronics,Afternoon
+3513,1090,ATM Withdrawal,Dining,Afternoon
+3514,2166,Online,Groceries,Morning
+3515,1550,POS,Electronics,Night
+3516,3042,Online,Clothing,Night
+3517,1993,ATM Withdrawal,Cash,Morning
+3518,324,POS,Dining,Morning
+3519,3091,Online,Dining,Night
+3520,4743,Online,Groceries,Evening
+3521,2324,POS,Cash,Afternoon
+3522,2145,Bank Transfer,Dining,Night
+3523,1659,POS,Electronics,Morning
+3524,3229,POS,Travel,Night
+3525,3810,POS,Clothing,Afternoon
+3526,2488,POS,Groceries,Night
+3527,4077,Online,Cash,Morning
+3528,1785,POS,Travel,Evening
+3529,1976,POS,Travel,Morning
+3530,1777,ATM Withdrawal,Groceries,Evening
+3531,3825,Online,Electronics,Afternoon
+3532,251,ATM Withdrawal,Cash,Morning
+3533,4807,Online,Clothing,Night
+3534,2959,Bank Transfer,Groceries,Morning
+3535,4846,Bank Transfer,Cash,Morning
+3536,4886,Online,Travel,Afternoon
+3537,2266,Bank Transfer,Travel,Evening
+3538,4121,Bank Transfer,Groceries,Evening
+3539,3378,Online,Cash,Night
+3540,376,POS,Travel,Morning
+3541,2837,ATM Withdrawal,Groceries,Afternoon
+3542,1262,Online,Groceries,Evening
+3543,2497,Online,Clothing,Night
+3544,4795,Online,Groceries,Evening
+3545,3613,ATM Withdrawal,Cash,Night
+3546,3531,Online,Cash,Evening
+3547,4952,ATM Withdrawal,Travel,Night
+3548,4527,ATM Withdrawal,Dining,Evening
+3549,1653,Bank Transfer,Clothing,Evening
+3550,1222,POS,Cash,Morning
+3551,4713,Bank Transfer,Travel,Night
+3552,29,Online,Travel,Night
+3553,685,Online,Clothing,Morning
+3554,4487,ATM Withdrawal,Clothing,Morning
+3555,618,Bank Transfer,Travel,Evening
+3556,71,ATM Withdrawal,Dining,Evening
+3557,1275,Bank Transfer,Electronics,Evening
+3558,2295,Bank Transfer,Travel,Morning
+3559,1164,Bank Transfer,Clothing,Evening
+3560,1638,Bank Transfer,Groceries,Morning
+3561,1636,Bank Transfer,Groceries,Evening
+3562,3726,POS,Clothing,Morning
+3563,1452,Online,Clothing,Night
+3564,1663,Bank Transfer,Electronics,Afternoon
+3565,2512,Bank Transfer,Cash,Evening
+3566,3279,ATM Withdrawal,Clothing,Evening
+3567,291,Online,Groceries,Morning
+3568,4991,Online,Dining,Night
+3569,1034,Online,Clothing,Night
+3570,4828,Bank Transfer,Electronics,Evening
+3571,3413,ATM Withdrawal,Dining,Morning
+3572,1245,Online,Electronics,Morning
+3573,4192,ATM Withdrawal,Dining,Afternoon
+3574,4770,POS,Clothing,Night
+3575,4967,POS,Groceries,Afternoon
+3576,795,ATM Withdrawal,Dining,Night
+3577,3327,Bank Transfer,Travel,Evening
+3578,1677,Online,Cash,Evening
+3579,3018,POS,Electronics,Morning
+3580,3204,POS,Dining,Morning
+3581,4799,ATM Withdrawal,Electronics,Morning
+3582,3785,Bank Transfer,Groceries,Night
+3583,2456,ATM Withdrawal,Electronics,Morning
+3584,3800,ATM Withdrawal,Electronics,Evening
+3585,543,ATM Withdrawal,Travel,Afternoon
+3586,411,ATM Withdrawal,Electronics,Evening
+3587,3673,ATM Withdrawal,Dining,Evening
+3588,139,Bank Transfer,Electronics,Evening
+3589,2349,ATM Withdrawal,Clothing,Afternoon
+3590,4381,Bank Transfer,Electronics,Evening
+3591,2969,Online,Clothing,Night
+3592,1868,Online,Cash,Night
+3593,2983,Online,Electronics,Afternoon
+3594,4160,Online,Cash,Night
+3595,3659,POS,Electronics,Morning
+3596,2796,Bank Transfer,Dining,Night
+3597,3107,Online,Clothing,Evening
+3598,3522,POS,Cash,Night
+3599,4870,Bank Transfer,Cash,Morning
+3600,1230,POS,Clothing,Morning
+3601,651,POS,Travel,Morning
+3602,3324,ATM Withdrawal,Electronics,Evening
+3603,733,POS,Electronics,Morning
+3604,4907,POS,Dining,Evening
+3605,747,Bank Transfer,Travel,Morning
+3606,4863,POS,Travel,Evening
+3607,1309,ATM Withdrawal,Dining,Evening
+3608,3490,Online,Cash,Evening
+3609,349,Online,Clothing,Night
+3610,162,Bank Transfer,Cash,Morning
+3611,1431,Bank Transfer,Groceries,Evening
+3612,3061,POS,Dining,Morning
+3613,436,Bank Transfer,Clothing,Night
+3614,3568,POS,Cash,Afternoon
+3615,1145,Bank Transfer,Cash,Morning
+3616,2382,Online,Travel,Morning
+3617,3339,Online,Dining,Night
+3618,959,Online,Groceries,Evening
+3619,1383,Online,Electronics,Morning
+3620,966,POS,Dining,Afternoon
+3621,1711,POS,Groceries,Night
+3622,2951,POS,Groceries,Evening
+3623,2492,Online,Dining,Morning
+3624,1313,ATM Withdrawal,Clothing,Morning
+3625,380,Online,Dining,Night
+3626,2990,Online,Cash,Evening
+3627,2306,ATM Withdrawal,Travel,Evening
+3628,4808,ATM Withdrawal,Cash,Night
+3629,2135,Bank Transfer,Groceries,Morning
+3630,2976,Online,Groceries,Morning
+3631,4155,ATM Withdrawal,Electronics,Evening
+3632,2752,Bank Transfer,Groceries,Evening
+3633,4031,ATM Withdrawal,Electronics,Afternoon
+3634,2374,ATM Withdrawal,Groceries,Afternoon
+3635,772,Bank Transfer,Groceries,Afternoon
+3636,4072,Online,Dining,Evening
+3637,1014,Bank Transfer,Dining,Evening
+3638,3765,Online,Travel,Evening
+3639,2856,ATM Withdrawal,Cash,Morning
+3640,359,Bank Transfer,Clothing,Night
+3641,2974,POS,Travel,Evening
+3642,696,ATM Withdrawal,Groceries,Morning
+3643,4647,Bank Transfer,Travel,Evening
+3644,3136,ATM Withdrawal,Dining,Night
+3645,4466,Bank Transfer,Cash,Evening
+3646,2765,Online,Groceries,Morning
+3647,3534,POS,Groceries,Evening
+3648,3634,ATM Withdrawal,Travel,Evening
+3649,2742,POS,Cash,Evening
+3650,1703,Online,Electronics,Afternoon
+3651,2902,Bank Transfer,Clothing,Evening
+3652,3821,POS,Cash,Morning
+3653,4190,Bank Transfer,Travel,Morning
+3654,694,Online,Travel,Morning
+3655,4350,ATM Withdrawal,Clothing,Evening
+3656,2929,Online,Groceries,Night
+3657,3766,POS,Groceries,Morning
+3658,3293,POS,Electronics,Afternoon
+3659,4701,POS,Travel,Night
+3660,4036,Bank Transfer,Clothing,Morning
+3661,1166,ATM Withdrawal,Travel,Evening
+3662,3071,POS,Dining,Afternoon
+3663,4455,POS,Travel,Morning
+3664,2339,POS,Travel,Afternoon
+3665,1302,Online,Dining,Night
+3666,1894,POS,Dining,Morning
+3667,1570,Online,Clothing,Evening
+3668,993,POS,Groceries,Afternoon
+3669,2077,Online,Electronics,Morning
+3670,1873,Bank Transfer,Dining,Night
+3671,1989,Bank Transfer,Groceries,Night
+3672,1746,Online,Clothing,Morning
+3673,2462,ATM Withdrawal,Cash,Night
+3674,1928,ATM Withdrawal,Travel,Afternoon
+3675,710,Online,Clothing,Afternoon
+3676,4056,Bank Transfer,Clothing,Afternoon
+3677,2083,Online,Dining,Afternoon
+3678,4671,ATM Withdrawal,Electronics,Night
+3679,3763,Online,Dining,Morning
+3680,404,Bank Transfer,Travel,Night
+3681,1966,ATM Withdrawal,Dining,Night
+3682,3058,ATM Withdrawal,Travel,Morning
+3683,3462,POS,Dining,Morning
+3684,532,POS,Cash,Evening
+3685,1572,ATM Withdrawal,Electronics,Afternoon
+3686,2919,ATM Withdrawal,Cash,Morning
+3687,2859,Online,Groceries,Night
+3688,559,Bank Transfer,Electronics,Afternoon
+3689,1478,ATM Withdrawal,Dining,Afternoon
+3690,842,Bank Transfer,Clothing,Night
+3691,4492,ATM Withdrawal,Groceries,Morning
+3692,1431,Bank Transfer,Clothing,Afternoon
+3693,295,POS,Cash,Afternoon
+3694,2755,ATM Withdrawal,Electronics,Afternoon
+3695,3775,Online,Groceries,Afternoon
+3696,4474,Bank Transfer,Cash,Afternoon
+3697,1455,ATM Withdrawal,Dining,Night
+3698,1476,POS,Clothing,Morning
+3699,1786,POS,Dining,Morning
+3700,3665,POS,Travel,Afternoon
+3701,924,POS,Groceries,Afternoon
+3702,297,ATM Withdrawal,Clothing,Afternoon
+3703,4200,Online,Electronics,Night
+3704,2098,Bank Transfer,Electronics,Night
+3705,4436,Online,Electronics,Evening
+3706,1814,Bank Transfer,Cash,Afternoon
+3707,1188,Online,Electronics,Evening
+3708,2561,ATM Withdrawal,Clothing,Evening
+3709,4380,ATM Withdrawal,Cash,Evening
+3710,1598,Bank Transfer,Travel,Morning
+3711,1966,ATM Withdrawal,Electronics,Evening
+3712,1785,Bank Transfer,Electronics,Afternoon
+3713,4872,Online,Cash,Night
+3714,997,ATM Withdrawal,Electronics,Afternoon
+3715,1213,ATM Withdrawal,Travel,Night
+3716,3340,Bank Transfer,Cash,Morning
+3717,1129,Bank Transfer,Cash,Morning
+3718,206,Bank Transfer,Groceries,Afternoon
+3719,3985,Bank Transfer,Cash,Morning
+3720,535,POS,Electronics,Night
+3721,4737,Bank Transfer,Cash,Morning
+3722,1420,POS,Electronics,Evening
+3723,4513,Online,Electronics,Evening
+3724,1302,Bank Transfer,Cash,Morning
+3725,1204,POS,Groceries,Afternoon
+3726,1958,POS,Electronics,Evening
+3727,3665,POS,Groceries,Night
+3728,4796,ATM Withdrawal,Groceries,Afternoon
+3729,2227,POS,Cash,Morning
+3730,4264,Bank Transfer,Dining,Afternoon
+3731,3590,Bank Transfer,Dining,Afternoon
+3732,1027,Bank Transfer,Electronics,Afternoon
+3733,3163,POS,Clothing,Afternoon
+3734,3600,POS,Dining,Morning
+3735,4217,ATM Withdrawal,Cash,Morning
+3736,4079,Online,Cash,Evening
+3737,57,ATM Withdrawal,Dining,Evening
+3738,3673,Bank Transfer,Clothing,Night
+3739,4481,Bank Transfer,Travel,Night
+3740,837,Bank Transfer,Electronics,Evening
+3741,4732,ATM Withdrawal,Travel,Evening
+3742,2099,Bank Transfer,Travel,Afternoon
+3743,2066,Bank Transfer,Groceries,Evening
+3744,828,Bank Transfer,Groceries,Night
+3745,4762,POS,Electronics,Evening
+3746,3994,Online,Clothing,Afternoon
+3747,3690,POS,Groceries,Night
+3748,1821,POS,Dining,Morning
+3749,4895,Online,Electronics,Evening
+3750,3124,Online,Cash,Morning
+3751,1639,ATM Withdrawal,Travel,Night
+3752,1553,Online,Electronics,Evening
+3753,3589,ATM Withdrawal,Cash,Morning
+3754,1914,ATM Withdrawal,Cash,Evening
+3755,1446,POS,Groceries,Morning
+3756,3327,Bank Transfer,Cash,Morning
+3757,3530,POS,Clothing,Night
+3758,3069,POS,Cash,Evening
+3759,4126,Online,Cash,Morning
+3760,1008,Online,Travel,Evening
+3761,1441,ATM Withdrawal,Clothing,Evening
+3762,4562,ATM Withdrawal,Electronics,Afternoon
+3763,3071,ATM Withdrawal,Clothing,Night
+3764,274,Online,Clothing,Evening
+3765,3741,ATM Withdrawal,Electronics,Evening
+3766,2284,ATM Withdrawal,Travel,Evening
+3767,3885,Online,Cash,Night
+3768,3327,Bank Transfer,Clothing,Night
+3769,2056,POS,Clothing,Evening
+3770,3154,Online,Electronics,Night
+3771,3231,ATM Withdrawal,Dining,Afternoon
+3772,3150,POS,Clothing,Night
+3773,4910,Online,Groceries,Afternoon
+3774,1263,POS,Cash,Afternoon
+3775,732,POS,Cash,Afternoon
+3776,93,Bank Transfer,Travel,Morning
+3777,4845,ATM Withdrawal,Clothing,Night
+3778,3380,Online,Electronics,Evening
+3779,3829,ATM Withdrawal,Groceries,Afternoon
+3780,3374,Bank Transfer,Electronics,Evening
+3781,1767,Bank Transfer,Clothing,Afternoon
+3782,4328,Online,Groceries,Evening
+3783,2790,Online,Travel,Morning
+3784,3297,Bank Transfer,Travel,Afternoon
+3785,2462,Online,Travel,Morning
+3786,338,POS,Dining,Morning
+3787,435,POS,Electronics,Night
+3788,779,Bank Transfer,Clothing,Evening
+3789,3985,ATM Withdrawal,Groceries,Afternoon
+3790,617,Online,Cash,Morning
+3791,1862,Online,Cash,Evening
+3792,2682,POS,Electronics,Night
+3793,2134,Online,Clothing,Evening
+3794,1310,ATM Withdrawal,Dining,Evening
+3795,475,Online,Clothing,Night
+3796,1974,Online,Electronics,Night
+3797,1955,POS,Clothing,Night
+3798,2549,Online,Cash,Morning
+3799,2370,Bank Transfer,Cash,Evening
+3800,2049,Bank Transfer,Groceries,Night
+3801,1194,ATM Withdrawal,Dining,Evening
+3802,3944,ATM Withdrawal,Cash,Evening
+3803,3227,ATM Withdrawal,Groceries,Morning
+3804,2792,ATM Withdrawal,Dining,Evening
+3805,787,POS,Cash,Morning
+3806,3389,Online,Dining,Night
+3807,2428,POS,Clothing,Night
+3808,4087,ATM Withdrawal,Groceries,Evening
+3809,4272,Online,Dining,Morning
+3810,2449,Bank Transfer,Dining,Morning
+3811,4841,POS,Clothing,Afternoon
+3812,1999,Online,Cash,Afternoon
+3813,1076,Bank Transfer,Cash,Night
+3814,954,Bank Transfer,Electronics,Night
+3815,38,ATM Withdrawal,Electronics,Afternoon
+3816,1907,Bank Transfer,Cash,Morning
+3817,1707,Bank Transfer,Travel,Evening
+3818,2824,ATM Withdrawal,Travel,Evening
+3819,3375,Online,Dining,Morning
+3820,2498,Online,Cash,Night
+3821,1675,ATM Withdrawal,Electronics,Evening
+3822,4629,POS,Dining,Morning
+3823,1580,ATM Withdrawal,Groceries,Evening
+3824,1743,Online,Electronics,Morning
+3825,769,POS,Electronics,Afternoon
+3826,2167,ATM Withdrawal,Electronics,Afternoon
+3827,1361,Online,Travel,Evening
+3828,3486,Online,Clothing,Evening
+3829,1278,Online,Clothing,Evening
+3830,1795,Bank Transfer,Travel,Evening
+3831,3959,Bank Transfer,Cash,Afternoon
+3832,2617,POS,Cash,Afternoon
+3833,408,POS,Travel,Morning
+3834,2640,POS,Travel,Evening
+3835,2456,Bank Transfer,Cash,Afternoon
+3836,1679,POS,Clothing,Night
+3837,248,Online,Dining,Morning
+3838,3546,Online,Travel,Morning
+3839,3871,POS,Dining,Morning
+3840,3113,POS,Dining,Night
+3841,1156,Bank Transfer,Groceries,Night
+3842,1567,Online,Clothing,Night
+3843,3748,ATM Withdrawal,Dining,Afternoon
+3844,2167,ATM Withdrawal,Clothing,Night
+3845,3461,Bank Transfer,Clothing,Morning
+3846,309,Bank Transfer,Groceries,Evening
+3847,3708,Bank Transfer,Cash,Morning
+3848,4063,Online,Clothing,Morning
+3849,4869,POS,Dining,Afternoon
+3850,258,POS,Cash,Morning
+3851,2578,Bank Transfer,Cash,Afternoon
+3852,4139,Online,Electronics,Afternoon
+3853,4333,ATM Withdrawal,Dining,Evening
+3854,4690,Bank Transfer,Dining,Morning
+3855,2870,Online,Clothing,Evening
+3856,733,Bank Transfer,Dining,Evening
+3857,579,Online,Electronics,Morning
+3858,229,Online,Clothing,Morning
+3859,1404,Bank Transfer,Travel,Night
+3860,2844,POS,Dining,Night
+3861,2132,Bank Transfer,Dining,Afternoon
+3862,4241,POS,Groceries,Morning
+3863,4010,POS,Travel,Afternoon
+3864,4359,ATM Withdrawal,Travel,Evening
+3865,3099,Online,Electronics,Evening
+3866,59,Bank Transfer,Travel,Night
+3867,524,Online,Groceries,Afternoon
+3868,2801,ATM Withdrawal,Electronics,Morning
+3869,2788,POS,Travel,Morning
+3870,2628,Bank Transfer,Electronics,Night
+3871,1847,Online,Travel,Night
+3872,4681,ATM Withdrawal,Travel,Afternoon
+3873,1175,POS,Cash,Night
+3874,2259,POS,Travel,Night
+3875,424,Online,Dining,Night
+3876,2278,POS,Travel,Evening
+3877,1114,ATM Withdrawal,Dining,Afternoon
+3878,4868,POS,Clothing,Morning
+3879,4668,Bank Transfer,Cash,Morning
+3880,3366,Bank Transfer,Groceries,Afternoon
+3881,2426,Online,Electronics,Night
+3882,1944,ATM Withdrawal,Electronics,Night
+3883,213,POS,Clothing,Morning
+3884,78,POS,Travel,Evening
+3885,525,POS,Groceries,Afternoon
+3886,3573,Bank Transfer,Clothing,Night
+3887,4466,ATM Withdrawal,Clothing,Evening
+3888,1474,POS,Electronics,Evening
+3889,1662,Online,Dining,Night
+3890,716,ATM Withdrawal,Dining,Afternoon
+3891,1635,ATM Withdrawal,Travel,Afternoon
+3892,4762,POS,Travel,Morning
+3893,3795,Bank Transfer,Clothing,Morning
+3894,1355,ATM Withdrawal,Travel,Afternoon
+3895,353,Online,Dining,Night
+3896,3796,ATM Withdrawal,Groceries,Afternoon
+3897,545,Bank Transfer,Electronics,Morning
+3898,364,Online,Dining,Morning
+3899,3552,Bank Transfer,Cash,Morning
+3900,992,POS,Travel,Afternoon
+3901,1355,ATM Withdrawal,Electronics,Afternoon
+3902,3019,Online,Cash,Night
+3903,536,Bank Transfer,Electronics,Morning
+3904,940,POS,Clothing,Evening
+3905,2766,Online,Travel,Evening
+3906,2292,ATM Withdrawal,Clothing,Night
+3907,1956,ATM Withdrawal,Electronics,Night
+3908,3937,Bank Transfer,Clothing,Morning
+3909,2551,Online,Travel,Afternoon
+3910,1926,POS,Dining,Afternoon
+3911,3370,POS,Groceries,Evening
+3912,1603,POS,Cash,Morning
+3913,2935,Bank Transfer,Dining,Evening
+3914,3635,POS,Electronics,Evening
+3915,1233,Online,Dining,Morning
+3916,1969,Bank Transfer,Clothing,Night
+3917,975,ATM Withdrawal,Travel,Evening
+3918,3688,Bank Transfer,Dining,Night
+3919,4322,Bank Transfer,Dining,Afternoon
+3920,632,Bank Transfer,Travel,Evening
+3921,4458,Online,Clothing,Morning
+3922,4797,ATM Withdrawal,Groceries,Night
+3923,4736,ATM Withdrawal,Dining,Afternoon
+3924,2382,Bank Transfer,Cash,Afternoon
+3925,2958,Bank Transfer,Electronics,Evening
+3926,3309,Bank Transfer,Clothing,Afternoon
+3927,1178,Online,Clothing,Morning
+3928,4759,Online,Dining,Evening
+3929,401,POS,Cash,Afternoon
+3930,3819,ATM Withdrawal,Travel,Morning
+3931,2417,POS,Dining,Night
+3932,4874,POS,Dining,Night
+3933,4902,Bank Transfer,Travel,Evening
+3934,4270,Online,Electronics,Morning
+3935,4838,POS,Travel,Afternoon
+3936,590,POS,Dining,Evening
+3937,830,POS,Groceries,Evening
+3938,1257,Bank Transfer,Travel,Afternoon
+3939,133,Bank Transfer,Electronics,Morning
+3940,4449,Online,Travel,Afternoon
+3941,1884,POS,Travel,Night
+3942,533,POS,Clothing,Evening
+3943,3133,Online,Clothing,Night
+3944,4234,Online,Dining,Evening
+3945,3208,Online,Dining,Afternoon
+3946,2795,ATM Withdrawal,Travel,Morning
+3947,2128,Online,Groceries,Afternoon
+3948,1220,Bank Transfer,Cash,Night
+3949,1036,ATM Withdrawal,Dining,Morning
+3950,4127,Online,Travel,Morning
+3951,4271,Bank Transfer,Travel,Evening
+3952,507,Online,Cash,Morning
+3953,4539,Online,Travel,Evening
+3954,2815,ATM Withdrawal,Cash,Morning
+3955,4942,Bank Transfer,Cash,Morning
+3956,1703,POS,Travel,Evening
+3957,4768,Online,Travel,Morning
+3958,734,ATM Withdrawal,Clothing,Afternoon
+3959,385,Bank Transfer,Cash,Morning
+3960,4408,Online,Electronics,Night
+3961,2462,POS,Cash,Evening
+3962,3869,Bank Transfer,Electronics,Evening
+3963,1696,Bank Transfer,Travel,Afternoon
+3964,4813,ATM Withdrawal,Dining,Night
+3965,266,Online,Groceries,Morning
+3966,4504,Online,Travel,Afternoon
+3967,3610,Bank Transfer,Groceries,Morning
+3968,60,Online,Clothing,Afternoon
+3969,604,Bank Transfer,Electronics,Evening
+3970,4923,POS,Clothing,Night
+3971,4741,ATM Withdrawal,Dining,Evening
+3972,3883,Online,Dining,Afternoon
+3973,3446,Online,Cash,Morning
+3974,1082,ATM Withdrawal,Travel,Night
+3975,1486,POS,Cash,Morning
+3976,4880,POS,Dining,Evening
+3977,3030,POS,Dining,Morning
+3978,1674,POS,Cash,Afternoon
+3979,4502,POS,Clothing,Night
+3980,2740,Bank Transfer,Groceries,Night
+3981,1405,Online,Electronics,Night
+3982,3907,Online,Dining,Afternoon
+3983,4634,Online,Cash,Morning
+3984,4790,Bank Transfer,Dining,Night
+3985,4055,ATM Withdrawal,Clothing,Evening
+3986,2670,POS,Electronics,Evening
+3987,2243,ATM Withdrawal,Clothing,Evening
+3988,3332,POS,Groceries,Evening
+3989,4207,POS,Clothing,Evening
+3990,4228,ATM Withdrawal,Electronics,Afternoon
+3991,2111,Online,Electronics,Morning
+3992,1316,Bank Transfer,Dining,Afternoon
+3993,1647,ATM Withdrawal,Groceries,Evening
+3994,1150,Online,Travel,Evening
+3995,625,POS,Dining,Night
+3996,4662,Online,Cash,Night
+3997,4219,POS,Clothing,Morning
+3998,1576,POS,Clothing,Morning
+3999,986,Online,Electronics,Morning
+4000,4806,POS,Cash,Afternoon
+4001,1326,Bank Transfer,Electronics,Night
+4002,2349,Online,Cash,Morning
+4003,4366,ATM Withdrawal,Electronics,Night
+4004,2106,POS,Travel,Night
+4005,388,POS,Travel,Night
+4006,3475,Bank Transfer,Dining,Night
+4007,2281,Bank Transfer,Travel,Night
+4008,1056,ATM Withdrawal,Cash,Night
+4009,1017,POS,Electronics,Afternoon
+4010,119,ATM Withdrawal,Cash,Evening
+4011,2781,ATM Withdrawal,Dining,Night
+4012,3893,POS,Dining,Afternoon
+4013,2610,ATM Withdrawal,Groceries,Morning
+4014,3253,ATM Withdrawal,Travel,Afternoon
+4015,1015,Bank Transfer,Clothing,Afternoon
+4016,4803,Bank Transfer,Clothing,Afternoon
+4017,315,ATM Withdrawal,Groceries,Night
+4018,968,POS,Electronics,Morning
+4019,963,Bank Transfer,Groceries,Afternoon
+4020,2678,ATM Withdrawal,Electronics,Morning
+4021,3548,Online,Travel,Afternoon
+4022,2687,Online,Travel,Night
+4023,1640,ATM Withdrawal,Dining,Afternoon
+4024,1801,Online,Dining,Afternoon
+4025,2613,Bank Transfer,Dining,Morning
+4026,1981,POS,Dining,Morning
+4027,76,ATM Withdrawal,Clothing,Morning
+4028,844,Bank Transfer,Dining,Evening
+4029,215,POS,Dining,Morning
+4030,2843,Online,Dining,Afternoon
+4031,4260,Online,Electronics,Evening
+4032,1724,Online,Cash,Morning
+4033,1542,Online,Dining,Night
+4034,3155,Bank Transfer,Groceries,Morning
+4035,3130,Bank Transfer,Dining,Night
+4036,717,POS,Dining,Evening
+4037,188,ATM Withdrawal,Clothing,Night
+4038,122,POS,Cash,Evening
+4039,766,ATM Withdrawal,Dining,Night
+4040,906,Online,Cash,Morning
+4041,2878,Online,Electronics,Evening
+4042,168,Online,Travel,Afternoon
+4043,795,Online,Cash,Afternoon
+4044,1813,Bank Transfer,Cash,Afternoon
+4045,1849,POS,Dining,Morning
+4046,3178,ATM Withdrawal,Dining,Afternoon
+4047,2308,ATM Withdrawal,Dining,Evening
+4048,4088,Bank Transfer,Clothing,Afternoon
+4049,1552,Online,Travel,Evening
+4050,4218,POS,Clothing,Afternoon
+4051,4364,Online,Clothing,Night
+4052,2164,Bank Transfer,Clothing,Evening
+4053,584,ATM Withdrawal,Electronics,Afternoon
+4054,3048,Bank Transfer,Travel,Afternoon
+4055,1391,ATM Withdrawal,Electronics,Afternoon
+4056,1232,POS,Electronics,Evening
+4057,2484,ATM Withdrawal,Travel,Evening
+4058,1511,POS,Electronics,Afternoon
+4059,868,Online,Travel,Night
+4060,3584,Online,Cash,Evening
+4061,3739,Bank Transfer,Cash,Evening
+4062,2975,POS,Dining,Night
+4063,3201,Online,Clothing,Morning
+4064,1606,POS,Cash,Night
+4065,1571,Online,Cash,Afternoon
+4066,2532,Online,Electronics,Evening
+4067,2609,ATM Withdrawal,Travel,Evening
+4068,2401,Bank Transfer,Groceries,Evening
+4069,2685,ATM Withdrawal,Electronics,Evening
+4070,2193,POS,Electronics,Morning
+4071,286,Online,Travel,Evening
+4072,3892,Bank Transfer,Groceries,Evening
+4073,3614,Online,Groceries,Morning
+4074,2088,Online,Dining,Afternoon
+4075,4352,ATM Withdrawal,Electronics,Afternoon
+4076,4516,POS,Clothing,Morning
+4077,4087,Bank Transfer,Cash,Afternoon
+4078,4178,Bank Transfer,Electronics,Afternoon
+4079,1130,Bank Transfer,Clothing,Night
+4080,4778,POS,Clothing,Night
+4081,2533,Bank Transfer,Travel,Night
+4082,3380,POS,Electronics,Morning
+4083,4392,Bank Transfer,Travel,Evening
+4084,1918,Online,Dining,Morning
+4085,3530,POS,Clothing,Morning
+4086,4317,ATM Withdrawal,Groceries,Morning
+4087,4506,Bank Transfer,Clothing,Morning
+4088,4760,ATM Withdrawal,Dining,Night
+4089,3115,POS,Clothing,Morning
+4090,507,Online,Travel,Night
+4091,3597,ATM Withdrawal,Electronics,Evening
+4092,4203,ATM Withdrawal,Groceries,Afternoon
+4093,2423,Online,Travel,Night
+4094,3810,Online,Cash,Morning
+4095,472,POS,Electronics,Evening
+4096,2770,Bank Transfer,Groceries,Morning
+4097,3467,ATM Withdrawal,Dining,Evening
+4098,282,ATM Withdrawal,Clothing,Afternoon
+4099,1160,POS,Groceries,Evening
+4100,3399,Bank Transfer,Cash,Evening
+4101,28,POS,Dining,Afternoon
+4102,1626,ATM Withdrawal,Electronics,Afternoon
+4103,3188,ATM Withdrawal,Groceries,Evening
+4104,4091,Online,Dining,Morning
+4105,421,Online,Electronics,Night
+4106,751,Bank Transfer,Travel,Morning
+4107,2681,ATM Withdrawal,Clothing,Night
+4108,2789,ATM Withdrawal,Dining,Afternoon
+4109,2634,Online,Travel,Morning
+4110,524,POS,Cash,Afternoon
+4111,216,POS,Cash,Evening
+4112,957,ATM Withdrawal,Electronics,Evening
+4113,2451,ATM Withdrawal,Groceries,Morning
+4114,1838,Bank Transfer,Clothing,Afternoon
+4115,3608,Bank Transfer,Electronics,Morning
+4116,2177,Online,Dining,Morning
+4117,1666,ATM Withdrawal,Clothing,Night
+4118,611,POS,Travel,Evening
+4119,721,Bank Transfer,Clothing,Morning
+4120,1213,Online,Travel,Evening
+4121,1401,Online,Electronics,Night
+4122,2706,POS,Groceries,Afternoon
+4123,3282,Bank Transfer,Cash,Morning
+4124,4935,POS,Clothing,Evening
+4125,3141,Online,Groceries,Morning
+4126,3740,ATM Withdrawal,Groceries,Afternoon
+4127,2676,POS,Cash,Morning
+4128,559,Online,Clothing,Morning
+4129,4751,ATM Withdrawal,Clothing,Evening
+4130,3992,ATM Withdrawal,Groceries,Afternoon
+4131,1254,Bank Transfer,Dining,Night
+4132,3896,Bank Transfer,Dining,Afternoon
+4133,4022,Online,Clothing,Afternoon
+4134,2559,POS,Groceries,Night
+4135,3214,ATM Withdrawal,Groceries,Morning
+4136,855,Bank Transfer,Electronics,Evening
+4137,4555,Bank Transfer,Groceries,Morning
+4138,53,POS,Cash,Morning
+4139,668,Bank Transfer,Dining,Night
+4140,4833,Online,Electronics,Night
+4141,3940,POS,Cash,Morning
+4142,2877,ATM Withdrawal,Dining,Afternoon
+4143,3657,Online,Cash,Evening
+4144,2792,ATM Withdrawal,Travel,Afternoon
+4145,1701,ATM Withdrawal,Clothing,Morning
+4146,2235,Bank Transfer,Travel,Morning
+4147,3076,Online,Clothing,Evening
+4148,1957,Online,Dining,Afternoon
+4149,1375,POS,Dining,Morning
+4150,3140,Online,Travel,Morning
+4151,4543,POS,Cash,Night
+4152,4531,Online,Clothing,Evening
+4153,977,ATM Withdrawal,Clothing,Night
+4154,1414,POS,Electronics,Night
+4155,495,Online,Groceries,Night
+4156,1765,POS,Cash,Morning
+4157,3640,Bank Transfer,Cash,Afternoon
+4158,2978,Bank Transfer,Electronics,Night
+4159,1589,POS,Dining,Afternoon
+4160,2805,POS,Travel,Morning
+4161,60,ATM Withdrawal,Cash,Night
+4162,1669,Online,Clothing,Morning
+4163,4310,Bank Transfer,Electronics,Night
+4164,2797,Bank Transfer,Travel,Night
+4165,4638,Online,Travel,Morning
+4166,2165,Bank Transfer,Cash,Evening
+4167,4356,Bank Transfer,Groceries,Evening
+4168,4240,POS,Clothing,Afternoon
+4169,3171,Bank Transfer,Travel,Afternoon
+4170,1624,Bank Transfer,Clothing,Morning
+4171,2746,Bank Transfer,Cash,Morning
+4172,416,Online,Electronics,Morning
+4173,3389,ATM Withdrawal,Travel,Evening
+4174,4207,POS,Cash,Evening
+4175,1394,ATM Withdrawal,Travel,Night
+4176,3705,Bank Transfer,Electronics,Night
+4177,4509,Bank Transfer,Clothing,Morning
+4178,4919,Bank Transfer,Clothing,Morning
+4179,2912,ATM Withdrawal,Travel,Afternoon
+4180,1639,Online,Cash,Evening
+4181,3272,Online,Electronics,Morning
+4182,1036,POS,Dining,Evening
+4183,2999,ATM Withdrawal,Clothing,Morning
+4184,2234,Online,Dining,Night
+4185,2930,POS,Travel,Morning
+4186,4325,Bank Transfer,Dining,Night
+4187,4278,Bank Transfer,Cash,Afternoon
+4188,2793,POS,Cash,Afternoon
+4189,1423,Online,Dining,Afternoon
+4190,4607,ATM Withdrawal,Cash,Morning
+4191,3658,POS,Clothing,Afternoon
+4192,2818,Online,Travel,Morning
+4193,3341,POS,Dining,Evening
+4194,2188,Online,Clothing,Night
+4195,807,Bank Transfer,Dining,Evening
+4196,2856,POS,Clothing,Morning
+4197,939,ATM Withdrawal,Cash,Afternoon
+4198,4828,POS,Cash,Night
+4199,3101,Bank Transfer,Travel,Afternoon
+4200,2272,Bank Transfer,Cash,Evening
+4201,1343,Online,Electronics,Morning
+4202,1284,Bank Transfer,Clothing,Night
+4203,4593,Online,Clothing,Night
+4204,3490,Bank Transfer,Dining,Morning
+4205,3352,Online,Travel,Morning
+4206,1227,ATM Withdrawal,Groceries,Night
+4207,1474,Online,Cash,Evening
+4208,4418,Online,Groceries,Evening
+4209,4184,ATM Withdrawal,Electronics,Afternoon
+4210,4780,Online,Travel,Night
+4211,23,Online,Clothing,Morning
+4212,2303,ATM Withdrawal,Groceries,Morning
+4213,2055,Bank Transfer,Electronics,Morning
+4214,1047,POS,Travel,Morning
+4215,4138,Online,Electronics,Night
+4216,1469,Bank Transfer,Cash,Evening
+4217,266,POS,Groceries,Afternoon
+4218,4139,ATM Withdrawal,Dining,Evening
+4219,4083,Online,Dining,Afternoon
+4220,1293,Online,Travel,Morning
+4221,3497,ATM Withdrawal,Electronics,Morning
+4222,2194,Online,Clothing,Night
+4223,368,POS,Groceries,Morning
+4224,3801,POS,Dining,Night
+4225,4859,ATM Withdrawal,Dining,Night
+4226,3197,Online,Electronics,Night
+4227,4509,Bank Transfer,Dining,Morning
+4228,1235,Online,Electronics,Morning
+4229,2307,ATM Withdrawal,Groceries,Evening
+4230,287,Bank Transfer,Electronics,Afternoon
+4231,4217,POS,Dining,Evening
+4232,1996,POS,Electronics,Morning
+4233,3554,Bank Transfer,Dining,Afternoon
+4234,2803,Bank Transfer,Cash,Night
+4235,401,ATM Withdrawal,Travel,Afternoon
+4236,978,Online,Dining,Night
+4237,2200,POS,Dining,Morning
+4238,2238,Online,Dining,Afternoon
+4239,2636,POS,Travel,Night
+4240,2855,Online,Cash,Evening
+4241,4374,POS,Clothing,Evening
+4242,3317,Online,Dining,Night
+4243,2610,ATM Withdrawal,Clothing,Evening
+4244,2690,POS,Groceries,Evening
+4245,4380,ATM Withdrawal,Cash,Afternoon
+4246,4848,POS,Electronics,Evening
+4247,95,POS,Clothing,Afternoon
+4248,3144,POS,Cash,Morning
+4249,4509,Online,Groceries,Evening
+4250,2249,POS,Cash,Morning
+4251,3374,ATM Withdrawal,Electronics,Evening
+4252,2055,Online,Dining,Night
+4253,1064,Online,Dining,Night
+4254,3411,POS,Dining,Morning
+4255,3739,Bank Transfer,Travel,Morning
+4256,2679,Online,Travel,Morning
+4257,285,POS,Travel,Night
+4258,4756,ATM Withdrawal,Travel,Morning
+4259,4100,Bank Transfer,Groceries,Night
+4260,1115,Online,Cash,Morning
+4261,4691,Bank Transfer,Groceries,Afternoon
+4262,2942,Online,Dining,Afternoon
+4263,138,Bank Transfer,Electronics,Evening
+4264,4361,Bank Transfer,Travel,Afternoon
+4265,4336,ATM Withdrawal,Cash,Morning
+4266,3578,Bank Transfer,Electronics,Afternoon
+4267,2412,ATM Withdrawal,Groceries,Afternoon
+4268,1657,POS,Travel,Morning
+4269,3566,Online,Groceries,Afternoon
+4270,3901,ATM Withdrawal,Groceries,Morning
+4271,2203,Online,Clothing,Afternoon
+4272,2057,ATM Withdrawal,Cash,Morning
+4273,3114,Online,Groceries,Night
+4274,4365,ATM Withdrawal,Dining,Night
+4275,2144,Online,Groceries,Evening
+4276,852,POS,Travel,Afternoon
+4277,1981,Online,Dining,Evening
+4278,4370,POS,Groceries,Morning
+4279,3913,POS,Dining,Night
+4280,3623,POS,Groceries,Morning
+4281,401,Bank Transfer,Cash,Evening
+4282,2289,Online,Dining,Morning
+4283,910,Bank Transfer,Electronics,Morning
+4284,4693,Bank Transfer,Clothing,Morning
+4285,2504,Online,Dining,Morning
+4286,1162,POS,Travel,Night
+4287,1304,Bank Transfer,Clothing,Morning
+4288,475,Bank Transfer,Clothing,Morning
+4289,2185,ATM Withdrawal,Groceries,Night
+4290,3255,Online,Dining,Morning
+4291,497,Bank Transfer,Cash,Morning
+4292,2948,Online,Clothing,Evening
+4293,2636,Online,Travel,Night
+4294,959,Bank Transfer,Cash,Afternoon
+4295,4511,Online,Cash,Morning
+4296,1059,POS,Travel,Evening
+4297,4085,Bank Transfer,Travel,Night
+4298,4469,Bank Transfer,Groceries,Morning
+4299,1400,Bank Transfer,Electronics,Afternoon
+4300,1093,ATM Withdrawal,Dining,Morning
+4301,4656,ATM Withdrawal,Clothing,Evening
+4302,1668,ATM Withdrawal,Dining,Night
+4303,4397,ATM Withdrawal,Cash,Evening
+4304,1827,Bank Transfer,Clothing,Night
+4305,200,POS,Groceries,Afternoon
+4306,470,Online,Dining,Morning
+4307,2531,Online,Groceries,Evening
+4308,3486,Bank Transfer,Groceries,Afternoon
+4309,2715,POS,Dining,Afternoon
+4310,4376,Online,Dining,Morning
+4311,1167,POS,Clothing,Evening
+4312,4276,Bank Transfer,Cash,Morning
+4313,37,ATM Withdrawal,Cash,Morning
+4314,4241,POS,Travel,Night
+4315,2982,Online,Groceries,Night
+4316,3034,Online,Cash,Morning
+4317,4993,Online,Electronics,Night
+4318,1274,ATM Withdrawal,Clothing,Evening
+4319,865,POS,Clothing,Night
+4320,4035,POS,Travel,Afternoon
+4321,1261,Online,Travel,Morning
+4322,4614,POS,Groceries,Morning
+4323,3880,Online,Clothing,Evening
+4324,1336,POS,Clothing,Morning
+4325,1035,ATM Withdrawal,Electronics,Night
+4326,371,ATM Withdrawal,Groceries,Afternoon
+4327,1228,Bank Transfer,Groceries,Morning
+4328,615,Bank Transfer,Cash,Night
+4329,1680,Bank Transfer,Travel,Afternoon
+4330,4821,POS,Cash,Morning
+4331,2307,ATM Withdrawal,Groceries,Morning
+4332,2204,ATM Withdrawal,Electronics,Morning
+4333,4453,ATM Withdrawal,Groceries,Afternoon
+4334,1287,Online,Cash,Morning
+4335,408,POS,Dining,Morning
+4336,2182,POS,Dining,Night
+4337,2820,Bank Transfer,Electronics,Night
+4338,2662,Online,Travel,Night
+4339,2949,Online,Clothing,Night
+4340,831,ATM Withdrawal,Groceries,Morning
+4341,954,Bank Transfer,Cash,Afternoon
+4342,3488,POS,Travel,Morning
+4343,2789,Online,Cash,Evening
+4344,4439,ATM Withdrawal,Travel,Afternoon
+4345,4460,POS,Groceries,Evening
+4346,1206,ATM Withdrawal,Clothing,Morning
+4347,1222,POS,Groceries,Afternoon
+4348,833,ATM Withdrawal,Clothing,Afternoon
+4349,1906,POS,Cash,Night
+4350,4273,Bank Transfer,Electronics,Morning
+4351,2425,POS,Clothing,Evening
+4352,545,POS,Travel,Afternoon
+4353,3020,POS,Electronics,Afternoon
+4354,2637,ATM Withdrawal,Cash,Night
+4355,3787,Online,Dining,Afternoon
+4356,959,POS,Electronics,Night
+4357,3518,POS,Clothing,Afternoon
+4358,4312,Bank Transfer,Electronics,Afternoon
+4359,553,POS,Cash,Morning
+4360,3910,Bank Transfer,Electronics,Afternoon
+4361,3763,POS,Cash,Night
+4362,4234,ATM Withdrawal,Dining,Night
+4363,2092,Online,Clothing,Night
+4364,2876,Online,Travel,Evening
+4365,2256,Online,Electronics,Afternoon
+4366,1846,ATM Withdrawal,Groceries,Morning
+4367,86,Bank Transfer,Travel,Morning
+4368,378,Online,Electronics,Evening
+4369,4631,ATM Withdrawal,Travel,Afternoon
+4370,358,ATM Withdrawal,Groceries,Night
+4371,4611,POS,Travel,Evening
+4372,4748,Bank Transfer,Travel,Evening
+4373,4343,ATM Withdrawal,Groceries,Night
+4374,1465,Bank Transfer,Groceries,Evening
+4375,2195,Online,Groceries,Evening
+4376,3821,Online,Dining,Night
+4377,3282,Online,Cash,Afternoon
+4378,3692,POS,Cash,Morning
+4379,1856,POS,Groceries,Morning
+4380,1864,Bank Transfer,Cash,Night
+4381,2995,Bank Transfer,Travel,Night
+4382,4460,POS,Groceries,Afternoon
+4383,2635,ATM Withdrawal,Electronics,Evening
+4384,2904,Bank Transfer,Groceries,Afternoon
+4385,568,Bank Transfer,Groceries,Evening
+4386,2906,Online,Cash,Evening
+4387,1927,Bank Transfer,Clothing,Afternoon
+4388,1264,Bank Transfer,Travel,Night
+4389,1691,ATM Withdrawal,Cash,Night
+4390,1824,Bank Transfer,Travel,Afternoon
+4391,672,ATM Withdrawal,Electronics,Evening
+4392,4126,Online,Dining,Evening
+4393,3335,POS,Clothing,Evening
+4394,1251,Online,Electronics,Evening
+4395,3153,ATM Withdrawal,Electronics,Afternoon
+4396,3047,ATM Withdrawal,Travel,Morning
+4397,171,Bank Transfer,Clothing,Night
+4398,4235,Bank Transfer,Travel,Night
+4399,1960,POS,Dining,Morning
+4400,4330,ATM Withdrawal,Travel,Evening
+4401,1791,ATM Withdrawal,Groceries,Morning
+4402,4685,Online,Travel,Morning
+4403,1487,POS,Groceries,Morning
+4404,3040,Online,Electronics,Night
+4405,3996,Bank Transfer,Dining,Night
+4406,116,Bank Transfer,Cash,Morning
+4407,2678,Online,Groceries,Morning
+4408,4945,Bank Transfer,Dining,Morning
+4409,1174,Online,Travel,Evening
+4410,1167,ATM Withdrawal,Cash,Evening
+4411,2256,ATM Withdrawal,Travel,Evening
+4412,676,Bank Transfer,Electronics,Night
+4413,2136,POS,Travel,Afternoon
+4414,2951,ATM Withdrawal,Groceries,Morning
+4415,521,Bank Transfer,Electronics,Morning
+4416,259,POS,Dining,Afternoon
+4417,898,Bank Transfer,Electronics,Morning
+4418,1033,Online,Dining,Evening
+4419,4704,Bank Transfer,Clothing,Evening
+4420,4858,Online,Groceries,Afternoon
+4421,609,ATM Withdrawal,Groceries,Evening
+4422,3032,ATM Withdrawal,Dining,Afternoon
+4423,2540,Bank Transfer,Travel,Evening
+4424,2893,POS,Cash,Morning
+4425,2074,Bank Transfer,Travel,Night
+4426,1768,Bank Transfer,Clothing,Evening
+4427,3579,ATM Withdrawal,Dining,Afternoon
+4428,1252,ATM Withdrawal,Clothing,Night
+4429,4339,Bank Transfer,Dining,Morning
+4430,2305,ATM Withdrawal,Clothing,Night
+4431,1935,Online,Dining,Afternoon
+4432,2072,Bank Transfer,Groceries,Morning
+4433,3405,ATM Withdrawal,Clothing,Morning
+4434,450,Bank Transfer,Clothing,Evening
+4435,2753,ATM Withdrawal,Dining,Night
+4436,16,Online,Electronics,Evening
+4437,1596,Online,Electronics,Morning
+4438,835,Bank Transfer,Groceries,Evening
+4439,3834,Online,Travel,Evening
+4440,1278,Online,Travel,Afternoon
+4441,3446,ATM Withdrawal,Groceries,Evening
+4442,3448,Bank Transfer,Travel,Morning
+4443,1320,ATM Withdrawal,Cash,Evening
+4444,4043,ATM Withdrawal,Cash,Morning
+4445,1637,POS,Cash,Morning
+4446,1046,Online,Cash,Afternoon
+4447,487,ATM Withdrawal,Dining,Morning
+4448,2688,ATM Withdrawal,Electronics,Morning
+4449,724,ATM Withdrawal,Groceries,Afternoon
+4450,1686,Online,Dining,Morning
+4451,2172,Online,Cash,Afternoon
+4452,518,Online,Groceries,Night
+4453,391,Bank Transfer,Electronics,Night
+4454,1190,ATM Withdrawal,Travel,Night
+4455,1855,Online,Dining,Morning
+4456,4380,ATM Withdrawal,Electronics,Evening
+4457,1728,Bank Transfer,Groceries,Afternoon
+4458,1110,POS,Clothing,Night
+4459,1870,Bank Transfer,Dining,Afternoon
+4460,2101,Online,Groceries,Night
+4461,727,Online,Groceries,Night
+4462,327,Bank Transfer,Electronics,Morning
+4463,4639,ATM Withdrawal,Groceries,Afternoon
+4464,1786,Online,Dining,Morning
+4465,2294,Online,Cash,Afternoon
+4466,1254,Bank Transfer,Dining,Afternoon
+4467,1343,ATM Withdrawal,Groceries,Evening
+4468,3679,Bank Transfer,Electronics,Night
+4469,1210,Bank Transfer,Dining,Morning
+4470,1804,ATM Withdrawal,Clothing,Evening
+4471,2711,ATM Withdrawal,Cash,Afternoon
+4472,1464,POS,Travel,Night
+4473,1943,Bank Transfer,Electronics,Morning
+4474,756,ATM Withdrawal,Electronics,Evening
+4475,850,Online,Travel,Afternoon
+4476,2505,POS,Travel,Evening
+4477,1098,Bank Transfer,Dining,Afternoon
+4478,802,ATM Withdrawal,Groceries,Afternoon
+4479,1277,POS,Groceries,Night
+4480,1560,POS,Clothing,Morning
+4481,2700,Online,Cash,Night
+4482,302,POS,Groceries,Morning
+4483,4032,Bank Transfer,Clothing,Morning
+4484,1414,ATM Withdrawal,Clothing,Afternoon
+4485,1658,POS,Electronics,Evening
+4486,2826,POS,Electronics,Morning
+4487,3920,Bank Transfer,Cash,Morning
+4488,2928,Online,Dining,Morning
+4489,1407,Online,Travel,Morning
+4490,1703,ATM Withdrawal,Travel,Afternoon
+4491,1047,Bank Transfer,Cash,Night
+4492,3862,Online,Clothing,Evening
+4493,1572,ATM Withdrawal,Cash,Afternoon
+4494,1122,ATM Withdrawal,Travel,Afternoon
+4495,1301,Online,Clothing,Afternoon
+4496,1171,Bank Transfer,Travel,Morning
+4497,1039,POS,Dining,Evening
+4498,4347,Online,Electronics,Afternoon
+4499,4267,POS,Electronics,Afternoon
+4500,2749,POS,Clothing,Afternoon
+4501,988,Bank Transfer,Cash,Morning
+4502,527,Bank Transfer,Travel,Morning
+4503,792,ATM Withdrawal,Groceries,Afternoon
+4504,2841,Bank Transfer,Dining,Morning
+4505,4190,ATM Withdrawal,Travel,Evening
+4506,147,Online,Groceries,Morning
+4507,763,POS,Dining,Afternoon
+4508,2963,Bank Transfer,Dining,Evening
+4509,4818,Online,Electronics,Morning
+4510,2465,ATM Withdrawal,Clothing,Afternoon
+4511,2844,Bank Transfer,Travel,Night
+4512,589,POS,Dining,Night
+4513,3265,Online,Travel,Evening
+4514,3276,Bank Transfer,Dining,Evening
+4515,4659,Bank Transfer,Cash,Evening
+4516,405,Online,Electronics,Morning
+4517,1947,ATM Withdrawal,Clothing,Evening
+4518,4915,ATM Withdrawal,Groceries,Morning
+4519,2599,Bank Transfer,Groceries,Afternoon
+4520,3044,ATM Withdrawal,Cash,Morning
+4521,179,ATM Withdrawal,Electronics,Morning
+4522,2347,Online,Dining,Afternoon
+4523,3249,ATM Withdrawal,Electronics,Night
+4524,3425,ATM Withdrawal,Clothing,Morning
+4525,3578,Online,Groceries,Morning
+4526,3226,Bank Transfer,Travel,Afternoon
+4527,3494,Bank Transfer,Groceries,Evening
+4528,4845,Online,Clothing,Afternoon
+4529,1851,POS,Dining,Night
+4530,3770,Online,Electronics,Evening
+4531,4562,POS,Groceries,Night
+4532,3036,ATM Withdrawal,Groceries,Morning
+4533,3975,Bank Transfer,Travel,Night
+4534,1611,POS,Electronics,Night
+4535,1156,POS,Travel,Afternoon
+4536,4336,ATM Withdrawal,Travel,Evening
+4537,2694,Bank Transfer,Dining,Morning
+4538,121,ATM Withdrawal,Groceries,Morning
+4539,602,Bank Transfer,Cash,Morning
+4540,2449,Bank Transfer,Electronics,Evening
+4541,1248,ATM Withdrawal,Dining,Evening
+4542,2804,POS,Cash,Night
+4543,2424,Online,Dining,Night
+4544,2139,Bank Transfer,Dining,Evening
+4545,2863,Bank Transfer,Clothing,Morning
+4546,2879,Online,Clothing,Evening
+4547,3608,Online,Dining,Afternoon
+4548,3813,ATM Withdrawal,Clothing,Evening
+4549,1536,Bank Transfer,Electronics,Evening
+4550,1979,ATM Withdrawal,Groceries,Morning
+4551,961,Online,Cash,Night
+4552,1512,ATM Withdrawal,Electronics,Afternoon
+4553,4477,Bank Transfer,Groceries,Afternoon
+4554,3346,POS,Clothing,Afternoon
+4555,119,POS,Cash,Evening
+4556,3996,Bank Transfer,Electronics,Morning
+4557,2364,ATM Withdrawal,Travel,Evening
+4558,235,Online,Dining,Night
+4559,3021,Online,Groceries,Morning
+4560,4136,POS,Groceries,Afternoon
+4561,623,ATM Withdrawal,Travel,Evening
+4562,108,Online,Travel,Morning
+4563,820,Online,Dining,Evening
+4564,3347,Bank Transfer,Clothing,Morning
+4565,2709,ATM Withdrawal,Electronics,Afternoon
+4566,4919,ATM Withdrawal,Electronics,Night
+4567,1029,Online,Electronics,Night
+4568,3035,ATM Withdrawal,Clothing,Evening
+4569,3538,ATM Withdrawal,Dining,Afternoon
+4570,3896,ATM Withdrawal,Electronics,Evening
+4571,2989,Bank Transfer,Groceries,Evening
+4572,3350,Online,Groceries,Morning
+4573,806,POS,Groceries,Morning
+4574,1967,ATM Withdrawal,Travel,Morning
+4575,3076,Online,Travel,Afternoon
+4576,3030,POS,Clothing,Afternoon
+4577,2690,Bank Transfer,Electronics,Evening
+4578,4451,Online,Travel,Morning
+4579,4829,Bank Transfer,Groceries,Afternoon
+4580,2958,Online,Travel,Evening
+4581,3741,Bank Transfer,Groceries,Afternoon
+4582,1111,Online,Electronics,Evening
+4583,1047,Bank Transfer,Clothing,Night
+4584,4241,POS,Dining,Morning
+4585,801,Online,Dining,Night
+4586,4184,POS,Groceries,Evening
+4587,1788,ATM Withdrawal,Travel,Evening
+4588,4810,POS,Travel,Morning
+4589,991,Online,Groceries,Morning
+4590,1275,POS,Electronics,Evening
+4591,753,Online,Groceries,Afternoon
+4592,2441,Bank Transfer,Electronics,Morning
+4593,384,ATM Withdrawal,Clothing,Evening
+4594,1763,POS,Clothing,Morning
+4595,3907,ATM Withdrawal,Groceries,Morning
+4596,2546,POS,Clothing,Night
+4597,2001,Online,Travel,Night
+4598,2938,POS,Electronics,Afternoon
+4599,3456,ATM Withdrawal,Dining,Morning
+4600,601,POS,Dining,Evening
+4601,4638,ATM Withdrawal,Clothing,Evening
+4602,2579,ATM Withdrawal,Electronics,Morning
+4603,2882,Online,Travel,Morning
+4604,1186,Bank Transfer,Dining,Afternoon
+4605,1345,Bank Transfer,Travel,Afternoon
+4606,4703,POS,Travel,Afternoon
+4607,122,ATM Withdrawal,Dining,Evening
+4608,3782,Online,Dining,Night
+4609,1855,Bank Transfer,Clothing,Afternoon
+4610,1997,Online,Electronics,Evening
+4611,4839,Online,Groceries,Afternoon
+4612,1995,ATM Withdrawal,Electronics,Evening
+4613,3302,POS,Groceries,Morning
+4614,3252,ATM Withdrawal,Dining,Evening
+4615,262,Bank Transfer,Travel,Morning
+4616,133,Bank Transfer,Electronics,Evening
+4617,1246,Online,Travel,Night
+4618,633,ATM Withdrawal,Electronics,Evening
+4619,3166,ATM Withdrawal,Cash,Morning
+4620,3146,Online,Electronics,Night
+4621,3399,POS,Travel,Evening
+4622,3427,Online,Cash,Evening
+4623,1665,Online,Clothing,Afternoon
+4624,1276,Bank Transfer,Dining,Night
+4625,2955,ATM Withdrawal,Clothing,Morning
+4626,1170,Bank Transfer,Clothing,Night
+4627,2304,Online,Electronics,Morning
+4628,450,ATM Withdrawal,Dining,Afternoon
+4629,2102,Online,Cash,Afternoon
+4630,2715,Online,Electronics,Morning
+4631,3769,POS,Groceries,Morning
+4632,563,Bank Transfer,Electronics,Morning
+4633,4914,Bank Transfer,Cash,Afternoon
+4634,1122,Online,Travel,Night
+4635,2787,POS,Electronics,Afternoon
+4636,1843,Online,Groceries,Evening
+4637,1324,Online,Electronics,Afternoon
+4638,3503,Online,Cash,Evening
+4639,3148,POS,Groceries,Evening
+4640,3122,ATM Withdrawal,Dining,Afternoon
+4641,108,POS,Cash,Afternoon
+4642,3935,Online,Electronics,Afternoon
+4643,1489,ATM Withdrawal,Groceries,Night
+4644,4406,Online,Cash,Afternoon
+4645,1232,POS,Dining,Morning
+4646,4593,POS,Travel,Afternoon
+4647,1014,ATM Withdrawal,Clothing,Evening
+4648,486,POS,Groceries,Night
+4649,1145,Online,Travel,Night
+4650,2866,ATM Withdrawal,Dining,Evening
+4651,1715,Bank Transfer,Travel,Night
+4652,527,Online,Electronics,Night
+4653,1230,Bank Transfer,Clothing,Morning
+4654,2516,ATM Withdrawal,Groceries,Morning
+4655,4335,ATM Withdrawal,Cash,Night
+4656,1201,Online,Dining,Afternoon
+4657,3890,POS,Clothing,Night
+4658,3253,Online,Dining,Morning
+4659,1987,POS,Travel,Night
+4660,2252,POS,Dining,Afternoon
+4661,3100,Online,Dining,Afternoon
+4662,1897,ATM Withdrawal,Travel,Morning
+4663,4569,Online,Travel,Night
+4664,983,Bank Transfer,Clothing,Morning
+4665,75,ATM Withdrawal,Groceries,Evening
+4666,2916,POS,Travel,Morning
+4667,580,ATM Withdrawal,Clothing,Morning
+4668,3902,Online,Dining,Morning
+4669,317,ATM Withdrawal,Dining,Night
+4670,3418,POS,Cash,Evening
+4671,3752,POS,Electronics,Night
+4672,792,ATM Withdrawal,Travel,Afternoon
+4673,4226,Bank Transfer,Clothing,Evening
+4674,775,POS,Cash,Morning
+4675,3485,Bank Transfer,Clothing,Morning
+4676,782,POS,Groceries,Morning
+4677,3867,ATM Withdrawal,Cash,Night
+4678,3195,POS,Clothing,Afternoon
+4679,549,Bank Transfer,Travel,Evening
+4680,2059,Bank Transfer,Clothing,Evening
+4681,3293,ATM Withdrawal,Electronics,Night
+4682,4685,Bank Transfer,Dining,Afternoon
+4683,1673,Bank Transfer,Dining,Evening
+4684,1057,ATM Withdrawal,Cash,Night
+4685,3846,POS,Clothing,Afternoon
+4686,3449,ATM Withdrawal,Clothing,Afternoon
+4687,515,POS,Clothing,Evening
+4688,3257,POS,Clothing,Evening
+4689,3510,POS,Electronics,Afternoon
+4690,1920,Online,Travel,Evening
+4691,742,POS,Electronics,Night
+4692,3523,ATM Withdrawal,Electronics,Afternoon
+4693,1581,ATM Withdrawal,Electronics,Evening
+4694,4619,ATM Withdrawal,Dining,Evening
+4695,2952,Online,Electronics,Night
+4696,4466,Bank Transfer,Clothing,Evening
+4697,2331,Online,Electronics,Evening
+4698,3345,ATM Withdrawal,Clothing,Evening
+4699,4632,ATM Withdrawal,Cash,Morning
+4700,4384,Bank Transfer,Travel,Night
+4701,2763,Online,Dining,Night
+4702,1382,ATM Withdrawal,Travel,Morning
+4703,1454,POS,Cash,Night
+4704,3386,POS,Travel,Evening
+4705,299,ATM Withdrawal,Dining,Evening
+4706,2075,POS,Clothing,Evening
+4707,73,Bank Transfer,Cash,Night
+4708,3955,ATM Withdrawal,Cash,Night
+4709,339,Online,Clothing,Afternoon
+4710,4868,ATM Withdrawal,Clothing,Morning
+4711,1973,Bank Transfer,Dining,Night
+4712,3098,Online,Electronics,Afternoon
+4713,2500,Bank Transfer,Groceries,Morning
+4714,150,POS,Electronics,Morning
+4715,4549,POS,Electronics,Evening
+4716,2483,POS,Travel,Evening
+4717,3913,Bank Transfer,Groceries,Afternoon
+4718,459,Bank Transfer,Clothing,Afternoon
+4719,1835,ATM Withdrawal,Electronics,Evening
+4720,4456,Online,Dining,Evening
+4721,4704,Online,Electronics,Morning
+4722,4816,Bank Transfer,Clothing,Morning
+4723,879,Bank Transfer,Electronics,Night
+4724,3574,POS,Cash,Evening
+4725,3669,Bank Transfer,Travel,Morning
+4726,3612,POS,Travel,Afternoon
+4727,402,Bank Transfer,Electronics,Morning
+4728,851,Online,Travel,Evening
+4729,2458,ATM Withdrawal,Dining,Morning
+4730,2801,Bank Transfer,Groceries,Evening
+4731,2963,POS,Electronics,Morning
+4732,1368,ATM Withdrawal,Dining,Night
+4733,1000,POS,Cash,Night
+4734,1048,POS,Dining,Afternoon
+4735,37,ATM Withdrawal,Dining,Afternoon
+4736,397,ATM Withdrawal,Cash,Evening
+4737,842,ATM Withdrawal,Clothing,Evening
+4738,259,Bank Transfer,Electronics,Evening
+4739,2037,ATM Withdrawal,Electronics,Morning
+4740,1538,Bank Transfer,Electronics,Morning
+4741,4203,Online,Groceries,Morning
+4742,1848,Online,Dining,Afternoon
+4743,1370,POS,Electronics,Evening
+4744,3119,POS,Travel,Morning
+4745,1333,Bank Transfer,Clothing,Afternoon
+4746,2236,POS,Cash,Night
+4747,3690,Online,Cash,Evening
+4748,901,Bank Transfer,Groceries,Night
+4749,1315,Bank Transfer,Cash,Afternoon
+4750,4558,ATM Withdrawal,Clothing,Evening
+4751,4202,Bank Transfer,Dining,Morning
+4752,271,POS,Cash,Afternoon
+4753,2350,Online,Cash,Night
+4754,1803,POS,Travel,Night
+4755,2306,Online,Dining,Night
+4756,2302,ATM Withdrawal,Electronics,Afternoon
+4757,2180,Online,Clothing,Afternoon
+4758,334,ATM Withdrawal,Cash,Evening
+4759,995,POS,Travel,Evening
+4760,4792,ATM Withdrawal,Clothing,Night
+4761,3862,Bank Transfer,Groceries,Afternoon
+4762,1749,Bank Transfer,Travel,Evening
+4763,1870,Online,Groceries,Afternoon
+4764,3147,POS,Cash,Morning
+4765,3908,POS,Travel,Afternoon
+4766,845,Online,Electronics,Night
+4767,4164,Bank Transfer,Clothing,Afternoon
+4768,2788,ATM Withdrawal,Clothing,Night
+4769,1406,Online,Dining,Evening
+4770,1686,ATM Withdrawal,Travel,Evening
+4771,4341,ATM Withdrawal,Travel,Evening
+4772,4323,POS,Groceries,Morning
+4773,1847,Bank Transfer,Travel,Night
+4774,3731,ATM Withdrawal,Clothing,Morning
+4775,3682,Bank Transfer,Travel,Morning
+4776,3032,POS,Dining,Evening
+4777,4694,Online,Dining,Night
+4778,1681,Online,Clothing,Afternoon
+4779,926,POS,Clothing,Afternoon
+4780,927,POS,Clothing,Night
+4781,1143,ATM Withdrawal,Travel,Afternoon
+4782,1846,POS,Travel,Evening
+4783,2148,Online,Electronics,Evening
+4784,4017,Bank Transfer,Cash,Morning
+4785,1915,Bank Transfer,Cash,Evening
+4786,3999,Bank Transfer,Groceries,Afternoon
+4787,3495,Bank Transfer,Travel,Morning
+4788,4807,POS,Electronics,Night
+4789,2130,POS,Electronics,Night
+4790,2742,Bank Transfer,Dining,Morning
+4791,2779,POS,Travel,Evening
+4792,1331,ATM Withdrawal,Electronics,Morning
+4793,3726,POS,Dining,Morning
+4794,3364,ATM Withdrawal,Groceries,Evening
+4795,1538,ATM Withdrawal,Dining,Night
+4796,4753,POS,Groceries,Morning
+4797,769,Bank Transfer,Cash,Night
+4798,3422,ATM Withdrawal,Cash,Afternoon
+4799,1367,POS,Clothing,Evening
+4800,2200,Online,Clothing,Afternoon
+4801,3491,Bank Transfer,Dining,Night
+4802,958,Online,Clothing,Afternoon
+4803,2089,ATM Withdrawal,Travel,Afternoon
+4804,1776,Online,Dining,Afternoon
+4805,37,POS,Electronics,Morning
+4806,2480,Bank Transfer,Travel,Morning
+4807,2548,ATM Withdrawal,Dining,Evening
+4808,169,POS,Cash,Night
+4809,2902,Bank Transfer,Groceries,Night
+4810,4123,ATM Withdrawal,Clothing,Evening
+4811,3732,ATM Withdrawal,Clothing,Night
+4812,3741,ATM Withdrawal,Clothing,Night
+4813,2481,ATM Withdrawal,Dining,Afternoon
+4814,4860,Online,Travel,Afternoon
+4815,1580,Online,Groceries,Night
+4816,846,Online,Clothing,Evening
+4817,4999,ATM Withdrawal,Travel,Evening
+4818,3948,Online,Electronics,Night
+4819,2296,Bank Transfer,Cash,Evening
+4820,3415,ATM Withdrawal,Electronics,Evening
+4821,2680,Bank Transfer,Groceries,Afternoon
+4822,4122,Bank Transfer,Clothing,Evening
+4823,4757,Online,Electronics,Morning
+4824,4365,ATM Withdrawal,Cash,Afternoon
+4825,1637,Online,Travel,Morning
+4826,1876,Online,Travel,Night
+4827,214,Online,Electronics,Evening
+4828,3589,ATM Withdrawal,Clothing,Morning
+4829,3184,ATM Withdrawal,Cash,Evening
+4830,801,Online,Groceries,Morning
+4831,4102,Bank Transfer,Clothing,Afternoon
+4832,3757,Bank Transfer,Dining,Night
+4833,1115,ATM Withdrawal,Electronics,Morning
+4834,1100,POS,Dining,Afternoon
+4835,1617,Online,Electronics,Night
+4836,1849,Online,Groceries,Morning
+4837,3407,POS,Clothing,Morning
+4838,76,ATM Withdrawal,Cash,Afternoon
+4839,4789,Bank Transfer,Clothing,Night
+4840,1288,ATM Withdrawal,Electronics,Night
+4841,4168,Bank Transfer,Travel,Afternoon
+4842,823,Bank Transfer,Dining,Evening
+4843,412,ATM Withdrawal,Cash,Afternoon
+4844,2012,Online,Cash,Night
+4845,4176,Online,Clothing,Afternoon
+4846,2935,Online,Clothing,Evening
+4847,3003,Bank Transfer,Electronics,Afternoon
+4848,1096,Online,Travel,Afternoon
+4849,4350,Bank Transfer,Dining,Morning
+4850,2576,Online,Travel,Evening
+4851,4498,ATM Withdrawal,Cash,Night
+4852,781,POS,Travel,Evening
+4853,3682,Bank Transfer,Electronics,Night
+4854,3258,ATM Withdrawal,Travel,Night
+4855,1679,Bank Transfer,Dining,Morning
+4856,1566,Bank Transfer,Cash,Evening
+4857,2968,ATM Withdrawal,Groceries,Morning
+4858,1161,Online,Cash,Afternoon
+4859,1227,Bank Transfer,Groceries,Evening
+4860,2241,POS,Dining,Afternoon
+4861,4352,POS,Cash,Evening
+4862,3954,ATM Withdrawal,Cash,Night
+4863,2052,POS,Cash,Afternoon
+4864,715,ATM Withdrawal,Cash,Evening
+4865,2679,ATM Withdrawal,Electronics,Evening
+4866,2123,Bank Transfer,Clothing,Afternoon
+4867,2987,ATM Withdrawal,Cash,Morning
+4868,4359,ATM Withdrawal,Electronics,Evening
+4869,4388,Online,Dining,Morning
+4870,432,Bank Transfer,Cash,Morning
+4871,2031,POS,Travel,Morning
+4872,3803,Online,Cash,Morning
+4873,4141,Online,Cash,Morning
+4874,540,Bank Transfer,Groceries,Night
+4875,100,Bank Transfer,Travel,Morning
+4876,3382,Online,Cash,Night
+4877,1952,Bank Transfer,Cash,Evening
+4878,3815,Bank Transfer,Cash,Night
+4879,1250,ATM Withdrawal,Electronics,Night
+4880,1768,Bank Transfer,Dining,Morning
+4881,107,ATM Withdrawal,Groceries,Evening
+4882,1489,Online,Cash,Evening
+4883,4636,Online,Dining,Evening
+4884,1842,POS,Groceries,Afternoon
+4885,2595,Bank Transfer,Groceries,Night
+4886,3657,Online,Groceries,Morning
+4887,89,ATM Withdrawal,Cash,Afternoon
+4888,4719,Online,Electronics,Morning
+4889,2233,Bank Transfer,Cash,Afternoon
+4890,2579,POS,Cash,Evening
+4891,1782,POS,Dining,Afternoon
+4892,4528,Online,Clothing,Evening
+4893,1133,POS,Clothing,Afternoon
+4894,3821,Bank Transfer,Clothing,Morning
+4895,3484,Bank Transfer,Dining,Morning
+4896,2633,POS,Travel,Afternoon
+4897,1413,ATM Withdrawal,Dining,Night
+4898,2588,POS,Groceries,Night
+4899,341,POS,Cash,Afternoon
+4900,4758,Online,Travel,Night
+4901,3618,ATM Withdrawal,Groceries,Morning
+4902,749,POS,Cash,Night
+4903,4616,Online,Cash,Afternoon
+4904,51,Online,Groceries,Night
+4905,4990,Online,Dining,Afternoon
+4906,3888,Bank Transfer,Clothing,Morning
+4907,1959,Online,Travel,Evening
+4908,3470,Online,Cash,Morning
+4909,2138,Bank Transfer,Electronics,Morning
+4910,4507,Bank Transfer,Cash,Afternoon
+4911,2164,Online,Clothing,Morning
+4912,1247,POS,Cash,Morning
+4913,1776,ATM Withdrawal,Electronics,Night
+4914,1851,Bank Transfer,Dining,Afternoon
+4915,515,ATM Withdrawal,Cash,Night
+4916,1851,Bank Transfer,Travel,Afternoon
+4917,4825,Online,Dining,Night
+4918,1404,Bank Transfer,Electronics,Night
+4919,266,Online,Groceries,Evening
+4920,1730,ATM Withdrawal,Cash,Morning
+4921,1081,POS,Dining,Night
+4922,1632,Online,Cash,Evening
+4923,2076,ATM Withdrawal,Travel,Night
+4924,1079,ATM Withdrawal,Cash,Night
+4925,460,Bank Transfer,Dining,Evening
+4926,907,Online,Clothing,Evening
+4927,4846,ATM Withdrawal,Dining,Evening
+4928,3738,POS,Electronics,Morning
+4929,91,Bank Transfer,Dining,Morning
+4930,746,Bank Transfer,Travel,Night
+4931,4184,ATM Withdrawal,Dining,Morning
+4932,3954,Online,Dining,Evening
+4933,2217,Bank Transfer,Travel,Afternoon
+4934,3958,Online,Dining,Morning
+4935,2012,ATM Withdrawal,Travel,Evening
+4936,1701,ATM Withdrawal,Electronics,Evening
+4937,1189,Online,Travel,Evening
+4938,2945,POS,Electronics,Evening
+4939,2525,Bank Transfer,Electronics,Night
+4940,4958,ATM Withdrawal,Travel,Evening
+4941,471,POS,Dining,Evening
+4942,2911,POS,Cash,Night
+4943,126,Online,Clothing,Morning
+4944,1664,Online,Cash,Afternoon
+4945,4571,Online,Travel,Night
+4946,1808,POS,Dining,Night
+4947,669,Bank Transfer,Electronics,Morning
+4948,3247,Online,Groceries,Morning
+4949,2132,Bank Transfer,Clothing,Evening
+4950,3829,Online,Cash,Morning
+4951,3353,POS,Dining,Afternoon
+4952,2560,Bank Transfer,Clothing,Night
+4953,4900,Bank Transfer,Groceries,Afternoon
+4954,1596,POS,Groceries,Evening
+4955,4692,Bank Transfer,Groceries,Afternoon
+4956,2757,POS,Cash,Evening
+4957,644,POS,Travel,Afternoon
+4958,2892,ATM Withdrawal,Clothing,Night
+4959,2821,Online,Travel,Afternoon
+4960,4463,ATM Withdrawal,Groceries,Morning
+4961,4025,POS,Dining,Afternoon
+4962,2749,POS,Groceries,Night
+4963,1894,Bank Transfer,Travel,Evening
+4964,1528,POS,Groceries,Afternoon
+4965,631,POS,Groceries,Afternoon
+4966,4587,POS,Travel,Morning
+4967,1547,Online,Travel,Evening
+4968,2347,ATM Withdrawal,Dining,Evening
+4969,2004,ATM Withdrawal,Travel,Evening
+4970,2080,Online,Dining,Night
+4971,4911,Online,Electronics,Night
+4972,4940,Online,Electronics,Morning
+4973,2375,ATM Withdrawal,Travel,Afternoon
+4974,2855,ATM Withdrawal,Groceries,Night
+4975,3048,POS,Clothing,Evening
+4976,864,ATM Withdrawal,Groceries,Afternoon
+4977,2738,Bank Transfer,Travel,Afternoon
+4978,925,ATM Withdrawal,Dining,Afternoon
+4979,4948,Online,Groceries,Morning
+4980,141,ATM Withdrawal,Electronics,Night
+4981,1126,POS,Cash,Night
+4982,3603,ATM Withdrawal,Travel,Afternoon
+4983,870,Online,Groceries,Morning
+4984,303,Bank Transfer,Cash,Morning
+4985,2698,Online,Groceries,Night
+4986,1009,Bank Transfer,Dining,Night
+4987,2306,POS,Dining,Morning
+4988,3695,POS,Dining,Evening
+4989,296,ATM Withdrawal,Cash,Morning
+4990,459,POS,Clothing,Evening
+4991,2348,POS,Cash,Night
+4992,3250,Online,Travel,Morning
+4993,2713,Online,Travel,Morning
+4994,3126,ATM Withdrawal,Electronics,Morning
+4995,4581,ATM Withdrawal,Electronics,Morning
+4996,262,ATM Withdrawal,Travel,Afternoon
+4997,1429,ATM Withdrawal,Groceries,Afternoon
+4998,2346,Online,Travel,Night
+4999,1245,ATM Withdrawal,Clothing,Night
+5000,1009,ATM Withdrawal,Electronics,Morning
+5001,3770,POS,Electronics,Afternoon
+5002,4126,ATM Withdrawal,Cash,Night
+5003,4421,Bank Transfer,Electronics,Evening
+5004,2621,POS,Travel,Afternoon
+5005,1456,Online,Electronics,Afternoon
+5006,2180,Bank Transfer,Electronics,Afternoon
+5007,2931,ATM Withdrawal,Cash,Morning
+5008,3693,POS,Travel,Evening
+5009,2271,ATM Withdrawal,Groceries,Morning
+5010,1955,POS,Electronics,Night
+5011,4944,ATM Withdrawal,Electronics,Evening
+5012,1863,Bank Transfer,Electronics,Morning
+5013,609,Online,Clothing,Afternoon
+5014,4897,Bank Transfer,Travel,Evening
+5015,4145,Bank Transfer,Electronics,Afternoon
+5016,3413,Online,Clothing,Night
+5017,3000,POS,Groceries,Evening
+5018,4753,POS,Groceries,Night
+5019,4287,Online,Cash,Night
+5020,4370,ATM Withdrawal,Cash,Night
+5021,2828,POS,Cash,Evening
+5022,872,Bank Transfer,Clothing,Night
+5023,4537,Online,Groceries,Morning
+5024,4065,Bank Transfer,Cash,Morning
+5025,1229,POS,Dining,Night
+5026,3805,Online,Cash,Afternoon
+5027,4614,Online,Groceries,Night
+5028,4552,POS,Dining,Night
+5029,537,POS,Clothing,Afternoon
+5030,2932,Online,Dining,Evening
+5031,3214,ATM Withdrawal,Groceries,Evening
+5032,1172,Online,Electronics,Night
+5033,4774,ATM Withdrawal,Dining,Morning
+5034,3574,Bank Transfer,Groceries,Morning
+5035,856,ATM Withdrawal,Cash,Morning
+5036,2127,ATM Withdrawal,Electronics,Night
+5037,3096,POS,Clothing,Morning
+5038,1780,Online,Clothing,Morning
+5039,3293,Bank Transfer,Travel,Evening
+5040,1835,Online,Clothing,Night
+5041,3333,ATM Withdrawal,Travel,Evening
+5042,455,ATM Withdrawal,Clothing,Afternoon
+5043,1035,ATM Withdrawal,Clothing,Evening
+5044,1781,Online,Clothing,Night
+5045,1369,ATM Withdrawal,Travel,Morning
+5046,28,Online,Cash,Night
+5047,570,Bank Transfer,Travel,Evening
+5048,481,Bank Transfer,Dining,Night
+5049,37,Online,Groceries,Night
+5050,569,Bank Transfer,Groceries,Evening
+5051,2665,POS,Cash,Evening
+5052,3246,ATM Withdrawal,Groceries,Afternoon
+5053,4563,ATM Withdrawal,Clothing,Afternoon
+5054,954,ATM Withdrawal,Cash,Evening
+5055,3958,POS,Groceries,Night
+5056,3666,ATM Withdrawal,Travel,Evening
+5057,4973,Online,Dining,Morning
+5058,3073,ATM Withdrawal,Electronics,Afternoon
+5059,1989,Online,Dining,Morning
+5060,2726,Bank Transfer,Groceries,Night
+5061,4931,Online,Cash,Morning
+5062,825,Online,Groceries,Evening
+5063,2336,Online,Travel,Evening
+5064,2340,ATM Withdrawal,Dining,Evening
+5065,1012,POS,Travel,Morning
+5066,1552,POS,Travel,Morning
+5067,4214,Online,Electronics,Morning
+5068,1239,ATM Withdrawal,Travel,Evening
+5069,3315,POS,Travel,Evening
+5070,2539,Bank Transfer,Electronics,Evening
+5071,1440,Bank Transfer,Clothing,Morning
+5072,3922,ATM Withdrawal,Clothing,Morning
+5073,1542,Bank Transfer,Cash,Night
+5074,1902,Bank Transfer,Electronics,Afternoon
+5075,3134,Bank Transfer,Cash,Evening
+5076,1431,POS,Cash,Morning
+5077,400,Bank Transfer,Travel,Afternoon
+5078,2828,Online,Cash,Morning
+5079,1879,Online,Groceries,Morning
+5080,2970,Bank Transfer,Dining,Evening
+5081,1205,Online,Groceries,Afternoon
+5082,2615,POS,Groceries,Morning
+5083,867,ATM Withdrawal,Travel,Afternoon
+5084,3237,Online,Dining,Afternoon
+5085,1526,Bank Transfer,Cash,Evening
+5086,1163,ATM Withdrawal,Dining,Afternoon
+5087,852,ATM Withdrawal,Cash,Night
+5088,1692,Bank Transfer,Clothing,Night
+5089,304,Online,Electronics,Evening
+5090,654,POS,Travel,Evening
+5091,3643,Online,Cash,Night
+5092,2145,Online,Cash,Evening
+5093,120,POS,Dining,Afternoon
+5094,593,ATM Withdrawal,Travel,Morning
+5095,3235,POS,Cash,Evening
+5096,1496,POS,Clothing,Night
+5097,4874,Bank Transfer,Groceries,Morning
+5098,1658,Bank Transfer,Cash,Afternoon
+5099,2391,Online,Dining,Morning
+5100,115,Bank Transfer,Clothing,Night
+5101,3563,POS,Travel,Morning
+5102,1704,POS,Cash,Night
+5103,1743,Bank Transfer,Clothing,Evening
+5104,391,Bank Transfer,Clothing,Evening
+5105,2746,Bank Transfer,Clothing,Night
+5106,4366,POS,Clothing,Evening
+5107,1326,ATM Withdrawal,Clothing,Afternoon
+5108,2712,ATM Withdrawal,Clothing,Morning
+5109,4925,Bank Transfer,Electronics,Night
+5110,4084,Online,Travel,Night
+5111,4814,Online,Groceries,Night
+5112,916,ATM Withdrawal,Travel,Afternoon
+5113,672,Bank Transfer,Dining,Afternoon
+5114,472,POS,Dining,Afternoon
+5115,2912,Online,Travel,Night
+5116,4690,Online,Clothing,Afternoon
+5117,952,POS,Electronics,Evening
+5118,167,POS,Groceries,Morning
+5119,3319,Bank Transfer,Cash,Evening
+5120,1336,POS,Cash,Evening
+5121,2727,POS,Clothing,Afternoon
+5122,2678,POS,Travel,Night
+5123,2578,ATM Withdrawal,Cash,Evening
+5124,3402,POS,Travel,Morning
+5125,2116,Online,Electronics,Afternoon
+5126,4809,Bank Transfer,Electronics,Evening
+5127,657,Bank Transfer,Travel,Afternoon
+5128,3332,Bank Transfer,Clothing,Morning
+5129,2948,ATM Withdrawal,Clothing,Afternoon
+5130,2493,Online,Clothing,Night
+5131,4251,POS,Cash,Evening
+5132,2916,Online,Groceries,Evening
+5133,3035,Bank Transfer,Groceries,Night
+5134,1385,POS,Clothing,Morning
+5135,1833,Bank Transfer,Travel,Morning
+5136,254,Bank Transfer,Electronics,Afternoon
+5137,2358,Bank Transfer,Dining,Evening
+5138,877,Online,Electronics,Morning
+5139,2871,Online,Electronics,Night
+5140,489,Bank Transfer,Dining,Night
+5141,2472,Bank Transfer,Clothing,Night
+5142,1945,POS,Electronics,Morning
+5143,3383,Bank Transfer,Dining,Night
+5144,3031,Bank Transfer,Cash,Evening
+5145,3202,Bank Transfer,Travel,Morning
+5146,97,Bank Transfer,Travel,Morning
+5147,1250,Online,Travel,Evening
+5148,582,Bank Transfer,Clothing,Night
+5149,823,ATM Withdrawal,Electronics,Morning
+5150,188,Bank Transfer,Electronics,Evening
+5151,1735,Online,Groceries,Evening
+5152,172,ATM Withdrawal,Travel,Afternoon
+5153,2650,ATM Withdrawal,Clothing,Night
+5154,1015,Bank Transfer,Dining,Night
+5155,2358,Bank Transfer,Clothing,Evening
+5156,2431,Online,Electronics,Morning
+5157,2765,ATM Withdrawal,Travel,Afternoon
+5158,4308,ATM Withdrawal,Groceries,Afternoon
+5159,4152,Online,Cash,Morning
+5160,4568,Bank Transfer,Clothing,Afternoon
+5161,3751,POS,Groceries,Morning
+5162,4513,POS,Electronics,Afternoon
+5163,1227,ATM Withdrawal,Dining,Morning
+5164,2484,ATM Withdrawal,Clothing,Evening
+5165,939,Bank Transfer,Cash,Evening
+5166,326,POS,Electronics,Afternoon
+5167,1512,ATM Withdrawal,Travel,Afternoon
+5168,430,Bank Transfer,Clothing,Evening
+5169,4368,POS,Groceries,Night
+5170,1459,Online,Clothing,Morning
+5171,437,ATM Withdrawal,Electronics,Night
+5172,406,Online,Electronics,Afternoon
+5173,805,POS,Groceries,Evening
+5174,116,Bank Transfer,Cash,Afternoon
+5175,4059,Bank Transfer,Electronics,Night
+5176,107,POS,Clothing,Evening
+5177,1913,Online,Cash,Evening
+5178,3580,Bank Transfer,Groceries,Evening
+5179,3311,ATM Withdrawal,Electronics,Morning
+5180,52,Online,Electronics,Afternoon
+5181,1587,Online,Clothing,Night
+5182,4200,ATM Withdrawal,Electronics,Morning
+5183,4293,POS,Clothing,Night
+5184,394,Bank Transfer,Travel,Morning
+5185,4924,Online,Cash,Evening
+5186,3481,Bank Transfer,Clothing,Morning
+5187,3587,Bank Transfer,Dining,Afternoon
+5188,3248,Online,Electronics,Afternoon
+5189,1706,POS,Travel,Night
+5190,2144,Online,Cash,Evening
+5191,3902,POS,Groceries,Evening
+5192,2546,ATM Withdrawal,Dining,Night
+5193,4331,POS,Groceries,Afternoon
+5194,2402,POS,Dining,Afternoon
+5195,4623,Online,Travel,Night
+5196,3825,Bank Transfer,Cash,Evening
+5197,305,Bank Transfer,Travel,Night
+5198,423,POS,Travel,Night
+5199,2005,POS,Dining,Morning
+5200,13,Online,Clothing,Night
+5201,187,POS,Cash,Afternoon
+5202,755,Online,Groceries,Night
+5203,4364,ATM Withdrawal,Clothing,Evening
+5204,661,POS,Clothing,Evening
+5205,3899,ATM Withdrawal,Electronics,Afternoon
+5206,3281,POS,Groceries,Evening
+5207,2492,POS,Dining,Night
+5208,299,ATM Withdrawal,Electronics,Afternoon
+5209,812,ATM Withdrawal,Electronics,Evening
+5210,2540,Online,Travel,Night
+5211,243,Online,Dining,Evening
+5212,417,ATM Withdrawal,Clothing,Morning
+5213,703,POS,Cash,Evening
+5214,1179,Online,Clothing,Afternoon
+5215,4667,POS,Clothing,Night
+5216,2487,Bank Transfer,Travel,Night
+5217,441,Online,Clothing,Afternoon
+5218,2554,Online,Groceries,Morning
+5219,992,Online,Clothing,Night
+5220,3170,Bank Transfer,Clothing,Afternoon
+5221,3054,ATM Withdrawal,Groceries,Evening
+5222,3934,POS,Travel,Morning
+5223,3322,Bank Transfer,Electronics,Afternoon
+5224,4883,ATM Withdrawal,Dining,Evening
+5225,4328,Online,Travel,Night
+5226,1698,ATM Withdrawal,Clothing,Night
+5227,477,ATM Withdrawal,Electronics,Morning
+5228,2626,ATM Withdrawal,Dining,Evening
+5229,1355,POS,Dining,Afternoon
+5230,2432,ATM Withdrawal,Dining,Night
+5231,4517,ATM Withdrawal,Groceries,Afternoon
+5232,4731,ATM Withdrawal,Groceries,Afternoon
+5233,1021,ATM Withdrawal,Electronics,Afternoon
+5234,1687,Bank Transfer,Clothing,Morning
+5235,3707,Bank Transfer,Electronics,Afternoon
+5236,4907,ATM Withdrawal,Clothing,Morning
+5237,4076,ATM Withdrawal,Travel,Morning
+5238,1902,ATM Withdrawal,Dining,Evening
+5239,2879,Online,Dining,Night
+5240,4360,ATM Withdrawal,Groceries,Afternoon
+5241,1496,ATM Withdrawal,Travel,Evening
+5242,3349,Bank Transfer,Cash,Evening
+5243,1426,Bank Transfer,Travel,Evening
+5244,4867,Bank Transfer,Clothing,Evening
+5245,2856,POS,Travel,Evening
+5246,1367,Online,Groceries,Afternoon
+5247,4070,ATM Withdrawal,Clothing,Evening
+5248,4670,Bank Transfer,Electronics,Night
+5249,1401,POS,Clothing,Morning
+5250,1588,ATM Withdrawal,Electronics,Morning
+5251,3759,ATM Withdrawal,Cash,Night
+5252,3635,Bank Transfer,Clothing,Afternoon
+5253,2513,ATM Withdrawal,Dining,Morning
+5254,3147,ATM Withdrawal,Cash,Night
+5255,2919,ATM Withdrawal,Electronics,Night
+5256,2674,Bank Transfer,Groceries,Evening
+5257,409,POS,Cash,Morning
+5258,4392,ATM Withdrawal,Cash,Evening
+5259,3967,POS,Cash,Afternoon
+5260,2243,ATM Withdrawal,Electronics,Morning
+5261,1549,Bank Transfer,Electronics,Morning
+5262,246,POS,Clothing,Night
+5263,4920,Bank Transfer,Dining,Morning
+5264,937,Online,Cash,Afternoon
+5265,4519,ATM Withdrawal,Clothing,Afternoon
+5266,429,Online,Clothing,Morning
+5267,4134,Online,Dining,Night
+5268,2405,Online,Clothing,Afternoon
+5269,670,ATM Withdrawal,Dining,Evening
+5270,2633,Bank Transfer,Groceries,Afternoon
+5271,3960,Online,Dining,Morning
+5272,459,POS,Travel,Evening
+5273,389,ATM Withdrawal,Dining,Morning
+5274,1260,Bank Transfer,Dining,Morning
+5275,2469,Bank Transfer,Travel,Morning
+5276,3008,Online,Dining,Night
+5277,4461,ATM Withdrawal,Electronics,Night
+5278,2311,Online,Clothing,Afternoon
+5279,736,POS,Clothing,Morning
+5280,1477,Bank Transfer,Groceries,Evening
+5281,2738,Bank Transfer,Groceries,Evening
+5282,3162,ATM Withdrawal,Travel,Evening
+5283,3530,Bank Transfer,Electronics,Night
+5284,4915,ATM Withdrawal,Groceries,Night
+5285,3364,Online,Clothing,Morning
+5286,425,POS,Groceries,Evening
+5287,609,ATM Withdrawal,Groceries,Evening
+5288,3084,Online,Dining,Night
+5289,4184,POS,Groceries,Night
+5290,1577,Bank Transfer,Travel,Evening
+5291,1104,POS,Clothing,Evening
+5292,2953,POS,Travel,Afternoon
+5293,4163,POS,Travel,Night
+5294,1457,Bank Transfer,Cash,Morning
+5295,1502,ATM Withdrawal,Electronics,Morning
+5296,2681,ATM Withdrawal,Cash,Evening
+5297,1468,POS,Cash,Night
+5298,1218,Online,Dining,Morning
+5299,4944,Online,Travel,Night
+5300,2222,POS,Electronics,Evening
+5301,1364,POS,Clothing,Evening
+5302,222,Online,Clothing,Evening
+5303,3904,POS,Electronics,Night
+5304,4612,POS,Travel,Morning
+5305,2973,ATM Withdrawal,Travel,Afternoon
+5306,2858,ATM Withdrawal,Dining,Morning
+5307,3052,POS,Dining,Night
+5308,3044,POS,Cash,Morning
+5309,1742,Bank Transfer,Clothing,Afternoon
+5310,3091,ATM Withdrawal,Dining,Morning
+5311,1280,POS,Electronics,Afternoon
+5312,4878,Bank Transfer,Clothing,Night
+5313,1539,Bank Transfer,Travel,Evening
+5314,1091,Bank Transfer,Clothing,Afternoon
+5315,3541,Bank Transfer,Groceries,Night
+5316,1161,ATM Withdrawal,Clothing,Evening
+5317,1732,Bank Transfer,Dining,Afternoon
+5318,726,ATM Withdrawal,Electronics,Evening
+5319,4209,Bank Transfer,Travel,Morning
+5320,2200,Bank Transfer,Travel,Night
+5321,214,Online,Dining,Night
+5322,3839,ATM Withdrawal,Dining,Night
+5323,3119,Online,Dining,Night
+5324,4104,Online,Groceries,Afternoon
+5325,1342,Bank Transfer,Electronics,Morning
+5326,2058,ATM Withdrawal,Groceries,Evening
+5327,1859,POS,Dining,Night
+5328,4852,Bank Transfer,Electronics,Night
+5329,1247,ATM Withdrawal,Dining,Afternoon
+5330,2028,Online,Electronics,Afternoon
+5331,527,ATM Withdrawal,Travel,Afternoon
+5332,1448,Bank Transfer,Groceries,Morning
+5333,4096,ATM Withdrawal,Cash,Evening
+5334,2062,Online,Dining,Morning
+5335,4378,ATM Withdrawal,Dining,Night
+5336,4527,ATM Withdrawal,Clothing,Afternoon
+5337,2322,Online,Cash,Night
+5338,2269,Bank Transfer,Travel,Evening
+5339,3159,POS,Dining,Evening
+5340,791,Online,Groceries,Morning
+5341,2723,Online,Travel,Morning
+5342,1254,Bank Transfer,Dining,Afternoon
+5343,2426,Bank Transfer,Groceries,Afternoon
+5344,985,ATM Withdrawal,Clothing,Night
+5345,3501,Online,Clothing,Afternoon
+5346,3435,ATM Withdrawal,Groceries,Afternoon
+5347,426,ATM Withdrawal,Travel,Night
+5348,224,Bank Transfer,Groceries,Evening
+5349,3988,Bank Transfer,Cash,Afternoon
+5350,1145,ATM Withdrawal,Groceries,Afternoon
+5351,3785,Online,Clothing,Night
+5352,1592,Online,Clothing,Night
+5353,4533,ATM Withdrawal,Clothing,Night
+5354,742,POS,Cash,Night
+5355,2756,POS,Dining,Night
+5356,2273,Bank Transfer,Cash,Afternoon
+5357,4518,Online,Dining,Morning
+5358,3814,ATM Withdrawal,Cash,Morning
+5359,2437,ATM Withdrawal,Electronics,Morning
+5360,241,Online,Dining,Afternoon
+5361,4940,Bank Transfer,Travel,Evening
+5362,4363,Bank Transfer,Travel,Afternoon
+5363,412,POS,Clothing,Morning
+5364,4875,Online,Cash,Morning
+5365,74,Online,Groceries,Night
+5366,2247,ATM Withdrawal,Clothing,Night
+5367,959,Online,Groceries,Night
+5368,182,POS,Cash,Afternoon
+5369,2685,Online,Clothing,Evening
+5370,1260,ATM Withdrawal,Clothing,Evening
+5371,3058,POS,Travel,Night
+5372,4015,ATM Withdrawal,Groceries,Evening
+5373,647,Online,Electronics,Morning
+5374,958,Bank Transfer,Electronics,Morning
+5375,2270,Online,Clothing,Night
+5376,1704,Online,Cash,Night
+5377,4857,ATM Withdrawal,Clothing,Night
+5378,4767,Bank Transfer,Travel,Evening
+5379,152,Online,Groceries,Afternoon
+5380,4591,POS,Clothing,Night
+5381,1470,POS,Cash,Evening
+5382,3897,ATM Withdrawal,Electronics,Night
+5383,302,ATM Withdrawal,Groceries,Afternoon
+5384,1653,Bank Transfer,Clothing,Night
+5385,2728,ATM Withdrawal,Groceries,Morning
+5386,847,Bank Transfer,Travel,Night
+5387,1047,Online,Electronics,Morning
+5388,281,POS,Cash,Morning
+5389,1968,POS,Groceries,Evening
+5390,2379,POS,Electronics,Evening
+5391,815,ATM Withdrawal,Clothing,Morning
+5392,3184,ATM Withdrawal,Cash,Morning
+5393,892,Online,Cash,Night
+5394,841,ATM Withdrawal,Dining,Night
+5395,3181,Bank Transfer,Groceries,Morning
+5396,2201,POS,Electronics,Evening
+5397,2050,Online,Groceries,Night
+5398,1604,Bank Transfer,Clothing,Night
+5399,1636,Bank Transfer,Clothing,Night
+5400,3594,ATM Withdrawal,Cash,Evening
+5401,283,ATM Withdrawal,Cash,Morning
+5402,599,POS,Electronics,Night
+5403,2710,Online,Travel,Evening
+5404,592,Bank Transfer,Groceries,Evening
+5405,3643,ATM Withdrawal,Groceries,Evening
+5406,2000,ATM Withdrawal,Clothing,Evening
+5407,1268,Online,Groceries,Night
+5408,2876,Online,Electronics,Morning
+5409,3748,ATM Withdrawal,Dining,Morning
+5410,581,ATM Withdrawal,Cash,Evening
+5411,554,POS,Clothing,Morning
+5412,4232,Online,Cash,Night
+5413,4838,Bank Transfer,Cash,Morning
+5414,4522,ATM Withdrawal,Cash,Morning
+5415,647,ATM Withdrawal,Dining,Afternoon
+5416,50,ATM Withdrawal,Groceries,Morning
+5417,4892,ATM Withdrawal,Travel,Morning
+5418,4402,POS,Cash,Evening
+5419,1630,Online,Electronics,Evening
+5420,3682,ATM Withdrawal,Cash,Afternoon
+5421,4147,Online,Cash,Night
+5422,4138,Bank Transfer,Groceries,Afternoon
+5423,1309,Bank Transfer,Electronics,Morning
+5424,4721,Bank Transfer,Groceries,Morning
+5425,169,Bank Transfer,Cash,Night
+5426,1962,Online,Groceries,Night
+5427,1741,Bank Transfer,Groceries,Evening
+5428,2456,Bank Transfer,Clothing,Morning
+5429,3172,ATM Withdrawal,Dining,Morning
+5430,1742,ATM Withdrawal,Travel,Morning
+5431,590,ATM Withdrawal,Dining,Morning
+5432,229,POS,Dining,Morning
+5433,4484,ATM Withdrawal,Electronics,Morning
+5434,1759,Bank Transfer,Clothing,Morning
+5435,1480,Online,Clothing,Morning
+5436,4338,Bank Transfer,Groceries,Evening
+5437,1404,Online,Dining,Afternoon
+5438,931,Bank Transfer,Travel,Morning
+5439,2783,POS,Electronics,Evening
+5440,4472,ATM Withdrawal,Clothing,Morning
+5441,4586,Bank Transfer,Groceries,Night
+5442,3444,ATM Withdrawal,Travel,Morning
+5443,3592,POS,Dining,Afternoon
+5444,1128,POS,Travel,Evening
+5445,1875,ATM Withdrawal,Clothing,Night
+5446,4321,ATM Withdrawal,Electronics,Night
+5447,734,Online,Dining,Morning
+5448,721,ATM Withdrawal,Electronics,Afternoon
+5449,1835,ATM Withdrawal,Cash,Afternoon
+5450,3936,Online,Travel,Morning
+5451,400,Bank Transfer,Travel,Morning
+5452,1080,Online,Groceries,Evening
+5453,4497,Bank Transfer,Dining,Evening
+5454,2775,Bank Transfer,Travel,Morning
+5455,4490,Bank Transfer,Clothing,Morning
+5456,2438,Online,Cash,Night
+5457,4504,Online,Clothing,Afternoon
+5458,2157,POS,Electronics,Evening
+5459,3582,Bank Transfer,Cash,Morning
+5460,4488,Online,Cash,Morning
+5461,2764,POS,Clothing,Evening
+5462,3273,Bank Transfer,Travel,Night
+5463,3835,Online,Clothing,Night
+5464,3426,Online,Dining,Morning
+5465,2067,Online,Electronics,Afternoon
+5466,2321,ATM Withdrawal,Cash,Afternoon
+5467,2889,POS,Dining,Morning
+5468,3652,Online,Travel,Evening
+5469,2619,ATM Withdrawal,Travel,Afternoon
+5470,1440,POS,Clothing,Evening
+5471,1923,POS,Groceries,Evening
+5472,767,ATM Withdrawal,Cash,Evening
+5473,2144,POS,Cash,Night
+5474,1922,ATM Withdrawal,Groceries,Afternoon
+5475,1749,Bank Transfer,Travel,Night
+5476,3227,Online,Travel,Afternoon
+5477,4766,ATM Withdrawal,Cash,Morning
+5478,1144,POS,Electronics,Evening
+5479,3722,POS,Cash,Afternoon
+5480,774,Bank Transfer,Travel,Afternoon
+5481,2735,Bank Transfer,Travel,Morning
+5482,3378,Bank Transfer,Electronics,Night
+5483,3507,Bank Transfer,Dining,Afternoon
+5484,1682,Bank Transfer,Dining,Afternoon
+5485,3415,Online,Electronics,Night
+5486,592,ATM Withdrawal,Electronics,Night
+5487,4776,Bank Transfer,Dining,Afternoon
+5488,4643,Bank Transfer,Dining,Night
+5489,1831,Online,Dining,Morning
+5490,1195,ATM Withdrawal,Dining,Morning
+5491,4535,Bank Transfer,Cash,Evening
+5492,1647,ATM Withdrawal,Cash,Afternoon
+5493,2190,ATM Withdrawal,Clothing,Morning
+5494,198,Online,Electronics,Morning
+5495,1756,Online,Groceries,Morning
+5496,3836,Bank Transfer,Clothing,Evening
+5497,2630,POS,Groceries,Night
+5498,3955,Online,Groceries,Evening
+5499,2336,ATM Withdrawal,Travel,Evening
+5500,1194,ATM Withdrawal,Electronics,Evening
+5501,2803,Bank Transfer,Cash,Evening
+5502,2956,Bank Transfer,Clothing,Afternoon
+5503,2510,Bank Transfer,Electronics,Afternoon
+5504,4956,ATM Withdrawal,Dining,Morning
+5505,179,Online,Electronics,Evening
+5506,4935,POS,Groceries,Evening
+5507,2755,Online,Cash,Morning
+5508,1090,POS,Dining,Night
+5509,1273,Online,Electronics,Afternoon
+5510,4874,Bank Transfer,Electronics,Evening
+5511,4463,ATM Withdrawal,Cash,Night
+5512,2258,POS,Groceries,Night
+5513,3918,Online,Dining,Evening
+5514,1335,ATM Withdrawal,Groceries,Evening
+5515,3187,POS,Cash,Night
+5516,3883,POS,Electronics,Afternoon
+5517,2158,ATM Withdrawal,Clothing,Afternoon
+5518,1698,Bank Transfer,Clothing,Evening
+5519,2995,ATM Withdrawal,Travel,Evening
+5520,2086,Bank Transfer,Clothing,Morning
+5521,1539,Online,Cash,Morning
+5522,1471,Online,Cash,Afternoon
+5523,1412,ATM Withdrawal,Cash,Morning
+5524,82,Bank Transfer,Dining,Night
+5525,4359,Online,Travel,Night
+5526,4044,Bank Transfer,Dining,Night
+5527,4621,Bank Transfer,Clothing,Night
+5528,2806,Bank Transfer,Clothing,Evening
+5529,4526,ATM Withdrawal,Electronics,Night
+5530,2503,Bank Transfer,Dining,Afternoon
+5531,4984,ATM Withdrawal,Groceries,Morning
+5532,4241,Online,Electronics,Afternoon
+5533,3586,Online,Dining,Evening
+5534,42,POS,Cash,Morning
+5535,2704,POS,Travel,Morning
+5536,4383,Online,Dining,Morning
+5537,4855,Bank Transfer,Travel,Night
+5538,3608,Bank Transfer,Travel,Evening
+5539,2402,Online,Clothing,Afternoon
+5540,4122,Online,Groceries,Night
+5541,2881,POS,Dining,Morning
+5542,2687,Bank Transfer,Groceries,Afternoon
+5543,1411,Online,Travel,Afternoon
+5544,827,POS,Clothing,Afternoon
+5545,1670,POS,Groceries,Evening
+5546,4572,Bank Transfer,Electronics,Night
+5547,4733,POS,Travel,Evening
+5548,2448,POS,Electronics,Morning
+5549,2993,ATM Withdrawal,Cash,Morning
+5550,1220,Online,Groceries,Afternoon
+5551,609,Bank Transfer,Groceries,Afternoon
+5552,1856,Online,Groceries,Afternoon
+5553,1865,ATM Withdrawal,Cash,Evening
+5554,1897,Bank Transfer,Dining,Night
+5555,689,Online,Travel,Evening
+5556,3262,POS,Travel,Morning
+5557,1845,Bank Transfer,Travel,Afternoon
+5558,4040,ATM Withdrawal,Dining,Afternoon
+5559,2187,POS,Groceries,Evening
+5560,158,ATM Withdrawal,Groceries,Morning
+5561,1505,POS,Cash,Night
+5562,4923,Online,Electronics,Afternoon
+5563,1754,Online,Dining,Afternoon
+5564,1656,Online,Clothing,Morning
+5565,3005,ATM Withdrawal,Dining,Afternoon
+5566,1682,Bank Transfer,Cash,Night
+5567,1949,Online,Electronics,Evening
+5568,667,ATM Withdrawal,Electronics,Morning
+5569,3677,POS,Electronics,Afternoon
+5570,1063,Online,Groceries,Afternoon
+5571,4081,POS,Clothing,Night
+5572,586,Online,Electronics,Evening
+5573,3105,POS,Travel,Night
+5574,3041,ATM Withdrawal,Groceries,Evening
+5575,4828,Online,Clothing,Night
+5576,4789,ATM Withdrawal,Travel,Evening
+5577,4847,ATM Withdrawal,Clothing,Afternoon
+5578,2982,POS,Cash,Afternoon
+5579,3958,Online,Clothing,Afternoon
+5580,2055,Bank Transfer,Travel,Morning
+5581,3946,Bank Transfer,Dining,Evening
+5582,2958,ATM Withdrawal,Clothing,Morning
+5583,1637,POS,Dining,Evening
+5584,1498,POS,Clothing,Afternoon
+5585,4155,POS,Cash,Morning
+5586,4208,Online,Travel,Morning
+5587,4473,Online,Clothing,Night
+5588,945,POS,Electronics,Evening
+5589,3573,Bank Transfer,Cash,Night
+5590,3639,Bank Transfer,Electronics,Morning
+5591,1724,Online,Cash,Morning
+5592,1812,POS,Cash,Afternoon
+5593,1430,Bank Transfer,Clothing,Night
+5594,3601,Bank Transfer,Travel,Night
+5595,3530,Online,Travel,Night
+5596,3321,Online,Groceries,Evening
+5597,2315,Bank Transfer,Travel,Morning
+5598,2005,POS,Dining,Night
+5599,1977,Bank Transfer,Clothing,Afternoon
+5600,3724,Bank Transfer,Electronics,Morning
+5601,4045,POS,Travel,Afternoon
+5602,4495,Online,Electronics,Morning
+5603,4878,POS,Groceries,Afternoon
+5604,3468,POS,Clothing,Night
+5605,403,POS,Travel,Night
+5606,4788,POS,Electronics,Afternoon
+5607,3740,Online,Cash,Evening
+5608,4375,Bank Transfer,Travel,Afternoon
+5609,4254,ATM Withdrawal,Groceries,Morning
+5610,4916,Online,Cash,Afternoon
+5611,37,POS,Electronics,Afternoon
+5612,3501,Bank Transfer,Electronics,Morning
+5613,4271,Bank Transfer,Clothing,Night
+5614,1183,POS,Clothing,Morning
+5615,348,Online,Electronics,Afternoon
+5616,1078,POS,Cash,Morning
+5617,851,Bank Transfer,Clothing,Afternoon
+5618,4294,Bank Transfer,Electronics,Night
+5619,4756,Online,Cash,Afternoon
+5620,303,ATM Withdrawal,Dining,Afternoon
+5621,1867,POS,Travel,Night
+5622,1332,ATM Withdrawal,Dining,Morning
+5623,1657,Bank Transfer,Dining,Evening
+5624,4908,ATM Withdrawal,Travel,Evening
+5625,3630,POS,Electronics,Afternoon
+5626,4536,POS,Electronics,Afternoon
+5627,3104,Bank Transfer,Clothing,Night
+5628,3501,Online,Groceries,Morning
+5629,3505,Online,Electronics,Evening
+5630,4592,Bank Transfer,Travel,Evening
+5631,3811,POS,Groceries,Night
+5632,98,Online,Travel,Night
+5633,4376,ATM Withdrawal,Travel,Evening
+5634,1966,Bank Transfer,Travel,Morning
+5635,909,ATM Withdrawal,Groceries,Morning
+5636,3487,POS,Dining,Morning
+5637,1754,Online,Cash,Afternoon
+5638,4383,POS,Travel,Morning
+5639,2263,ATM Withdrawal,Clothing,Afternoon
+5640,3671,POS,Electronics,Afternoon
+5641,2970,POS,Cash,Night
+5642,1643,Bank Transfer,Electronics,Afternoon
+5643,871,Bank Transfer,Electronics,Afternoon
+5644,4711,POS,Groceries,Night
+5645,1023,Bank Transfer,Clothing,Morning
+5646,3309,POS,Clothing,Morning
+5647,1516,ATM Withdrawal,Cash,Evening
+5648,3215,Bank Transfer,Clothing,Evening
+5649,4813,POS,Clothing,Afternoon
+5650,987,Bank Transfer,Clothing,Evening
+5651,3471,POS,Cash,Night
+5652,1827,Bank Transfer,Dining,Evening
+5653,3694,Online,Clothing,Evening
+5654,4068,POS,Clothing,Afternoon
+5655,2644,Online,Groceries,Night
+5656,4911,POS,Groceries,Evening
+5657,4825,Online,Clothing,Morning
+5658,3676,POS,Dining,Night
+5659,958,Bank Transfer,Clothing,Night
+5660,483,Online,Clothing,Afternoon
+5661,577,Bank Transfer,Clothing,Night
+5662,3442,POS,Travel,Night
+5663,4033,Bank Transfer,Dining,Night
+5664,2268,POS,Electronics,Night
+5665,3154,Bank Transfer,Clothing,Night
+5666,4320,Online,Electronics,Night
+5667,1992,POS,Dining,Night
+5668,1106,Bank Transfer,Clothing,Morning
+5669,3580,POS,Electronics,Night
+5670,3400,POS,Cash,Afternoon
+5671,2682,POS,Electronics,Morning
+5672,3656,ATM Withdrawal,Dining,Night
+5673,2429,POS,Clothing,Evening
+5674,4289,Bank Transfer,Travel,Afternoon
+5675,3358,ATM Withdrawal,Dining,Morning
+5676,683,Bank Transfer,Travel,Afternoon
+5677,2812,ATM Withdrawal,Clothing,Morning
+5678,2379,POS,Electronics,Evening
+5679,4540,Online,Cash,Afternoon
+5680,1076,Online,Cash,Afternoon
+5681,697,POS,Dining,Morning
+5682,4993,ATM Withdrawal,Dining,Morning
+5683,78,Bank Transfer,Dining,Evening
+5684,2113,Online,Groceries,Night
+5685,429,POS,Cash,Morning
+5686,4008,POS,Cash,Morning
+5687,2607,ATM Withdrawal,Clothing,Morning
+5688,4348,Online,Groceries,Evening
+5689,2134,POS,Dining,Night
+5690,3902,Online,Dining,Night
+5691,449,Bank Transfer,Travel,Evening
+5692,1296,POS,Groceries,Night
+5693,1218,POS,Electronics,Afternoon
+5694,1088,Bank Transfer,Cash,Evening
+5695,2573,POS,Clothing,Morning
+5696,3633,ATM Withdrawal,Electronics,Night
+5697,1263,Bank Transfer,Electronics,Afternoon
+5698,3367,ATM Withdrawal,Clothing,Evening
+5699,3219,Bank Transfer,Dining,Evening
+5700,3559,Bank Transfer,Cash,Morning
+5701,624,ATM Withdrawal,Travel,Morning
+5702,3088,Bank Transfer,Dining,Evening
+5703,2733,Online,Dining,Afternoon
+5704,3500,ATM Withdrawal,Groceries,Morning
+5705,3553,Bank Transfer,Electronics,Evening
+5706,4525,ATM Withdrawal,Electronics,Evening
+5707,1910,Bank Transfer,Cash,Morning
+5708,4381,Bank Transfer,Electronics,Night
+5709,1722,Online,Travel,Afternoon
+5710,2339,Online,Travel,Night
+5711,3629,Online,Travel,Night
+5712,1204,Bank Transfer,Clothing,Afternoon
+5713,4916,Online,Cash,Afternoon
+5714,1388,ATM Withdrawal,Travel,Morning
+5715,1322,Bank Transfer,Groceries,Morning
+5716,2925,ATM Withdrawal,Groceries,Morning
+5717,759,Online,Dining,Afternoon
+5718,310,Bank Transfer,Dining,Night
+5719,4705,ATM Withdrawal,Cash,Afternoon
+5720,3992,POS,Dining,Morning
+5721,4634,ATM Withdrawal,Dining,Night
+5722,3847,Bank Transfer,Groceries,Morning
+5723,287,POS,Dining,Night
+5724,4768,Online,Groceries,Morning
+5725,2568,Online,Travel,Afternoon
+5726,3927,ATM Withdrawal,Travel,Evening
+5727,2171,Online,Cash,Evening
+5728,4685,ATM Withdrawal,Clothing,Night
+5729,1399,ATM Withdrawal,Dining,Afternoon
+5730,700,ATM Withdrawal,Travel,Morning
+5731,4742,ATM Withdrawal,Travel,Night
+5732,3478,Bank Transfer,Cash,Night
+5733,1858,Bank Transfer,Electronics,Morning
+5734,4928,POS,Electronics,Morning
+5735,4980,POS,Cash,Morning
+5736,3826,Online,Groceries,Afternoon
+5737,949,Bank Transfer,Clothing,Evening
+5738,3192,POS,Cash,Night
+5739,3319,Bank Transfer,Electronics,Night
+5740,2060,Bank Transfer,Clothing,Evening
+5741,1756,Online,Travel,Night
+5742,2461,Online,Cash,Afternoon
+5743,34,ATM Withdrawal,Groceries,Morning
+5744,2566,Bank Transfer,Clothing,Evening
+5745,70,ATM Withdrawal,Electronics,Afternoon
+5746,132,ATM Withdrawal,Travel,Morning
+5747,2112,ATM Withdrawal,Cash,Evening
+5748,1196,Bank Transfer,Dining,Afternoon
+5749,1740,Bank Transfer,Travel,Evening
+5750,4651,ATM Withdrawal,Electronics,Evening
+5751,4099,Bank Transfer,Cash,Afternoon
+5752,2482,ATM Withdrawal,Electronics,Night
+5753,2975,POS,Dining,Afternoon
+5754,2287,Bank Transfer,Travel,Evening
+5755,4097,Online,Clothing,Evening
+5756,2974,Online,Clothing,Afternoon
+5757,1320,ATM Withdrawal,Travel,Morning
+5758,164,POS,Clothing,Morning
+5759,2222,Bank Transfer,Cash,Morning
+5760,3263,ATM Withdrawal,Travel,Morning
+5761,1272,POS,Travel,Afternoon
+5762,1372,POS,Electronics,Night
+5763,947,Bank Transfer,Groceries,Morning
+5764,521,Online,Electronics,Evening
+5765,196,Online,Clothing,Morning
+5766,1855,POS,Groceries,Night
+5767,1712,Online,Travel,Afternoon
+5768,400,POS,Clothing,Night
+5769,664,POS,Dining,Night
+5770,4281,POS,Clothing,Night
+5771,2831,Online,Groceries,Morning
+5772,773,ATM Withdrawal,Groceries,Morning
+5773,3410,Online,Travel,Night
+5774,4816,ATM Withdrawal,Cash,Afternoon
+5775,3277,Online,Dining,Morning
+5776,1095,Bank Transfer,Travel,Afternoon
+5777,1939,Bank Transfer,Dining,Morning
+5778,4386,Online,Dining,Afternoon
+5779,1973,Bank Transfer,Travel,Morning
+5780,1795,Bank Transfer,Clothing,Night
+5781,2284,Bank Transfer,Electronics,Evening
+5782,2696,Bank Transfer,Dining,Evening
+5783,2978,ATM Withdrawal,Groceries,Afternoon
+5784,4582,POS,Travel,Afternoon
+5785,725,ATM Withdrawal,Cash,Night
+5786,252,POS,Clothing,Night
+5787,3925,POS,Dining,Afternoon
+5788,1533,Online,Cash,Evening
+5789,847,Online,Clothing,Night
+5790,3333,Online,Travel,Afternoon
+5791,2963,Online,Cash,Night
+5792,1355,Online,Groceries,Night
+5793,2433,ATM Withdrawal,Dining,Morning
+5794,2038,ATM Withdrawal,Dining,Night
+5795,1442,Bank Transfer,Cash,Afternoon
+5796,249,ATM Withdrawal,Clothing,Night
+5797,148,ATM Withdrawal,Travel,Afternoon
+5798,3203,Online,Electronics,Morning
+5799,429,Bank Transfer,Dining,Morning
+5800,313,ATM Withdrawal,Groceries,Evening
+5801,2172,ATM Withdrawal,Dining,Morning
+5802,2036,Bank Transfer,Dining,Morning
+5803,4112,POS,Electronics,Afternoon
+5804,2236,Online,Electronics,Evening
+5805,1178,ATM Withdrawal,Travel,Morning
+5806,425,ATM Withdrawal,Dining,Night
+5807,2723,Bank Transfer,Dining,Evening
+5808,159,ATM Withdrawal,Clothing,Morning
+5809,2454,Online,Clothing,Evening
+5810,848,ATM Withdrawal,Cash,Morning
+5811,1706,POS,Cash,Afternoon
+5812,4349,Online,Groceries,Evening
+5813,1920,POS,Groceries,Evening
+5814,1431,Bank Transfer,Clothing,Morning
+5815,4984,Online,Cash,Evening
+5816,3011,ATM Withdrawal,Groceries,Morning
+5817,1330,Online,Dining,Night
+5818,4045,Online,Cash,Evening
+5819,1533,Online,Electronics,Evening
+5820,3888,POS,Cash,Afternoon
+5821,562,Bank Transfer,Dining,Afternoon
+5822,3766,Online,Clothing,Evening
+5823,3681,ATM Withdrawal,Travel,Afternoon
+5824,491,Online,Travel,Evening
+5825,609,Online,Clothing,Morning
+5826,1174,Bank Transfer,Dining,Evening
+5827,4688,ATM Withdrawal,Groceries,Evening
+5828,4242,ATM Withdrawal,Cash,Night
+5829,1013,POS,Cash,Afternoon
+5830,1992,ATM Withdrawal,Groceries,Afternoon
+5831,1644,ATM Withdrawal,Travel,Night
+5832,3007,ATM Withdrawal,Clothing,Morning
+5833,696,Online,Clothing,Morning
+5834,3424,POS,Electronics,Morning
+5835,1769,ATM Withdrawal,Travel,Night
+5836,4947,ATM Withdrawal,Clothing,Evening
+5837,2490,ATM Withdrawal,Electronics,Morning
+5838,1347,Online,Groceries,Morning
+5839,124,Online,Travel,Night
+5840,3967,POS,Travel,Afternoon
+5841,578,Bank Transfer,Clothing,Night
+5842,1563,POS,Clothing,Afternoon
+5843,2699,Online,Dining,Morning
+5844,4600,ATM Withdrawal,Groceries,Morning
+5845,3350,ATM Withdrawal,Groceries,Evening
+5846,2998,POS,Cash,Evening
+5847,3161,ATM Withdrawal,Electronics,Afternoon
+5848,3537,Online,Electronics,Morning
+5849,3025,POS,Dining,Morning
+5850,831,Bank Transfer,Cash,Night
+5851,3584,Online,Groceries,Morning
+5852,3797,Online,Electronics,Morning
+5853,1618,ATM Withdrawal,Groceries,Night
+5854,569,Online,Groceries,Night
+5855,4073,Online,Cash,Morning
+5856,4445,Bank Transfer,Electronics,Evening
+5857,621,ATM Withdrawal,Clothing,Evening
+5858,2173,Online,Clothing,Morning
+5859,1891,ATM Withdrawal,Cash,Evening
+5860,4179,Online,Electronics,Night
+5861,3873,Bank Transfer,Dining,Evening
+5862,3718,ATM Withdrawal,Travel,Morning
+5863,1719,ATM Withdrawal,Cash,Evening
+5864,1771,Bank Transfer,Groceries,Morning
+5865,1702,POS,Cash,Evening
+5866,1255,Online,Travel,Morning
+5867,135,Online,Cash,Morning
+5868,4762,POS,Electronics,Evening
+5869,1209,ATM Withdrawal,Groceries,Evening
+5870,2721,ATM Withdrawal,Travel,Night
+5871,3456,Bank Transfer,Clothing,Afternoon
+5872,1000,Bank Transfer,Dining,Morning
+5873,3075,Bank Transfer,Cash,Morning
+5874,4964,POS,Cash,Morning
+5875,1531,POS,Travel,Morning
+5876,4738,ATM Withdrawal,Dining,Evening
+5877,2508,Bank Transfer,Cash,Evening
+5878,2575,ATM Withdrawal,Clothing,Afternoon
+5879,4800,POS,Travel,Morning
+5880,2607,Online,Electronics,Afternoon
+5881,125,ATM Withdrawal,Groceries,Night
+5882,1041,POS,Clothing,Afternoon
+5883,1251,Bank Transfer,Dining,Afternoon
+5884,1752,Online,Dining,Night
+5885,3648,Online,Clothing,Night
+5886,4409,Online,Electronics,Afternoon
+5887,4100,Bank Transfer,Cash,Night
+5888,1985,Online,Electronics,Afternoon
+5889,4193,POS,Cash,Evening
+5890,4413,ATM Withdrawal,Cash,Evening
+5891,4907,Online,Dining,Afternoon
+5892,173,Online,Cash,Night
+5893,3320,POS,Clothing,Night
+5894,3398,Bank Transfer,Cash,Evening
+5895,1005,Online,Clothing,Evening
+5896,1887,POS,Groceries,Night
+5897,1833,POS,Dining,Night
+5898,4916,Bank Transfer,Electronics,Night
+5899,2305,Bank Transfer,Travel,Night
+5900,3274,ATM Withdrawal,Electronics,Afternoon
+5901,1358,Online,Electronics,Night
+5902,1813,ATM Withdrawal,Travel,Evening
+5903,2261,POS,Dining,Evening
+5904,2910,Online,Cash,Morning
+5905,1603,POS,Groceries,Night
+5906,442,POS,Electronics,Afternoon
+5907,3827,POS,Cash,Morning
+5908,4927,Bank Transfer,Electronics,Morning
+5909,1080,Bank Transfer,Dining,Afternoon
+5910,4610,Online,Dining,Morning
+5911,124,POS,Clothing,Morning
+5912,1449,POS,Dining,Evening
+5913,1800,Online,Dining,Morning
+5914,1004,ATM Withdrawal,Electronics,Afternoon
+5915,4328,POS,Groceries,Night
+5916,4741,Bank Transfer,Electronics,Night
+5917,4777,ATM Withdrawal,Cash,Night
+5918,967,ATM Withdrawal,Dining,Evening
+5919,105,ATM Withdrawal,Clothing,Evening
+5920,2164,ATM Withdrawal,Groceries,Evening
+5921,641,ATM Withdrawal,Clothing,Afternoon
+5922,3694,ATM Withdrawal,Travel,Night
+5923,1711,Online,Clothing,Afternoon
+5924,707,Online,Clothing,Afternoon
+5925,41,ATM Withdrawal,Cash,Morning
+5926,4884,Bank Transfer,Dining,Night
+5927,558,Online,Cash,Morning
+5928,2258,Online,Dining,Evening
+5929,1903,ATM Withdrawal,Cash,Evening
+5930,2844,Bank Transfer,Dining,Afternoon
+5931,1713,ATM Withdrawal,Dining,Afternoon
+5932,1166,Bank Transfer,Dining,Morning
+5933,353,Bank Transfer,Clothing,Morning
+5934,4082,POS,Travel,Afternoon
+5935,3472,Online,Dining,Night
+5936,2258,ATM Withdrawal,Travel,Afternoon
+5937,954,Online,Travel,Night
+5938,3890,Online,Electronics,Morning
+5939,2060,Bank Transfer,Electronics,Evening
+5940,3295,Online,Groceries,Evening
+5941,2865,POS,Cash,Morning
+5942,1340,ATM Withdrawal,Electronics,Morning
+5943,2013,Online,Dining,Evening
+5944,3625,ATM Withdrawal,Travel,Night
+5945,1797,Online,Cash,Morning
+5946,2256,ATM Withdrawal,Groceries,Night
+5947,3682,ATM Withdrawal,Electronics,Night
+5948,2165,ATM Withdrawal,Clothing,Evening
+5949,3489,Online,Cash,Night
+5950,3030,POS,Groceries,Evening
+5951,61,ATM Withdrawal,Dining,Morning
+5952,2169,Bank Transfer,Cash,Afternoon
+5953,4400,Bank Transfer,Travel,Afternoon
+5954,3661,Bank Transfer,Dining,Afternoon
+5955,3925,POS,Dining,Afternoon
+5956,2122,ATM Withdrawal,Cash,Afternoon
+5957,2631,POS,Clothing,Afternoon
+5958,4570,ATM Withdrawal,Clothing,Night
+5959,4739,POS,Cash,Night
+5960,1364,ATM Withdrawal,Cash,Afternoon
+5961,3764,Bank Transfer,Cash,Morning
+5962,219,ATM Withdrawal,Travel,Morning
+5963,247,POS,Electronics,Night
+5964,345,ATM Withdrawal,Dining,Night
+5965,3848,Online,Cash,Afternoon
+5966,1586,ATM Withdrawal,Electronics,Morning
+5967,509,Bank Transfer,Travel,Evening
+5968,1574,ATM Withdrawal,Dining,Afternoon
+5969,800,Online,Electronics,Night
+5970,3550,Online,Dining,Night
+5971,3132,Online,Clothing,Night
+5972,1145,POS,Cash,Evening
+5973,3954,Online,Clothing,Morning
+5974,2358,POS,Groceries,Night
+5975,4334,Online,Travel,Afternoon
+5976,159,POS,Cash,Evening
+5977,3216,Online,Electronics,Morning
+5978,3538,Online,Dining,Afternoon
+5979,1634,ATM Withdrawal,Groceries,Afternoon
+5980,2584,Online,Travel,Evening
+5981,4438,ATM Withdrawal,Travel,Evening
+5982,4279,Online,Travel,Evening
+5983,3294,Online,Electronics,Night
+5984,2118,ATM Withdrawal,Cash,Morning
+5985,3957,ATM Withdrawal,Clothing,Night
+5986,4924,POS,Groceries,Evening
+5987,2273,Bank Transfer,Electronics,Evening
+5988,1622,ATM Withdrawal,Dining,Evening
+5989,3825,POS,Electronics,Night
+5990,4729,Online,Dining,Afternoon
+5991,587,ATM Withdrawal,Dining,Evening
+5992,432,ATM Withdrawal,Travel,Night
+5993,2773,Online,Electronics,Evening
+5994,1239,Online,Clothing,Night
+5995,3186,Online,Dining,Morning
+5996,763,Online,Travel,Morning
+5997,4852,Bank Transfer,Clothing,Night
+5998,697,ATM Withdrawal,Electronics,Evening
+5999,732,Online,Clothing,Night
+6000,756,Online,Electronics,Morning
+6001,4347,Bank Transfer,Dining,Night
+6002,2722,ATM Withdrawal,Groceries,Morning
+6003,717,POS,Groceries,Morning
+6004,444,ATM Withdrawal,Cash,Afternoon
+6005,4886,POS,Cash,Evening
+6006,493,Bank Transfer,Dining,Night
+6007,3528,Online,Clothing,Evening
+6008,1543,Bank Transfer,Electronics,Evening
+6009,179,ATM Withdrawal,Groceries,Morning
+6010,1030,Online,Electronics,Morning
+6011,4974,ATM Withdrawal,Dining,Night
+6012,857,POS,Clothing,Night
+6013,705,ATM Withdrawal,Electronics,Night
+6014,3356,Bank Transfer,Clothing,Morning
+6015,4023,Bank Transfer,Groceries,Afternoon
+6016,41,Bank Transfer,Electronics,Night
+6017,186,Online,Travel,Morning
+6018,2974,ATM Withdrawal,Groceries,Afternoon
+6019,2122,Online,Clothing,Evening
+6020,3896,ATM Withdrawal,Dining,Morning
+6021,1512,POS,Travel,Night
+6022,2325,ATM Withdrawal,Cash,Night
+6023,2654,ATM Withdrawal,Electronics,Afternoon
+6024,75,ATM Withdrawal,Cash,Afternoon
+6025,4238,ATM Withdrawal,Groceries,Morning
+6026,1938,POS,Electronics,Afternoon
+6027,594,Online,Electronics,Morning
+6028,1758,Bank Transfer,Travel,Afternoon
+6029,2214,ATM Withdrawal,Travel,Evening
+6030,3640,Bank Transfer,Travel,Night
+6031,1902,Bank Transfer,Travel,Night
+6032,2439,Bank Transfer,Dining,Evening
+6033,3103,Bank Transfer,Clothing,Night
+6034,983,ATM Withdrawal,Travel,Night
+6035,4034,Bank Transfer,Groceries,Night
+6036,2652,ATM Withdrawal,Electronics,Night
+6037,1452,POS,Cash,Evening
+6038,4339,Online,Travel,Morning
+6039,1487,Online,Groceries,Night
+6040,780,ATM Withdrawal,Dining,Evening
+6041,315,ATM Withdrawal,Groceries,Night
+6042,11,Online,Cash,Evening
+6043,280,Bank Transfer,Cash,Evening
+6044,4526,ATM Withdrawal,Groceries,Morning
+6045,3224,Bank Transfer,Dining,Afternoon
+6046,873,ATM Withdrawal,Cash,Morning
+6047,2749,ATM Withdrawal,Dining,Morning
+6048,2924,POS,Electronics,Night
+6049,116,POS,Travel,Evening
+6050,3178,Online,Cash,Afternoon
+6051,4654,POS,Groceries,Evening
+6052,2609,POS,Clothing,Night
+6053,2245,Online,Clothing,Evening
+6054,2809,Bank Transfer,Electronics,Night
+6055,1521,POS,Clothing,Morning
+6056,28,Bank Transfer,Electronics,Morning
+6057,868,Online,Travel,Night
+6058,1426,ATM Withdrawal,Electronics,Morning
+6059,3042,Bank Transfer,Dining,Evening
+6060,4515,Online,Dining,Afternoon
+6061,1436,Bank Transfer,Dining,Afternoon
+6062,2541,Online,Cash,Evening
+6063,4729,Online,Dining,Afternoon
+6064,4761,ATM Withdrawal,Dining,Evening
+6065,4873,Bank Transfer,Dining,Night
+6066,4048,ATM Withdrawal,Dining,Afternoon
+6067,4123,ATM Withdrawal,Cash,Night
+6068,2241,Bank Transfer,Dining,Night
+6069,2462,Bank Transfer,Dining,Evening
+6070,2856,Online,Travel,Afternoon
+6071,3212,Bank Transfer,Cash,Morning
+6072,1826,Online,Dining,Morning
+6073,1790,Online,Electronics,Morning
+6074,4113,Online,Travel,Morning
+6075,714,Online,Cash,Evening
+6076,1351,Online,Clothing,Night
+6077,3472,Online,Groceries,Afternoon
+6078,3600,Bank Transfer,Cash,Evening
+6079,1169,Bank Transfer,Travel,Morning
+6080,4636,POS,Dining,Afternoon
+6081,3732,Bank Transfer,Travel,Evening
+6082,3448,ATM Withdrawal,Groceries,Night
+6083,3570,POS,Groceries,Morning
+6084,3092,Bank Transfer,Cash,Afternoon
+6085,1725,ATM Withdrawal,Dining,Afternoon
+6086,2253,Bank Transfer,Dining,Morning
+6087,1770,Online,Electronics,Night
+6088,4017,POS,Groceries,Morning
+6089,1806,Online,Dining,Night
+6090,2685,POS,Groceries,Afternoon
+6091,3246,POS,Electronics,Morning
+6092,53,Online,Clothing,Night
+6093,498,POS,Groceries,Night
+6094,4286,POS,Electronics,Evening
+6095,3158,Bank Transfer,Electronics,Night
+6096,4733,ATM Withdrawal,Electronics,Morning
+6097,966,Online,Travel,Morning
+6098,2124,Bank Transfer,Cash,Night
+6099,1125,Bank Transfer,Dining,Morning
+6100,1791,Online,Groceries,Afternoon
+6101,2836,POS,Cash,Afternoon
+6102,660,Online,Travel,Morning
+6103,1886,ATM Withdrawal,Groceries,Night
+6104,350,ATM Withdrawal,Cash,Afternoon
+6105,2960,Online,Travel,Night
+6106,3385,Bank Transfer,Dining,Morning
+6107,2455,Online,Electronics,Evening
+6108,2760,ATM Withdrawal,Cash,Afternoon
+6109,2154,Online,Cash,Morning
+6110,1364,POS,Groceries,Afternoon
+6111,3286,Online,Electronics,Night
+6112,458,Bank Transfer,Dining,Evening
+6113,4182,POS,Groceries,Evening
+6114,4654,ATM Withdrawal,Clothing,Morning
+6115,807,Online,Clothing,Afternoon
+6116,3506,Bank Transfer,Clothing,Evening
+6117,4920,Bank Transfer,Dining,Afternoon
+6118,2192,ATM Withdrawal,Clothing,Night
+6119,3336,Online,Cash,Night
+6120,655,Bank Transfer,Groceries,Morning
+6121,729,POS,Cash,Evening
+6122,1532,Online,Clothing,Evening
+6123,1079,ATM Withdrawal,Groceries,Afternoon
+6124,4753,POS,Cash,Night
+6125,4897,Online,Dining,Evening
+6126,4684,Bank Transfer,Electronics,Morning
+6127,3085,ATM Withdrawal,Cash,Morning
+6128,3817,ATM Withdrawal,Travel,Evening
+6129,3371,Online,Clothing,Morning
+6130,2166,ATM Withdrawal,Travel,Evening
+6131,4565,POS,Electronics,Evening
+6132,2323,Online,Dining,Evening
+6133,3515,POS,Cash,Evening
+6134,4149,ATM Withdrawal,Dining,Afternoon
+6135,642,ATM Withdrawal,Electronics,Evening
+6136,2209,ATM Withdrawal,Travel,Morning
+6137,3073,POS,Cash,Night
+6138,2920,ATM Withdrawal,Clothing,Afternoon
+6139,632,Online,Groceries,Night
+6140,370,Bank Transfer,Dining,Night
+6141,2377,Online,Electronics,Night
+6142,219,Bank Transfer,Cash,Night
+6143,3477,ATM Withdrawal,Travel,Night
+6144,940,Online,Clothing,Morning
+6145,4594,POS,Travel,Evening
+6146,3953,Bank Transfer,Clothing,Morning
+6147,4706,POS,Cash,Afternoon
+6148,4879,Bank Transfer,Groceries,Morning
+6149,887,ATM Withdrawal,Groceries,Afternoon
+6150,4805,Online,Electronics,Evening
+6151,2509,Bank Transfer,Electronics,Night
+6152,2533,Online,Clothing,Evening
+6153,4361,Bank Transfer,Clothing,Morning
+6154,401,Bank Transfer,Clothing,Morning
+6155,3912,ATM Withdrawal,Clothing,Evening
+6156,2331,Bank Transfer,Cash,Evening
+6157,4950,POS,Cash,Morning
+6158,3991,Bank Transfer,Groceries,Evening
+6159,148,Bank Transfer,Electronics,Afternoon
+6160,112,Bank Transfer,Electronics,Afternoon
+6161,493,ATM Withdrawal,Dining,Morning
+6162,4329,Online,Electronics,Morning
+6163,4083,Online,Electronics,Evening
+6164,1858,ATM Withdrawal,Travel,Evening
+6165,1894,POS,Travel,Night
+6166,3215,POS,Dining,Afternoon
+6167,2171,ATM Withdrawal,Clothing,Morning
+6168,1474,Online,Dining,Morning
+6169,653,POS,Dining,Morning
+6170,3446,ATM Withdrawal,Groceries,Morning
+6171,4563,Online,Cash,Night
+6172,620,POS,Electronics,Afternoon
+6173,4312,POS,Groceries,Night
+6174,1553,ATM Withdrawal,Cash,Afternoon
+6175,3549,Online,Electronics,Morning
+6176,1476,POS,Dining,Afternoon
+6177,926,ATM Withdrawal,Electronics,Morning
+6178,1191,POS,Clothing,Night
+6179,2156,Online,Clothing,Afternoon
+6180,2282,Bank Transfer,Dining,Evening
+6181,861,POS,Travel,Afternoon
+6182,4546,Online,Clothing,Morning
+6183,729,POS,Dining,Evening
+6184,4690,Bank Transfer,Groceries,Morning
+6185,2024,Bank Transfer,Travel,Evening
+6186,3482,POS,Clothing,Evening
+6187,3652,ATM Withdrawal,Dining,Afternoon
+6188,3880,POS,Dining,Afternoon
+6189,73,Online,Groceries,Evening
+6190,4873,ATM Withdrawal,Groceries,Evening
+6191,569,Online,Travel,Evening
+6192,1743,Online,Cash,Morning
+6193,679,ATM Withdrawal,Clothing,Afternoon
+6194,3904,Bank Transfer,Dining,Morning
+6195,1552,Online,Travel,Afternoon
+6196,1281,POS,Travel,Night
+6197,2425,Bank Transfer,Groceries,Morning
+6198,2801,Bank Transfer,Dining,Afternoon
+6199,4723,ATM Withdrawal,Electronics,Evening
+6200,3064,POS,Cash,Evening
+6201,2468,POS,Cash,Afternoon
+6202,3075,Bank Transfer,Groceries,Evening
+6203,1173,Online,Dining,Evening
+6204,4569,Online,Travel,Night
+6205,2759,POS,Cash,Night
+6206,1958,Bank Transfer,Travel,Night
+6207,69,Bank Transfer,Clothing,Morning
+6208,3112,Bank Transfer,Electronics,Night
+6209,342,ATM Withdrawal,Groceries,Night
+6210,4181,POS,Cash,Night
+6211,199,POS,Clothing,Afternoon
+6212,3570,Online,Clothing,Evening
+6213,305,Online,Electronics,Afternoon
+6214,2558,POS,Groceries,Night
+6215,186,POS,Groceries,Morning
+6216,809,Online,Travel,Afternoon
+6217,815,POS,Groceries,Night
+6218,1752,Online,Clothing,Morning
+6219,224,POS,Travel,Morning
+6220,1889,ATM Withdrawal,Groceries,Morning
+6221,2710,ATM Withdrawal,Electronics,Evening
+6222,606,Bank Transfer,Clothing,Morning
+6223,1727,POS,Dining,Night
+6224,1365,Online,Electronics,Afternoon
+6225,4233,POS,Electronics,Afternoon
+6226,1302,POS,Groceries,Night
+6227,2608,Bank Transfer,Travel,Evening
+6228,3447,Online,Travel,Evening
+6229,4724,POS,Clothing,Morning
+6230,151,Online,Groceries,Night
+6231,3226,POS,Travel,Morning
+6232,2849,Bank Transfer,Cash,Morning
+6233,4350,Online,Dining,Night
+6234,3523,POS,Cash,Evening
+6235,2760,ATM Withdrawal,Groceries,Evening
+6236,1724,Online,Groceries,Afternoon
+6237,1145,Bank Transfer,Travel,Night
+6238,3731,ATM Withdrawal,Electronics,Morning
+6239,1919,Online,Groceries,Night
+6240,2257,Online,Electronics,Morning
+6241,4526,Online,Clothing,Afternoon
+6242,4112,Online,Clothing,Afternoon
+6243,1558,POS,Travel,Afternoon
+6244,2649,POS,Clothing,Afternoon
+6245,4776,Online,Cash,Morning
+6246,4521,Bank Transfer,Cash,Evening
+6247,2841,POS,Cash,Morning
+6248,1016,Online,Travel,Afternoon
+6249,3231,Online,Travel,Evening
+6250,3072,Bank Transfer,Cash,Night
+6251,4533,Bank Transfer,Electronics,Morning
+6252,3062,Bank Transfer,Cash,Night
+6253,4439,ATM Withdrawal,Electronics,Afternoon
+6254,2329,Online,Clothing,Night
+6255,3549,Bank Transfer,Electronics,Evening
+6256,2376,Online,Groceries,Evening
+6257,536,POS,Dining,Evening
+6258,2817,Online,Groceries,Morning
+6259,1205,Online,Groceries,Night
+6260,1763,ATM Withdrawal,Travel,Night
+6261,1682,POS,Dining,Night
+6262,2038,POS,Travel,Afternoon
+6263,1664,ATM Withdrawal,Electronics,Morning
+6264,4559,Bank Transfer,Cash,Morning
+6265,4851,Bank Transfer,Electronics,Night
+6266,4051,Online,Dining,Morning
+6267,857,ATM Withdrawal,Clothing,Night
+6268,877,Bank Transfer,Electronics,Night
+6269,783,POS,Groceries,Night
+6270,552,ATM Withdrawal,Dining,Evening
+6271,4427,Bank Transfer,Dining,Afternoon
+6272,795,POS,Electronics,Morning
+6273,3315,ATM Withdrawal,Electronics,Afternoon
+6274,4645,Online,Travel,Evening
+6275,2893,Online,Travel,Morning
+6276,458,POS,Groceries,Night
+6277,3320,Bank Transfer,Dining,Afternoon
+6278,4595,Bank Transfer,Clothing,Evening
+6279,1915,ATM Withdrawal,Clothing,Morning
+6280,4569,POS,Dining,Morning
+6281,4419,Bank Transfer,Groceries,Afternoon
+6282,3261,Online,Travel,Afternoon
+6283,394,POS,Travel,Morning
+6284,304,Online,Travel,Morning
+6285,1248,POS,Clothing,Evening
+6286,4867,ATM Withdrawal,Clothing,Night
+6287,2826,Bank Transfer,Groceries,Night
+6288,1108,Bank Transfer,Clothing,Evening
+6289,1747,Bank Transfer,Electronics,Morning
+6290,2199,Online,Clothing,Afternoon
+6291,2775,Bank Transfer,Travel,Afternoon
+6292,1232,POS,Groceries,Morning
+6293,3252,Online,Dining,Evening
+6294,3909,ATM Withdrawal,Dining,Morning
+6295,4333,Online,Groceries,Afternoon
+6296,420,ATM Withdrawal,Electronics,Morning
+6297,3009,Online,Dining,Morning
+6298,2955,Bank Transfer,Travel,Evening
+6299,4796,ATM Withdrawal,Dining,Night
+6300,887,Bank Transfer,Dining,Afternoon
+6301,796,Online,Travel,Afternoon
+6302,2119,ATM Withdrawal,Clothing,Morning
+6303,1996,POS,Electronics,Afternoon
+6304,888,POS,Travel,Afternoon
+6305,1617,Online,Travel,Night
+6306,2413,ATM Withdrawal,Cash,Afternoon
+6307,80,POS,Groceries,Afternoon
+6308,2320,Bank Transfer,Electronics,Evening
+6309,4411,Bank Transfer,Clothing,Evening
+6310,3305,Online,Cash,Evening
+6311,771,Bank Transfer,Travel,Evening
+6312,4693,Bank Transfer,Cash,Evening
+6313,2131,Bank Transfer,Clothing,Night
+6314,3592,POS,Cash,Afternoon
+6315,4207,ATM Withdrawal,Cash,Morning
+6316,1639,Online,Cash,Night
+6317,4298,ATM Withdrawal,Travel,Morning
+6318,1095,ATM Withdrawal,Travel,Evening
+6319,2467,ATM Withdrawal,Groceries,Afternoon
+6320,4405,POS,Dining,Evening
+6321,3276,Bank Transfer,Electronics,Night
+6322,463,Online,Groceries,Morning
+6323,2631,ATM Withdrawal,Clothing,Afternoon
+6324,628,Bank Transfer,Cash,Night
+6325,646,POS,Travel,Night
+6326,2358,ATM Withdrawal,Cash,Afternoon
+6327,4884,Bank Transfer,Travel,Afternoon
+6328,3046,POS,Electronics,Night
+6329,2259,Bank Transfer,Groceries,Morning
+6330,2731,Online,Groceries,Morning
+6331,2359,Bank Transfer,Clothing,Night
+6332,4442,Bank Transfer,Groceries,Night
+6333,2004,Online,Groceries,Evening
+6334,2830,Online,Dining,Evening
+6335,1081,Bank Transfer,Electronics,Morning
+6336,2041,Online,Cash,Evening
+6337,1259,Bank Transfer,Groceries,Morning
+6338,1305,ATM Withdrawal,Clothing,Afternoon
+6339,3566,Bank Transfer,Cash,Evening
+6340,337,POS,Travel,Morning
+6341,806,Online,Groceries,Morning
+6342,2871,ATM Withdrawal,Groceries,Night
+6343,4770,Online,Cash,Morning
+6344,2803,Online,Travel,Evening
+6345,3104,Online,Dining,Night
+6346,2987,POS,Electronics,Night
+6347,972,POS,Dining,Evening
+6348,1278,Bank Transfer,Clothing,Afternoon
+6349,382,POS,Cash,Evening
+6350,4390,Online,Groceries,Evening
+6351,2578,ATM Withdrawal,Dining,Night
+6352,4912,ATM Withdrawal,Electronics,Evening
+6353,4752,ATM Withdrawal,Clothing,Afternoon
+6354,3703,Online,Dining,Afternoon
+6355,1614,POS,Groceries,Afternoon
+6356,105,ATM Withdrawal,Electronics,Night
+6357,4379,Online,Groceries,Evening
+6358,3951,Online,Groceries,Morning
+6359,1210,ATM Withdrawal,Clothing,Evening
+6360,3954,ATM Withdrawal,Electronics,Afternoon
+6361,4889,Bank Transfer,Travel,Evening
+6362,141,Bank Transfer,Groceries,Night
+6363,3125,Online,Electronics,Evening
+6364,1400,Bank Transfer,Groceries,Night
+6365,1159,Bank Transfer,Dining,Morning
+6366,3520,ATM Withdrawal,Dining,Morning
+6367,3657,Bank Transfer,Electronics,Night
+6368,817,Online,Clothing,Evening
+6369,4849,ATM Withdrawal,Travel,Afternoon
+6370,60,Bank Transfer,Dining,Night
+6371,3218,Bank Transfer,Clothing,Evening
+6372,65,Bank Transfer,Travel,Evening
+6373,3674,POS,Dining,Evening
+6374,753,Bank Transfer,Travel,Afternoon
+6375,4548,Bank Transfer,Cash,Afternoon
+6376,2886,Online,Groceries,Afternoon
+6377,89,Bank Transfer,Electronics,Night
+6378,4482,POS,Dining,Night
+6379,3950,ATM Withdrawal,Dining,Afternoon
+6380,2976,Bank Transfer,Groceries,Night
+6381,3738,Bank Transfer,Dining,Afternoon
+6382,4546,Online,Dining,Night
+6383,135,Bank Transfer,Cash,Evening
+6384,228,Bank Transfer,Dining,Afternoon
+6385,957,Bank Transfer,Dining,Night
+6386,4383,Bank Transfer,Dining,Evening
+6387,604,ATM Withdrawal,Clothing,Evening
+6388,150,Online,Dining,Night
+6389,2903,ATM Withdrawal,Groceries,Evening
+6390,3065,POS,Cash,Morning
+6391,1640,Bank Transfer,Dining,Afternoon
+6392,886,POS,Travel,Afternoon
+6393,4215,ATM Withdrawal,Cash,Evening
+6394,2670,POS,Cash,Night
+6395,3400,Bank Transfer,Travel,Morning
+6396,4901,POS,Groceries,Night
+6397,2039,ATM Withdrawal,Clothing,Afternoon
+6398,4834,Bank Transfer,Groceries,Evening
+6399,2562,Online,Clothing,Morning
+6400,3621,ATM Withdrawal,Electronics,Evening
+6401,1050,Bank Transfer,Travel,Morning
+6402,324,Online,Cash,Evening
+6403,3469,POS,Cash,Night
+6404,4182,POS,Cash,Afternoon
+6405,3035,POS,Travel,Evening
+6406,2956,Bank Transfer,Travel,Evening
+6407,3246,POS,Clothing,Morning
+6408,3690,POS,Cash,Night
+6409,4817,Online,Groceries,Night
+6410,3116,Online,Clothing,Morning
+6411,1547,Online,Cash,Night
+6412,3882,Bank Transfer,Travel,Afternoon
+6413,1877,ATM Withdrawal,Travel,Evening
+6414,4959,POS,Travel,Morning
+6415,1171,POS,Cash,Night
+6416,3930,Bank Transfer,Travel,Afternoon
+6417,3892,POS,Electronics,Afternoon
+6418,2766,Bank Transfer,Travel,Night
+6419,1922,Bank Transfer,Cash,Night
+6420,274,Bank Transfer,Clothing,Morning
+6421,4438,ATM Withdrawal,Travel,Night
+6422,4925,Bank Transfer,Dining,Morning
+6423,1312,ATM Withdrawal,Electronics,Evening
+6424,1204,ATM Withdrawal,Cash,Afternoon
+6425,1536,POS,Travel,Morning
+6426,3614,Online,Dining,Afternoon
+6427,4404,ATM Withdrawal,Cash,Evening
+6428,2258,ATM Withdrawal,Clothing,Night
+6429,1168,Online,Electronics,Morning
+6430,4377,ATM Withdrawal,Travel,Night
+6431,4640,Online,Clothing,Afternoon
+6432,3523,POS,Cash,Morning
+6433,2088,Bank Transfer,Dining,Evening
+6434,1154,Online,Cash,Evening
+6435,78,Bank Transfer,Cash,Night
+6436,3727,Online,Electronics,Evening
+6437,3018,Bank Transfer,Travel,Evening
+6438,836,POS,Clothing,Night
+6439,1179,ATM Withdrawal,Electronics,Night
+6440,993,POS,Dining,Morning
+6441,4586,ATM Withdrawal,Travel,Morning
+6442,3987,Bank Transfer,Electronics,Night
+6443,3344,Bank Transfer,Dining,Afternoon
+6444,2350,ATM Withdrawal,Dining,Afternoon
+6445,2025,Online,Clothing,Morning
+6446,1462,POS,Cash,Morning
+6447,2143,Online,Dining,Night
+6448,1049,Bank Transfer,Dining,Afternoon
+6449,4733,POS,Cash,Night
+6450,4223,POS,Groceries,Morning
+6451,3476,Online,Dining,Evening
+6452,3036,ATM Withdrawal,Travel,Evening
+6453,4267,ATM Withdrawal,Electronics,Evening
+6454,2757,POS,Cash,Night
+6455,4272,ATM Withdrawal,Cash,Afternoon
+6456,4405,Bank Transfer,Cash,Morning
+6457,3505,Online,Travel,Afternoon
+6458,3865,Online,Cash,Afternoon
+6459,571,Online,Travel,Morning
+6460,2213,POS,Clothing,Afternoon
+6461,3429,POS,Groceries,Evening
+6462,1154,ATM Withdrawal,Cash,Morning
+6463,2709,Online,Groceries,Evening
+6464,1561,Bank Transfer,Cash,Night
+6465,4031,Bank Transfer,Travel,Evening
+6466,570,Online,Electronics,Night
+6467,1197,POS,Groceries,Night
+6468,3143,POS,Groceries,Morning
+6469,3421,POS,Travel,Evening
+6470,1699,Bank Transfer,Groceries,Evening
+6471,4417,Online,Clothing,Evening
+6472,2433,Bank Transfer,Travel,Morning
+6473,1379,Online,Groceries,Night
+6474,590,Bank Transfer,Groceries,Night
+6475,986,Bank Transfer,Groceries,Night
+6476,4282,ATM Withdrawal,Travel,Morning
+6477,4619,Bank Transfer,Electronics,Morning
+6478,2366,Online,Dining,Afternoon
+6479,128,Bank Transfer,Cash,Evening
+6480,1552,ATM Withdrawal,Groceries,Night
+6481,4872,ATM Withdrawal,Dining,Afternoon
+6482,3053,Online,Dining,Afternoon
+6483,982,ATM Withdrawal,Groceries,Evening
+6484,925,ATM Withdrawal,Groceries,Morning
+6485,1447,POS,Cash,Afternoon
+6486,596,Online,Dining,Morning
+6487,360,ATM Withdrawal,Electronics,Morning
+6488,4601,ATM Withdrawal,Dining,Evening
+6489,2572,ATM Withdrawal,Electronics,Afternoon
+6490,1880,Online,Clothing,Night
+6491,282,POS,Electronics,Afternoon
+6492,2937,Bank Transfer,Cash,Night
+6493,4368,POS,Travel,Night
+6494,3449,Online,Groceries,Morning
+6495,3051,Online,Clothing,Night
+6496,3958,Online,Dining,Evening
+6497,1774,Bank Transfer,Electronics,Afternoon
+6498,4300,Online,Clothing,Morning
+6499,1780,POS,Travel,Morning
+6500,1532,ATM Withdrawal,Electronics,Night
+6501,841,ATM Withdrawal,Cash,Morning
+6502,571,Online,Dining,Evening
+6503,3550,Online,Dining,Evening
+6504,4146,Bank Transfer,Electronics,Morning
+6505,1489,ATM Withdrawal,Travel,Morning
+6506,4476,Bank Transfer,Groceries,Evening
+6507,1215,Bank Transfer,Groceries,Night
+6508,666,Bank Transfer,Dining,Morning
+6509,3950,Bank Transfer,Travel,Night
+6510,599,POS,Dining,Morning
+6511,4336,Online,Groceries,Evening
+6512,4914,Online,Dining,Morning
+6513,1381,Bank Transfer,Electronics,Morning
+6514,4584,Bank Transfer,Cash,Morning
+6515,3761,POS,Electronics,Evening
+6516,3769,Bank Transfer,Cash,Evening
+6517,2110,POS,Travel,Evening
+6518,1894,POS,Groceries,Afternoon
+6519,757,Bank Transfer,Travel,Afternoon
+6520,473,Online,Travel,Afternoon
+6521,763,POS,Groceries,Afternoon
+6522,592,Online,Clothing,Evening
+6523,2215,Online,Clothing,Morning
+6524,4124,POS,Dining,Evening
+6525,4160,ATM Withdrawal,Clothing,Afternoon
+6526,4037,POS,Electronics,Night
+6527,4826,ATM Withdrawal,Cash,Night
+6528,3363,POS,Travel,Evening
+6529,2818,POS,Dining,Morning
+6530,3613,Online,Travel,Afternoon
+6531,3923,Online,Groceries,Morning
+6532,1429,Bank Transfer,Clothing,Morning
+6533,2177,Online,Groceries,Morning
+6534,2154,Online,Dining,Afternoon
+6535,2177,Online,Cash,Evening
+6536,1570,Online,Electronics,Afternoon
+6537,1186,Bank Transfer,Clothing,Afternoon
+6538,1278,Online,Groceries,Evening
+6539,3597,ATM Withdrawal,Cash,Evening
+6540,1176,ATM Withdrawal,Clothing,Evening
+6541,3585,Bank Transfer,Travel,Night
+6542,2851,Online,Electronics,Night
+6543,1880,ATM Withdrawal,Cash,Evening
+6544,3939,POS,Clothing,Morning
+6545,2277,ATM Withdrawal,Electronics,Night
+6546,2896,Online,Cash,Afternoon
+6547,169,ATM Withdrawal,Travel,Afternoon
+6548,2668,POS,Travel,Night
+6549,3773,ATM Withdrawal,Groceries,Afternoon
+6550,4744,Online,Dining,Evening
+6551,1065,POS,Groceries,Afternoon
+6552,343,Bank Transfer,Electronics,Night
+6553,3606,POS,Groceries,Morning
+6554,901,ATM Withdrawal,Cash,Afternoon
+6555,2997,Bank Transfer,Clothing,Afternoon
+6556,4457,POS,Cash,Morning
+6557,1372,POS,Groceries,Night
+6558,935,POS,Dining,Morning
+6559,2453,Online,Cash,Afternoon
+6560,2587,Bank Transfer,Cash,Night
+6561,3990,Bank Transfer,Cash,Evening
+6562,2415,POS,Dining,Night
+6563,1429,Bank Transfer,Cash,Night
+6564,2885,ATM Withdrawal,Electronics,Evening
+6565,69,ATM Withdrawal,Travel,Night
+6566,2534,POS,Dining,Afternoon
+6567,3807,ATM Withdrawal,Electronics,Afternoon
+6568,2669,POS,Dining,Afternoon
+6569,4106,ATM Withdrawal,Dining,Afternoon
+6570,1588,POS,Travel,Evening
+6571,4416,POS,Clothing,Afternoon
+6572,3115,Bank Transfer,Electronics,Night
+6573,717,Bank Transfer,Dining,Morning
+6574,1790,POS,Dining,Evening
+6575,2423,Bank Transfer,Groceries,Evening
+6576,4963,Bank Transfer,Cash,Morning
+6577,3416,Online,Clothing,Afternoon
+6578,2171,ATM Withdrawal,Travel,Afternoon
+6579,3549,Bank Transfer,Electronics,Night
+6580,618,POS,Dining,Afternoon
+6581,318,Online,Cash,Afternoon
+6582,4317,Online,Electronics,Night
+6583,2374,Bank Transfer,Travel,Afternoon
+6584,194,POS,Clothing,Morning
+6585,255,POS,Groceries,Afternoon
+6586,248,POS,Clothing,Morning
+6587,529,POS,Groceries,Morning
+6588,3917,POS,Electronics,Morning
+6589,286,ATM Withdrawal,Clothing,Afternoon
+6590,4038,POS,Clothing,Afternoon
+6591,4319,POS,Clothing,Evening
+6592,615,ATM Withdrawal,Travel,Night
+6593,4583,Bank Transfer,Electronics,Night
+6594,4613,Online,Groceries,Evening
+6595,4063,ATM Withdrawal,Clothing,Morning
+6596,2722,Online,Electronics,Night
+6597,151,Online,Cash,Evening
+6598,3671,ATM Withdrawal,Travel,Morning
+6599,2379,POS,Travel,Evening
+6600,1727,Online,Cash,Afternoon
+6601,4566,POS,Electronics,Afternoon
+6602,4775,Bank Transfer,Groceries,Morning
+6603,3437,ATM Withdrawal,Electronics,Morning
+6604,2334,Online,Electronics,Afternoon
+6605,1854,POS,Dining,Night
+6606,409,Online,Travel,Night
+6607,4773,Bank Transfer,Groceries,Afternoon
+6608,2573,Bank Transfer,Dining,Night
+6609,1532,Online,Cash,Afternoon
+6610,1344,ATM Withdrawal,Electronics,Evening
+6611,2633,Bank Transfer,Cash,Evening
+6612,248,POS,Travel,Evening
+6613,3225,Bank Transfer,Dining,Night
+6614,3657,POS,Dining,Evening
+6615,1626,Online,Groceries,Morning
+6616,2439,POS,Electronics,Morning
+6617,3662,Online,Groceries,Evening
+6618,1731,Bank Transfer,Dining,Morning
+6619,1282,ATM Withdrawal,Dining,Evening
+6620,3149,Bank Transfer,Groceries,Evening
+6621,2888,Bank Transfer,Dining,Afternoon
+6622,1545,Bank Transfer,Clothing,Evening
+6623,545,Bank Transfer,Travel,Morning
+6624,958,ATM Withdrawal,Electronics,Night
+6625,4968,Bank Transfer,Travel,Evening
+6626,2652,POS,Electronics,Afternoon
+6627,3951,ATM Withdrawal,Dining,Morning
+6628,1031,ATM Withdrawal,Groceries,Afternoon
+6629,443,POS,Groceries,Evening
+6630,1413,Online,Dining,Evening
+6631,3521,Bank Transfer,Electronics,Evening
+6632,2945,ATM Withdrawal,Dining,Evening
+6633,4888,Bank Transfer,Electronics,Morning
+6634,4274,Bank Transfer,Dining,Night
+6635,4814,POS,Dining,Evening
+6636,3343,POS,Dining,Afternoon
+6637,1612,POS,Groceries,Morning
+6638,238,Bank Transfer,Electronics,Morning
+6639,4532,ATM Withdrawal,Cash,Morning
+6640,4227,ATM Withdrawal,Dining,Afternoon
+6641,2206,Online,Travel,Night
+6642,2909,Bank Transfer,Travel,Afternoon
+6643,120,Online,Groceries,Afternoon
+6644,1254,Online,Clothing,Afternoon
+6645,4169,Online,Cash,Evening
+6646,2695,Online,Groceries,Evening
+6647,3811,Online,Clothing,Afternoon
+6648,3877,Bank Transfer,Groceries,Afternoon
+6649,1387,POS,Travel,Evening
+6650,1781,Online,Dining,Evening
+6651,22,ATM Withdrawal,Electronics,Night
+6652,4344,Bank Transfer,Dining,Afternoon
+6653,3271,Online,Travel,Morning
+6654,672,ATM Withdrawal,Electronics,Night
+6655,3102,Online,Clothing,Morning
+6656,703,POS,Clothing,Night
+6657,3400,Bank Transfer,Travel,Afternoon
+6658,1191,POS,Electronics,Morning
+6659,3028,ATM Withdrawal,Dining,Evening
+6660,1514,Online,Travel,Night
+6661,1912,POS,Clothing,Morning
+6662,4181,POS,Travel,Night
+6663,338,Online,Dining,Afternoon
+6664,1449,Bank Transfer,Groceries,Morning
+6665,3856,ATM Withdrawal,Cash,Morning
+6666,4177,Bank Transfer,Cash,Morning
+6667,234,ATM Withdrawal,Cash,Night
+6668,2530,ATM Withdrawal,Groceries,Evening
+6669,3724,POS,Dining,Evening
+6670,2417,Online,Electronics,Evening
+6671,820,Bank Transfer,Travel,Afternoon
+6672,3127,POS,Dining,Morning
+6673,4783,POS,Groceries,Evening
+6674,3300,POS,Clothing,Evening
+6675,4396,Bank Transfer,Cash,Morning
+6676,2261,POS,Cash,Afternoon
+6677,4671,Online,Dining,Night
+6678,2539,POS,Cash,Night
+6679,4616,POS,Cash,Night
+6680,933,ATM Withdrawal,Dining,Morning
+6681,3062,POS,Dining,Afternoon
+6682,25,Bank Transfer,Groceries,Morning
+6683,3606,Bank Transfer,Groceries,Night
+6684,2413,Online,Cash,Evening
+6685,4461,Bank Transfer,Dining,Evening
+6686,4935,Bank Transfer,Dining,Evening
+6687,4020,POS,Cash,Night
+6688,2656,Online,Electronics,Afternoon
+6689,1111,Bank Transfer,Clothing,Night
+6690,2985,Online,Travel,Morning
+6691,1100,Online,Travel,Afternoon
+6692,2916,ATM Withdrawal,Cash,Evening
+6693,1756,ATM Withdrawal,Travel,Afternoon
+6694,4319,POS,Groceries,Afternoon
+6695,1730,Bank Transfer,Groceries,Night
+6696,458,POS,Electronics,Afternoon
+6697,3022,POS,Cash,Night
+6698,3514,Online,Groceries,Morning
+6699,1578,Online,Cash,Afternoon
+6700,3196,Online,Cash,Afternoon
+6701,3501,POS,Dining,Afternoon
+6702,2556,Bank Transfer,Clothing,Evening
+6703,4815,POS,Clothing,Night
+6704,4485,POS,Cash,Night
+6705,1057,POS,Clothing,Evening
+6706,4644,ATM Withdrawal,Clothing,Night
+6707,4858,ATM Withdrawal,Travel,Morning
+6708,4640,Bank Transfer,Travel,Evening
+6709,4778,ATM Withdrawal,Dining,Night
+6710,1074,POS,Electronics,Morning
+6711,3831,ATM Withdrawal,Groceries,Night
+6712,577,ATM Withdrawal,Groceries,Evening
+6713,1446,POS,Travel,Night
+6714,4520,Bank Transfer,Cash,Morning
+6715,4554,ATM Withdrawal,Clothing,Morning
+6716,4715,POS,Dining,Morning
+6717,2715,POS,Electronics,Night
+6718,2493,POS,Travel,Evening
+6719,4810,Online,Cash,Night
+6720,4839,POS,Dining,Afternoon
+6721,3789,ATM Withdrawal,Cash,Evening
+6722,4905,ATM Withdrawal,Dining,Afternoon
+6723,2804,POS,Travel,Night
+6724,1870,Online,Dining,Evening
+6725,3346,Online,Clothing,Afternoon
+6726,1900,Online,Dining,Night
+6727,4836,ATM Withdrawal,Electronics,Evening
+6728,4301,Online,Dining,Morning
+6729,1107,Bank Transfer,Groceries,Morning
+6730,1648,Bank Transfer,Dining,Morning
+6731,1668,Online,Cash,Afternoon
+6732,1135,Bank Transfer,Travel,Afternoon
+6733,273,POS,Groceries,Night
+6734,3002,Online,Travel,Morning
+6735,170,Online,Cash,Afternoon
+6736,1266,Online,Electronics,Morning
+6737,4875,POS,Clothing,Night
+6738,320,POS,Electronics,Evening
+6739,236,Online,Groceries,Afternoon
+6740,282,ATM Withdrawal,Cash,Afternoon
+6741,4422,ATM Withdrawal,Cash,Evening
+6742,1932,Bank Transfer,Clothing,Afternoon
+6743,3167,POS,Dining,Night
+6744,2348,Bank Transfer,Groceries,Afternoon
+6745,1611,Bank Transfer,Clothing,Afternoon
+6746,3728,Online,Travel,Evening
+6747,2432,ATM Withdrawal,Clothing,Night
+6748,1935,Bank Transfer,Travel,Morning
+6749,576,Online,Travel,Morning
+6750,2925,POS,Cash,Evening
+6751,261,Bank Transfer,Clothing,Night
+6752,2364,ATM Withdrawal,Cash,Evening
+6753,3511,POS,Cash,Evening
+6754,4780,Online,Electronics,Morning
+6755,2321,POS,Electronics,Night
+6756,2125,Bank Transfer,Cash,Night
+6757,1612,POS,Cash,Evening
+6758,3280,POS,Travel,Morning
+6759,523,POS,Cash,Night
+6760,451,ATM Withdrawal,Groceries,Evening
+6761,10,Bank Transfer,Clothing,Afternoon
+6762,912,Online,Groceries,Morning
+6763,1230,ATM Withdrawal,Electronics,Night
+6764,2331,Bank Transfer,Groceries,Night
+6765,865,Online,Dining,Night
+6766,1027,Online,Dining,Morning
+6767,2230,Online,Electronics,Evening
+6768,4690,Bank Transfer,Groceries,Afternoon
+6769,3514,Online,Clothing,Night
+6770,4560,Online,Electronics,Morning
+6771,205,ATM Withdrawal,Dining,Night
+6772,4704,Online,Electronics,Evening
+6773,1342,POS,Groceries,Afternoon
+6774,4661,ATM Withdrawal,Groceries,Night
+6775,1527,ATM Withdrawal,Groceries,Morning
+6776,4544,Bank Transfer,Travel,Evening
+6777,2707,Online,Groceries,Afternoon
+6778,4464,POS,Cash,Morning
+6779,3117,POS,Dining,Night
+6780,1067,Online,Dining,Morning
+6781,2715,Online,Travel,Afternoon
+6782,2073,Bank Transfer,Dining,Evening
+6783,2802,POS,Dining,Evening
+6784,430,ATM Withdrawal,Electronics,Night
+6785,4658,Bank Transfer,Groceries,Night
+6786,2824,Bank Transfer,Cash,Night
+6787,2850,ATM Withdrawal,Cash,Night
+6788,1041,Bank Transfer,Electronics,Afternoon
+6789,1501,Online,Cash,Night
+6790,4985,ATM Withdrawal,Electronics,Morning
+6791,1895,ATM Withdrawal,Cash,Afternoon
+6792,4957,POS,Dining,Afternoon
+6793,519,ATM Withdrawal,Clothing,Night
+6794,1869,Bank Transfer,Groceries,Afternoon
+6795,1868,POS,Clothing,Morning
+6796,923,Bank Transfer,Dining,Afternoon
+6797,2075,Online,Travel,Afternoon
+6798,2976,Online,Electronics,Morning
+6799,4899,POS,Cash,Morning
+6800,3847,POS,Cash,Afternoon
+6801,1606,Bank Transfer,Dining,Evening
+6802,4452,Online,Cash,Afternoon
+6803,1065,POS,Dining,Morning
+6804,1033,Online,Clothing,Morning
+6805,3214,Online,Travel,Morning
+6806,585,Online,Electronics,Evening
+6807,208,Bank Transfer,Cash,Morning
+6808,1375,Bank Transfer,Travel,Night
+6809,2008,Online,Travel,Night
+6810,1026,Online,Travel,Evening
+6811,3628,Online,Groceries,Morning
+6812,35,ATM Withdrawal,Travel,Morning
+6813,1568,ATM Withdrawal,Dining,Night
+6814,3734,Bank Transfer,Groceries,Night
+6815,3468,Online,Groceries,Afternoon
+6816,3366,ATM Withdrawal,Travel,Evening
+6817,2377,POS,Cash,Afternoon
+6818,480,POS,Cash,Evening
+6819,2477,Online,Cash,Morning
+6820,4756,ATM Withdrawal,Cash,Morning
+6821,895,POS,Dining,Evening
+6822,885,Bank Transfer,Cash,Afternoon
+6823,951,POS,Electronics,Night
+6824,3051,Bank Transfer,Travel,Evening
+6825,581,POS,Groceries,Evening
+6826,4159,POS,Electronics,Evening
+6827,614,ATM Withdrawal,Cash,Morning
+6828,4430,POS,Electronics,Evening
+6829,3539,POS,Groceries,Morning
+6830,4990,Bank Transfer,Cash,Night
+6831,4370,Bank Transfer,Electronics,Night
+6832,391,POS,Dining,Afternoon
+6833,1246,Online,Dining,Morning
+6834,2390,POS,Travel,Night
+6835,3789,POS,Travel,Night
+6836,2115,ATM Withdrawal,Electronics,Afternoon
+6837,1527,POS,Groceries,Afternoon
+6838,1543,POS,Dining,Afternoon
+6839,3304,Bank Transfer,Clothing,Morning
+6840,3450,Bank Transfer,Travel,Evening
+6841,3499,Bank Transfer,Dining,Morning
+6842,3955,Bank Transfer,Cash,Afternoon
+6843,4652,POS,Electronics,Evening
+6844,880,Online,Dining,Night
+6845,2160,ATM Withdrawal,Dining,Morning
+6846,3242,ATM Withdrawal,Electronics,Afternoon
+6847,3241,Online,Travel,Afternoon
+6848,3776,Online,Travel,Evening
+6849,4970,ATM Withdrawal,Clothing,Morning
+6850,3217,POS,Clothing,Night
+6851,4503,ATM Withdrawal,Travel,Night
+6852,4497,Online,Travel,Evening
+6853,3836,POS,Travel,Evening
+6854,1622,ATM Withdrawal,Travel,Night
+6855,1087,POS,Dining,Evening
+6856,1310,POS,Clothing,Evening
+6857,2168,Online,Electronics,Morning
+6858,2281,Bank Transfer,Groceries,Evening
+6859,2539,ATM Withdrawal,Electronics,Afternoon
+6860,3270,Online,Cash,Afternoon
+6861,373,ATM Withdrawal,Groceries,Afternoon
+6862,855,Bank Transfer,Dining,Evening
+6863,3042,Bank Transfer,Cash,Night
+6864,1337,Bank Transfer,Clothing,Afternoon
+6865,3172,Bank Transfer,Groceries,Morning
+6866,401,ATM Withdrawal,Travel,Evening
+6867,3265,POS,Cash,Night
+6868,2069,POS,Dining,Night
+6869,3247,Bank Transfer,Groceries,Evening
+6870,2056,Bank Transfer,Travel,Evening
+6871,4251,POS,Cash,Morning
+6872,1315,Online,Dining,Evening
+6873,2904,Bank Transfer,Cash,Evening
+6874,2042,POS,Groceries,Night
+6875,774,Online,Travel,Afternoon
+6876,508,POS,Clothing,Afternoon
+6877,3378,Online,Dining,Night
+6878,2954,ATM Withdrawal,Groceries,Evening
+6879,3814,Online,Travel,Morning
+6880,4223,Bank Transfer,Clothing,Afternoon
+6881,4470,Online,Cash,Evening
+6882,145,Online,Travel,Afternoon
+6883,1110,Bank Transfer,Clothing,Night
+6884,1881,ATM Withdrawal,Groceries,Afternoon
+6885,4043,Online,Travel,Night
+6886,4123,ATM Withdrawal,Travel,Night
+6887,4022,POS,Electronics,Night
+6888,214,POS,Dining,Morning
+6889,4604,Bank Transfer,Travel,Evening
+6890,2381,ATM Withdrawal,Clothing,Night
+6891,4700,Bank Transfer,Dining,Night
+6892,571,Bank Transfer,Groceries,Afternoon
+6893,3324,Online,Dining,Evening
+6894,3970,POS,Electronics,Morning
+6895,2536,Bank Transfer,Groceries,Morning
+6896,2221,Online,Travel,Afternoon
+6897,2381,Online,Cash,Morning
+6898,4745,ATM Withdrawal,Groceries,Afternoon
+6899,2691,POS,Groceries,Evening
+6900,2816,ATM Withdrawal,Electronics,Afternoon
+6901,3779,ATM Withdrawal,Clothing,Afternoon
+6902,2265,Bank Transfer,Groceries,Night
+6903,4420,ATM Withdrawal,Clothing,Morning
+6904,910,Bank Transfer,Dining,Evening
+6905,1760,ATM Withdrawal,Cash,Evening
+6906,4909,Online,Electronics,Night
+6907,3305,POS,Travel,Afternoon
+6908,3169,POS,Groceries,Evening
+6909,1462,POS,Cash,Evening
+6910,1253,Online,Cash,Afternoon
+6911,2332,Online,Clothing,Afternoon
+6912,1680,ATM Withdrawal,Groceries,Evening
+6913,2037,ATM Withdrawal,Cash,Afternoon
+6914,1778,ATM Withdrawal,Electronics,Morning
+6915,3673,ATM Withdrawal,Travel,Evening
+6916,2312,POS,Dining,Afternoon
+6917,1179,ATM Withdrawal,Dining,Evening
+6918,4720,Online,Clothing,Evening
+6919,2442,Online,Cash,Night
+6920,396,Online,Dining,Morning
+6921,2440,Bank Transfer,Clothing,Morning
+6922,3358,Bank Transfer,Travel,Night
+6923,1415,Bank Transfer,Groceries,Night
+6924,133,ATM Withdrawal,Electronics,Evening
+6925,4007,POS,Travel,Morning
+6926,3462,POS,Travel,Night
+6927,3906,ATM Withdrawal,Dining,Afternoon
+6928,1634,ATM Withdrawal,Dining,Evening
+6929,1191,Bank Transfer,Electronics,Morning
+6930,737,Online,Groceries,Evening
+6931,3894,Online,Travel,Evening
+6932,3680,Bank Transfer,Cash,Afternoon
+6933,1151,Bank Transfer,Dining,Afternoon
+6934,2385,POS,Travel,Night
+6935,4041,Bank Transfer,Groceries,Afternoon
+6936,368,Online,Clothing,Morning
+6937,3752,Online,Groceries,Night
+6938,2854,ATM Withdrawal,Travel,Morning
+6939,4548,POS,Travel,Morning
+6940,2221,ATM Withdrawal,Electronics,Night
+6941,982,POS,Travel,Afternoon
+6942,370,ATM Withdrawal,Dining,Evening
+6943,2642,POS,Cash,Afternoon
+6944,3200,Bank Transfer,Electronics,Morning
+6945,4958,Online,Travel,Morning
+6946,1634,Bank Transfer,Groceries,Night
+6947,3938,POS,Travel,Morning
+6948,1766,POS,Groceries,Night
+6949,250,ATM Withdrawal,Groceries,Night
+6950,4771,POS,Travel,Afternoon
+6951,985,Bank Transfer,Groceries,Morning
+6952,4328,POS,Cash,Afternoon
+6953,2323,POS,Clothing,Evening
+6954,1315,ATM Withdrawal,Electronics,Afternoon
+6955,797,POS,Travel,Morning
+6956,2438,ATM Withdrawal,Clothing,Evening
+6957,565,Online,Groceries,Morning
+6958,2119,ATM Withdrawal,Groceries,Evening
+6959,4952,POS,Electronics,Morning
+6960,2659,Online,Clothing,Afternoon
+6961,1569,POS,Clothing,Morning
+6962,4245,ATM Withdrawal,Travel,Night
+6963,1373,Bank Transfer,Groceries,Night
+6964,3969,Online,Dining,Afternoon
+6965,599,Bank Transfer,Travel,Afternoon
+6966,1759,Bank Transfer,Travel,Evening
+6967,550,Online,Travel,Afternoon
+6968,2432,Bank Transfer,Electronics,Night
+6969,300,Bank Transfer,Electronics,Afternoon
+6970,2100,Bank Transfer,Travel,Night
+6971,3945,Bank Transfer,Cash,Afternoon
+6972,3968,Online,Dining,Night
+6973,3869,POS,Clothing,Evening
+6974,1265,Bank Transfer,Clothing,Morning
+6975,17,Online,Groceries,Morning
+6976,1667,Online,Clothing,Night
+6977,4588,Online,Clothing,Afternoon
+6978,4438,Online,Dining,Afternoon
+6979,1266,ATM Withdrawal,Clothing,Morning
+6980,3960,POS,Dining,Night
+6981,1049,POS,Electronics,Afternoon
+6982,2126,Bank Transfer,Dining,Morning
+6983,694,Online,Electronics,Night
+6984,4028,ATM Withdrawal,Dining,Evening
+6985,1807,Online,Travel,Afternoon
+6986,1834,Bank Transfer,Cash,Afternoon
+6987,3544,POS,Electronics,Night
+6988,72,Bank Transfer,Electronics,Morning
+6989,270,Bank Transfer,Clothing,Night
+6990,3581,Bank Transfer,Electronics,Morning
+6991,3202,Bank Transfer,Dining,Night
+6992,4963,Bank Transfer,Travel,Evening
+6993,1498,Bank Transfer,Travel,Afternoon
+6994,1140,Bank Transfer,Clothing,Morning
+6995,4285,POS,Dining,Evening
+6996,364,POS,Dining,Night
+6997,2784,Online,Groceries,Morning
+6998,598,Online,Electronics,Morning
+6999,614,ATM Withdrawal,Clothing,Evening
+7000,2238,ATM Withdrawal,Travel,Night
