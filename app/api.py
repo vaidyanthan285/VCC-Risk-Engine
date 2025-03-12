@@ -123,6 +123,10 @@ def detect_fraud_api():
     result = detect_fraud(data["transaction"])
     return jsonify(result)
 
+@app.route('/health', methods=['GET'])
+def health_check():
+    return jsonify({"status": "healthy"}), 200
+
 # ✅ Run the Flask App
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5000)
